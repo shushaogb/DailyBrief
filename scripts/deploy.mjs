@@ -46,30 +46,34 @@ const todayShanghai = new Intl.DateTimeFormat("en-CA", {
   day: "2-digit",
 }).format(new Date());
 
+function reportPath(d) {
+  return path.join("daily_reports", d, `${d}.html`);
+}
+
 let date;
 let localFile;
 if (dateArg) {
   date = dateArg;
-  localFile = path.join("daily_reports", `${date}.html`);
+  localFile = reportPath(date);
   if (!fs.existsSync(localFile)) {
     console.error(`[deploy] local file missing: ${localFile}`);
     process.exit(1);
   }
-} else if (fs.existsSync(path.join("daily_reports", `${todayShanghai}.html`))) {
+} else if (fs.existsSync(reportPath(todayShanghai))) {
   date = todayShanghai;
-  localFile = path.join("daily_reports", `${date}.html`);
+  localFile = reportPath(todayShanghai);
 } else {
-  const reports = fs
+  const dirs = fs
     .readdirSync("daily_reports")
-    .filter((f) => /^\d{4}-\d{2}-\d{2}\.html$/.test(f))
+    .filter((f) => /^\d{4}-\d{2}-\d{2}$/.test(f))
+    .filter((f) => fs.existsSync(reportPath(f)))
     .sort();
-  if (reports.length === 0) {
-    console.error("[deploy] no <YYYY-MM-DD>.html files in daily_reports/");
+  if (dirs.length === 0) {
+    console.error("[deploy] no <YYYY-MM-DD>/<YYYY-MM-DD>.html files in daily_reports/");
     process.exit(1);
   }
-  const latest = reports[reports.length - 1];
-  date = latest.replace(/\.html$/, "");
-  localFile = path.join("daily_reports", latest);
+  date = dirs[dirs.length - 1];
+  localFile = reportPath(date);
   console.log(`[deploy] today (${todayShanghai}) not generated yet, deploying latest: ${date}`);
 }
 

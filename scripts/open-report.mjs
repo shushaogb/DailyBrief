@@ -23,21 +23,22 @@ function pickReport(dateArg) {
     throw new Error(`No daily_reports directory at ${reportsDir}`);
   }
   if (dateArg) {
-    const target = path.join(reportsDir, `${dateArg}.html`);
+    const target = path.join(reportsDir, dateArg, `${dateArg}.html`);
     if (!fs.existsSync(target)) {
       throw new Error(`No report for ${dateArg}: ${target}`);
     }
     return target;
   }
-  const htmls = fs
+  const dirs = fs
     .readdirSync(reportsDir)
-    .filter((f) => f.endsWith(".html"))
-    .sort()
-    .reverse();
-  if (htmls.length === 0) {
+    .filter((f) => /^\d{4}-\d{2}-\d{2}$/.test(f))
+    .map((d) => ({ d, file: path.join(reportsDir, d, `${d}.html`) }))
+    .filter((x) => fs.existsSync(x.file))
+    .sort((a, b) => b.d.localeCompare(a.d));
+  if (dirs.length === 0) {
     throw new Error(`No HTML reports in ${reportsDir}. Run \`npm run daily\` first.`);
   }
-  return path.join(reportsDir, htmls[0]);
+  return dirs[0].file;
 }
 
 function findChromeWindows() {

@@ -24,7 +24,7 @@ const OUTPUT_DIR = "daily_reports";
  *   npm run render -- 2026-05-15  # specific date
  */
 function loadReport(date: string): DailyReport {
-  const file = path.join(OUTPUT_DIR, `${date}.json`);
+  const file = path.join(OUTPUT_DIR, date, `${date}.json`);
   if (!fs.existsSync(file)) {
     throw new Error(`Report JSON not found: ${file}`);
   }
@@ -32,7 +32,7 @@ function loadReport(date: string): DailyReport {
 }
 
 function loadArticles(date: string): ArticleInput[] {
-  const file = path.join(OUTPUT_DIR, `${date}-articles.json`);
+  const file = path.join(OUTPUT_DIR, date, `${date}-articles.json`);
   if (!fs.existsSync(file)) {
     throw new Error(
       `Articles sidecar not found: ${file}\n` +
@@ -59,10 +59,16 @@ async function main() {
   console.log(`[render] loaded ${articles.length} articles + report`);
 
   const raw = groupRaw(articles, sources);
-  const base = path.join(OUTPUT_DIR, date);
+  const dateDir = path.join(OUTPUT_DIR, date);
+  fs.mkdirSync(dateDir, { recursive: true });
+  const base = path.join(dateDir, date);
   fs.writeFileSync(`${base}.html`, renderHtml(report, raw, date), "utf8");
-  fs.writeFileSync(`${base}.md`, renderMarkdown(report, date), "utf8");
-  console.log(`[render] wrote ${base}.{html,md}`);
+  if (process.env.OUTPUT_MARKDOWN === "true") {
+    fs.writeFileSync(`${base}.md`, renderMarkdown(report, date), "utf8");
+    console.log(`[render] wrote ${base}.{html,md}`);
+  } else {
+    console.log(`[render] wrote ${base}.html`);
+  }
 }
 
 main().catch((e) => {

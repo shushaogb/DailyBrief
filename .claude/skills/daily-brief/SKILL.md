@@ -5,7 +5,7 @@ description: Operational knowledge for the daily-brief digest pipeline (this pro
 
 # daily-brief — Operational Skill
 
-This project generates a single-page HTML daily digest covering tech / finance / politics / market data / community discussion. The pipeline runs locally via the OS scheduler (Windows Task Scheduler / macOS launchd / Linux cron, default 16:00 local time) and emits `daily_reports/<UTC-date>.html` + sidecar files.
+This project generates a single-page HTML daily digest covering tech / finance / politics / market data / community discussion. The pipeline runs locally via the OS scheduler (Windows Task Scheduler / macOS launchd / Linux cron, default 16:00 local time) and emits `daily_reports/<UTC-date>/<UTC-date>.html` + sidecar files (each date gets its own subdir).
 
 Detailed architecture lives in code; this skill is a cheat sheet for **operating** and **diagnosing**, not a re-explanation of the system.
 
@@ -39,7 +39,7 @@ The config file is written by `node scripts/install.mjs --global`. If it's missi
 | Open today's report in Chrome | `npm run open` | instant |
 | Sonnet quota + call history | `npm run quota-report` | instant |
 
-`[date]` defaults to today's UTC date (`YYYY-MM-DD`). Pipeline uses UTC for filenames but the wrapper script and Task Scheduler use local time, so `daily_reports/2026-05-17.html` may be produced by a local-evening trigger on May 16.
+`[date]` defaults to today's UTC date (`YYYY-MM-DD`). Pipeline uses UTC for filenames but the wrapper script and Task Scheduler use local time, so `daily_reports/2026-05-17/2026-05-17.html` may be produced by a local-evening trigger on May 16.
 
 `<cat:sub>` accepted by `regen-enrich`: `finance:news`, `politics:world`, `tech:ai-news`. Single-source X 推文 (`tech:x-viral`) is enriched as part of `daily` only — no top-up path.
 
@@ -79,7 +79,7 @@ Order matters — top-to-bottom:
    ```bash
    node -e "const fs=require('fs'),d=new Date(),pad=n=>String(n).padStart(2,'0');console.log(fs.readFileSync('logs/daily-'+d.getFullYear()+'-'+pad(d.getMonth()+1)+'-'+pad(d.getDate())+'.log','utf8').split('\n').slice(-40).join('\n'))"
    ```
-3. Check report files exist: `ls daily_reports/` (any platform) or `Get-ChildItem daily_reports\` (Windows)
+3. Check report files exist: `ls daily_reports/<date>/` (any platform) or `Get-ChildItem daily_reports\<date>\` (Windows)
 
 ### "某个源数据不对 / 0 条"
 1. Look at fetch lines near top of log — `<id> <count>` or `<id> FAILED — <reason>`

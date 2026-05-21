@@ -244,8 +244,9 @@ async function main() {
   if (trading) report.trading = trading;
   console.log(`[daily] digest ready in ${((Date.now() - t0) / 1000).toFixed(1)}s`);
 
-  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
-  const base = path.join(OUTPUT_DIR, date);
+  const dateDir = path.join(OUTPUT_DIR, date);
+  fs.mkdirSync(dateDir, { recursive: true });
+  const base = path.join(dateDir, date);
   const raw = groupRaw(articles, sources);
   fs.writeFileSync(`${base}.json`, JSON.stringify(report, null, 2), "utf8");
   // Sidecar with all fetched articles + LLM-attached summary, so
@@ -257,8 +258,12 @@ async function main() {
     "utf8",
   );
   fs.writeFileSync(`${base}.html`, renderHtml(report, raw, date), "utf8");
-  fs.writeFileSync(`${base}.md`, renderMarkdown(report, date), "utf8");
-  console.log(`[daily] wrote ${base}.{json,html,md,articles.json}`);
+  if (process.env.OUTPUT_MARKDOWN === "true") {
+    fs.writeFileSync(`${base}.md`, renderMarkdown(report, date), "utf8");
+    console.log(`[daily] wrote ${base}.{json,html,md,articles.json}`);
+  } else {
+    console.log(`[daily] wrote ${base}.{json,html,articles.json}`);
+  }
 
   console.log(`[daily] done.`);
 }

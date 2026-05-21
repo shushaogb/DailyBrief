@@ -48,7 +48,7 @@ async function main() {
     throw new Error(`Unknown category: ${category}`);
   }
 
-  const sidecarPath = path.join(OUTPUT_DIR, `${date}-articles.json`);
+  const sidecarPath = path.join(OUTPUT_DIR, date, `${date}-articles.json`);
   if (!fs.existsSync(sidecarPath)) {
     throw new Error(`Sidecar not found: ${sidecarPath}`);
   }

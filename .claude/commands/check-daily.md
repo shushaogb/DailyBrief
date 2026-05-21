@@ -26,7 +26,7 @@ If the task/job isn't registered: tell the user to run `node scripts/install.mjs
 
 **Latest report files** (cross-platform):
 ```bash
-node -e "const fs=require('fs');const d='daily_reports';if(!fs.existsSync(d)){console.log('(no reports yet)');return}fs.readdirSync(d).filter(f=>f.endsWith('.html')).sort().reverse().slice(0,3).forEach(f=>{const s=fs.statSync(d+'/'+f);console.log(f.padEnd(25),s.size+'B',s.mtime.toISOString())})"
+node -e "const fs=require('fs'),path=require('path');const root='daily_reports';if(!fs.existsSync(root)){console.log('(no reports yet)');return}fs.readdirSync(root).filter(d=>/^\d{4}-\d{2}-\d{2}/.test(d)).sort().reverse().slice(0,3).forEach(d=>{const f=path.join(root,d,d+'.html');if(fs.existsSync(f)){const s=fs.statSync(f);console.log(d.padEnd(25),s.size+'B',s.mtime.toISOString())}})"
 ```
 
 **Today's log tail** (local date):

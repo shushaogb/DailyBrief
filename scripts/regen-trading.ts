@@ -29,7 +29,7 @@ const OUTPUT_DIR = "daily_reports";
  */
 async function main() {
   const date = process.argv[2] || todayKey();
-  const base = path.join(OUTPUT_DIR, date);
+  const base = path.join(OUTPUT_DIR, date, date);
   const jsonPath = `${base}.json`;
   if (!fs.existsSync(jsonPath)) {
     throw new Error(`Report JSON not found: ${jsonPath}`);
