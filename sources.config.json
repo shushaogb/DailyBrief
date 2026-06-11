@@ -6,7 +6,7 @@
     "url": "https://github.com/trending",
     "category": "tech",
     "subcategory": "github-trending",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
