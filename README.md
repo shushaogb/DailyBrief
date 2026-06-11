@@ -42,7 +42,7 @@
 
 ### 🧑‍💻 技术动态
 
-<p align="center"><img src="docs/screenshots/tech.png" alt="技术动态 — GitHub Trending / X 推文 / AI 媒体" width="720"></p>
+<p align="center"><img src="docs/screenshots/tech.png" alt="技术动态02 — GitHub Trending / X 推文 / AI 媒体" width="720"></p>
 
 - **GitHub Trending** · 热榜每日刷新
 - **AI 媒体**（merged）：OpenAI / DeepMind / Hugging Face Blog / TLDR AI / Smol AI / Latent Space / MIT Tech Review
