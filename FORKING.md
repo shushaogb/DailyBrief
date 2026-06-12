@@ -60,7 +60,7 @@ For **non-RSS source types** (custom JSON API, scraping), create a new file in `
 
 ```ts
 const CATEGORY_LABELS: Record<Category, string> = {
-  tech: "技术动态",        // ← rename here
+  tech: "技术动态01",        // ← rename here
   finance: "财经要点",
   politics: "时政观察",
 };
