@@ -143,6 +143,7 @@ L1 tabs in order: `tech / trading / politics / finance / community`
 
 ```
 技术动态03 (tech)
+  L2: X 推文(关键)      (single source attentionvc-ai, cap 20, preserve fetch order)
   L2: GitHub Trending  (per-source, cap 20)
   L2: X 推文           (single source attentionvc-ai, cap 20, preserve fetch order)
   L2: AI 媒体          (merged 7 RSS sources, cap 15, summary)
