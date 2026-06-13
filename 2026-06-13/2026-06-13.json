@@ -1,143 +1,143 @@
 {
-  "hero_headline": "马斯克成世界首位万亿富豪，SpaceX上市",
-  "daily_overview": "今日科技界：Anthropic发布Claude Fable 5即遭美国出口管制，禁止外国访问；智谱GLM-5.2全量开放，编程评测超Claude Opus 4.6；Google DeepMind推出DiffusionGemma文本生成提速4倍。财经方面：SpaceX上市推马斯克身家破万亿，英国经济因伊朗战争意外收缩，全球战略石油储备告急。时政方面：美委联合击毙委内瑞拉黑帮头目，瑞士公投人口上限，美国以出口管制遏制AI扩散。",
+  "hero_headline": "美国出口管制迫使Anthropic停用Fable 5",
+  "daily_overview": "今日，美国以出口管制为由要求Anthropic立即中止所有外国用户对Claude Fable 5的访问，AI模型的地缘博弈进入新阶段；与此同时，SpaceX纳斯达克上市市值突破2.2万亿美元，马斯克成为全球首位万亿富翁，太空经济爆发力凸显；瑞士就人口上限公投、英国经济受伊朗战事拖累收缩，地缘与能源压力持续发酵。技术领域，智谱GLM-5.2全量开放、DeepMind推出4倍速文本生成模型DiffusionGemma，AI竞赛愈发激烈。",
   "tech_briefs": [
     {
-      "title": "Anthropic发布Claude Fable 5，遭美国出口管制",
+      "title": "Anthropic发布Claude Fable 5和Mythos 5，性能引争议",
       "url": "https://news.smol.ai/issues/26-06-09-anthropic-claude-fable-5/",
       "source": "Smol AI News",
-      "summary": "Anthropic发布Claude Fable 5及Mythos 5，美国商务部以出口管制为由要求暂停向所有外国人提供服务，引发社区热议。（多家报道）",
-      "importance": 10
-    },
-    {
-      "title": "智谱GLM-5.2全量开放，编程评测表现亮眼",
-      "url": "https://www.v2ex.com/t/1220146",
-      "source": "V2EX",
-      "summary": "智谱GLM-5.2正式向开发者开放，在编程工程测试中超越Claude Opus 4.6，社区反响热烈。（多家报道）",
+      "summary": "Anthropic推出Claude Fable 5（通用可用）和Mythos 5（受限访问），声称性能超越前代，但安全性争议持续。多家报道。",
       "importance": 9
     },
     {
-      "title": "Google DeepMind发布DiffusionGemma，文本生成提速4倍",
-      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-      "source": "DeepMind Blog",
-      "summary": "DiffusionGemma采用扩散模型实现非自回归文本生成，速度较传统方法提升4倍，引发性能关注。（多家报道）",
-      "importance": 7
+      "title": "智谱GLM-5.2全量开放，编程评测超越Opus 4.6",
+      "url": "https://www.v2ex.com/t/1220146",
+      "source": "V2EX",
+      "summary": "智谱AI宣布GLM-5.2模型对开发者全量开放，第三方编程测评显示其能力超过Anthropic Opus 4.6，引发社区热议。多家报道。",
+      "importance": 9
     },
     {
-      "title": "OpenAI收购Ona，强化AI工作流能力",
-      "url": "https://tldr.tech/ai/2026-06-12",
-      "source": "TLDR AI",
-      "summary": "OpenAI完成对Ona的收购，具体金额未披露，旨在增强代理工作流和协作能力。",
+      "title": "DeepMind发布DiffusionGemma，文本生成速度提升4倍",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "source": "DeepMind Blog",
+      "summary": "Google DeepMind推出DiffusionGemma模型，采用扩散架构实现文本生成速度提升4倍，同时保持同等质量。",
+      "importance": 8
+    },
+    {
+      "title": "OpenAI推出新一代「应用AI」免费课程",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "source": "OpenAI News",
+      "summary": "OpenAI发布三门新课程，帮助用户掌握实用AI技能、创建可重复工作流以及在日常工作中应用AI Agent。",
       "importance": 6
     },
     {
-      "title": "Google DeepMind联合投资多智能体AI安全研究",
-      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-      "source": "DeepMind Blog",
-      "summary": "Google DeepMind与合作伙伴宣布1000万美元资助计划，研究数百万AI代理交互时的安全风险。",
-      "importance": 8
+      "title": "MiniMax提出稀疏注意力机制，支持超长上下文",
+      "url": "https://huggingface.co/papers/2606.13392",
+      "source": "HuggingFace Trending Papers",
+      "summary": "MiniMax发布稀疏注意力论文，使LLM能够高效处理远超传统长度限制的上下文，适用于代理工作流和仓库级代码推理。",
+      "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "SpaceX上市，马斯克成全球首位万亿富豪",
-      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o",
+      "title": "SpaceX纳斯达克上市，马斯克成为全球首位万亿富翁",
+      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "SpaceX在纳斯达克上市，估值2.2万亿美元，马斯克个人财富达1.11万亿美元，成世界首个万亿富翁。（多家报道）",
+      "summary": "SpaceX在纳斯达克上市，市值达2.2万亿美元，创始人马斯克个人净资产升至1.11万亿美元，成为全球首位万亿富翁。多家报道。",
       "importance": 10
     },
     {
-      "title": "英国经济因伊朗战争影响意外收缩",
-      "url": "https://www.bbc.com/news/articles/c77y47248k4o",
+      "title": "英国4月经济因伊朗战争意外收缩",
+      "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "英国4月GDP环比下滑，伊朗战争冲击企业活动，市场担忧经济前景进一步恶化。",
-      "importance": 8
+      "summary": "官方数据显示，英国经济4月小幅下滑，伊朗战争对商业活动造成冲击。",
+      "importance": 6
     },
     {
-      "title": "全球战略石油储备加速耗尽，能源危机逼近",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/11/the-worlds-strategic-oil-reserves-are-running-out-fast",
-      "source": "The Economist Finance",
-      "summary": "经济学家警告全球战略石油储备正快速减少，难以长期支撑能源市场供需平衡。",
-      "importance": 7
-    },
-    {
-      "title": "欧央行纳格尔警告物价将长期高企",
+      "title": "欧央行官员警告物价可能长期高位运行",
       "url": "https://www.bloomberg.com/news/articles/2026-06-13/prices-likely-to-stay-higher-even-if-conflict-ends-nagel-says",
       "source": "Bloomberg Markets",
-      "summary": "德国央行行长纳格尔表示，即使伊朗战争结束，物价仍将保持高位，通胀压力持续。",
+      "summary": "德国央行行长Nagel表示，即使伊朗战争结束，物价也可能在较长时间内保持高位。",
       "importance": 7
     },
     {
-      "title": "高盛和摩根大通放宽世界杯期间办公要求",
-      "url": "https://www.ft.com/content/d2afe6bb-9c02-4893-a246-b63d6ae724f6",
-      "source": "Financial Times",
-      "summary": "华尔街大行允许员工在世界杯比赛日申请远程办公，以缓解主办城市交通压力。",
-      "importance": 5
+      "title": "全球战略石油储备正快速耗尽",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/11/the-worlds-strategic-oil-reserves-are-running-out-fast",
+      "source": "The Economist Finance",
+      "summary": "《经济学人》分析指出，多国战略石油储备难以长期抵御能源危机，供给压力加剧。",
+      "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "美委联合行动击毙委内瑞拉黑帮头目",
+      "title": "美国以出口管制为由要求Anthropic对全球禁用Fable 5",
+      "url": "https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "summary": "美国向Anthropic发出出口管制指令，要求立即中断所有外国公民对Claude Fable 5和Mythos 5的访问。",
+      "importance": 10
+    },
+    {
+      "title": "美国联合委内瑞拉打击Tren de Aragua帮派头目被击毙",
       "url": "https://www.nytimes.com/2026/06/13/world/americas/tren-de-aragua-leader-killed-us-venezuela.html",
       "source": "NYT World",
-      "summary": "美国与委内瑞拉联合行动击毙Tren de Aragua头目Niño Guerrero，特朗普称其为「迅速致命的打击」。（多家报道）",
-      "importance": 9
+      "summary": "特朗普宣布美军在委内瑞拉发动精确打击，击毙了Tren de Aragua帮派头目Niño Guerrero，委方确认合作。多家报道。",
+      "importance": 8
     },
     {
-      "title": "瑞士公投决定是否将人口上限设为1000万",
+      "title": "瑞士举行公投，决定是否将人口上限设为1000万",
       "url": "https://www.bloomberg.com/news/articles/2026-06-13/switzerland-asks-if-10-million-people-is-where-to-draw-the-line",
       "source": "Bloomberg Markets",
-      "summary": "瑞士就极右翼提出的限制人口不超过1000万的动议举行全民公投，结果待公布，引发广泛关注。（多家报道）",
-      "importance": 7
-    },
-    {
-      "title": "美国命令Anthropic暂停向外国人提供最新AI模型",
-      "url": "https://www.aljazeera.com/news/2026/6/13/us-orders-anthropic-to-disable-ai-models-for-all-foreign-nationals",
-      "source": "Al Jazeera",
-      "summary": "美国商务部向Anthropic发出出口管制指令，要求其禁止所有外国国民访问Fable 5和Mythos 5模型。",
-      "importance": 10
+      "summary": "瑞士就极右翼提出的限制人口至1000万方案举行全国公投，结果待公布。多家报道。",
+      "importance": 6
     }
   ],
-  "editor_note": "今日AI格局剧烈震荡：Anthropic新模型遭出口管制，智谱开放强劲模型；SpaceX上市引爆万亿市值；地缘政治与能源风险同步升温。",
+  "editor_note": "AI出口管制与开源博弈白热化，SpaceX上市开启财富新纪元，全球经济在战争与能源压力下步入震荡。",
   "keywords": [
-    "Claude Fable 5",
-    "SpaceX IPO",
-    "GLM-5.2",
-    "Tren de Aragua",
-    "瑞士人口上限",
     "出口管制",
-    "多智能体安全",
-    "全球石油储备"
+    "Anthropic",
+    "Fable 5",
+    "马斯克",
+    "万亿富翁",
+    "GLM-5.2",
+    "委内瑞拉打击",
+    "瑞士公投",
+    "伊朗战争"
   ],
   "trading": {
-    "market_overview": "加密市场处于极度恐慌（恐慌贪婪指数13），总市值2.26T，BTC主导率56.4%，ETH 8.9%。美股方面，SPY和QQQ维持多头排列，但MSFT和META已转为空头排列，科技股分化加剧；加密资产普遍空头排列，ETH、SOL等跌离均线较远；中概股同样承压，BABA RSI跌至29.6进入超卖；商品和外汇中，黄金和原油短期走弱，但美元指数DXY多头排列且接近52周高，宏观面利率指标TNX亦保持上行趋势。整体看，多数资产技术面偏弱，仅美股大盘和美元相关资产尚存韧性。",
+    "market_overview": "当前市场技术面分化显著。美股方面，SPY和QQQ维持多头排列，价格位于50日与200日均线上方，RSI在52-55区间，短期动量偏强，但标普500指数距52周高点仅差-2.45%，纳斯达克100距高点-3.65%，上行空间受限。个别科技股如MSFT和META已转为空头排列，RSI低于40，呈现弱势。加密货币整体承压，背景加密恐慌贪婪指数仅13（极度恐慌），总市值2.27万亿美元，BTC主导率56.4%，ETH占8.9%；BTC-USD、ETH-USD价格均低于20日、50日、200日均线，RSI分别为33.6和31.7，逼近超卖区，MACD绿柱持续扩大，空头动能占优。中概股普遍空头，BABA RSI 29.6进入超卖，股价远低于所有均线；PDD、JD同样处于空头排列。商品外汇方面，黄金期货GC=F单日涨3.63%但周跌2.27%，RSI 35.4，价格位于所有均线下方，短期疲弱；WTI原油连跌6.25%，RSI 38；美元指数DXY多头排列且接近52周高，RSI 58.7，美元相对偏强；10Y美债收益率围绕20日线波动，RSI中性。整体来看，市场风险偏好偏低，资金向美股优质标的和美元避险，加密与中概资产技术面持续恶化。",
     "watchlist": [
-      {
-        "symbol": "DX-Y.NYB",
-        "display_name": "美元指数 DXY",
-        "stance": "偏上行",
-        "rationale": "当前价格99.81，高于SMA20（99.42）、SMA50（98.90）、SMA200（98.64），呈多头排列，且距离52周高点仅差0.83%；RSI 58.7处于中性偏强区间；MACD柱状线为正（0.3072），信号线0.2611，保持金叉状态。短期动量向上。"
-      },
-      {
-        "symbol": "ETH-USD",
-        "display_name": "Ethereum",
-        "stance": "偏下行",
-        "rationale": "当前价格1672.65，远低于SMA20（1824.2）、SMA50（2080.37）、SMA200（2414.37），空头排列明确；RSI 31.8接近超卖；MACD为-132.76，信号线-130.94，绿柱持续扩大，空头动能强劲。近5日下跌1.04%，距52周高跌幅达66.23%。"
-      },
       {
         "symbol": "BABA",
         "display_name": "阿里巴巴 (BABA)",
         "stance": "偏下行",
-        "rationale": "价格112.82，位于所有均线之下（SMA20 125.81，SMA50 130.33，SMA200 149.57），空头排列；RSI 29.6处于超卖区；MACD -4.95，信号线-3.35，绿柱发散，下跌趋势延续。近5日下跌6.81%，距52周高点回撤41.44%，技术面承压明显。"
+        "rationale": "RSI 14 仅 29.6，处于超卖区域；股价 112.82 低于所有均线（sma20=125.81，sma50=130.33，sma200=149.57），均线空头排列；MACD = -4.9544，信号线 -3.3542，绿柱微幅扩大，空头动能持续。近 5 日下跌 6.81%，技术面弱势明显。"
       },
       {
-        "symbol": "NVDA",
-        "display_name": "Nvidia",
+        "symbol": "BTC-USD",
+        "display_name": "Bitcoin",
+        "stance": "偏下行",
+        "rationale": "当前 63720 低于所有短期均线（sma20=67478.56，sma50=74144.02，sma200=77766.38），形成空头排列；RSI 14=33.6 逼近超卖；MACD = -3597.11，信号线 -3576.19，负柱扩张；加密恐慌指数仅 13 反映市场极度恐慌，整体空头压力显著。"
+      },
+      {
+        "symbol": "SPY",
+        "display_name": "S&P 500 ETF",
+        "stance": "偏上行",
+        "rationale": "收盘 741.75 虽略低于 20 日均线 745.07，但仍高于 50 日均线 722.8 和 200 日均线 686.3，均线维持多头排列；RSI 14=52.9 处于中性偏强区域；MACD = 3.7722 为正，趋势指标判定 bullish；距 52 周高仅 -2.45%，处于高位震荡，技术结构偏强。"
+      },
+      {
+        "symbol": "QQQ",
+        "display_name": "Nasdaq 100 ETF",
+        "stance": "偏上行",
+        "rationale": "收盘 721.34 与 20 日均线 721.5 基本持平，站上 50 日均线 681.81 和 200 日均线 625.38，均线多头排列；RSI 14=55.2 显示温和偏多；MACD = 8.3152 为正，但信号线 13.6038 在上方，短线上行动能稍弱；近 5 日涨 2.31%，趋势仍属上行。"
+      },
+      {
+        "symbol": "TSLA",
+        "display_name": "Tesla",
         "stance": "中性",
-        "rationale": "价格205.19，介于SMA20（214.62）与SMA200（189.26）之间，SMA50（206.91）几乎水平，趋势评级为中性；RSI 45.2处于正常区间，无超买超卖信号；MACD -1.10与信号线1.26仍处死叉，但柱状线收缩，多空力量暂时均衡。近1日微涨0.16%，动能不明。"
+        "rationale": "收盘 406.43 位于 50 日均线 398.3 之上，但低于 20 日均线 415.74 和 200 日均线 415.69，均线粘合无明确方向；RSI 14=48.9 贴近 50，无明显超买超卖；MACD = -2.1734，信号线 2.1956，绿柱微负；近 5 日涨 3.95%，价格在中性区域震荡，技术信号不显著。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，本报告仅供技术指标解读参考，不构成任何投资建议。市场有风险，决策需谨慎。",
+    "risk_caveat": "过去走势不代表未来表现，技术指标仅反映历史价格形态与动量特征，不构成任何投资建议。本报告仅供技术指标解读参考，读者应结合自身情况独立判断，注意市场风险。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -350,18 +350,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 63721.38,
-        "pct1Day": 0.2804088925969921,
-        "pct5Day": 0.9998165460367556,
-        "pct52WeekHigh": -49.506850619823275,
-        "pct52WeekLow": 7.8033267332012395,
-        "sma20": 67478.61171875,
-        "sma50": 74144.03890625,
-        "sma200": 77766.38935546875,
-        "rsi14": 33.64468042970462,
-        "macd": -3597.017616367011,
-        "macdSignal": -3576.16811929801,
-        "macdHistogram": -20.849497069001245,
+        "currentPrice": 63720.26,
+        "pct1Day": 0.2786463121575973,
+        "pct5Day": 0.9980413209155939,
+        "pct52WeekHigh": -49.50773811358605,
+        "pct52WeekLow": 7.801431926058948,
+        "sma20": 67478.555859375,
+        "sma50": 74144.0165625,
+        "sma200": 77766.38376953125,
+        "rsi14": 33.63979705880136,
+        "macd": -3597.106736737376,
+        "macdSignal": -3576.185943372083,
+        "macdHistogram": -20.92079336529332,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -377,18 +377,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1672.65,
-        "pct1Day": 0.451748649467149,
-        "pct5Day": -1.0353267155853494,
-        "pct52WeekHigh": -66.23455482966078,
-        "pct52WeekLow": 11.028432677997964,
-        "sma20": 1824.2042175292968,
-        "sma50": 2080.373703613281,
-        "sma200": 2414.373519897461,
-        "rsi14": 31.77432114382586,
-        "macd": -132.75738484694443,
-        "macdSignal": -130.93615469360873,
-        "macdHistogram": -1.821230153335705,
+        "currentPrice": 1671.85,
+        "pct1Day": 0.40370428936814917,
+        "pct5Day": -1.0826598328708243,
+        "pct52WeekHigh": -66.250704266863,
+        "pct52WeekLow": 10.975329670110828,
+        "sma20": 1824.1642150878906,
+        "sma50": 2080.357702636719,
+        "sma200": 2414.3695196533204,
+        "rsi14": 31.676210701853023,
+        "macd": -132.82120640588323,
+        "macdSignal": -130.94891900539648,
+        "macdHistogram": -1.872287400486755,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -404,18 +404,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 67.38,
-        "pct1Day": 0.9449163163488715,
-        "pct5Day": 0.8758859561473055,
-        "pct52WeekHigh": -73.38966604386322,
-        "pct52WeekLow": 11.52911078624546,
-        "sma20": 73.15732345581054,
-        "sma50": 81.72507278442383,
-        "sma200": 100.02902057647705,
-        "rsi14": 35.893354639806134,
-        "macd": -5.229967584189438,
-        "macdSignal": -5.051446132021736,
-        "macdHistogram": -0.17852145216770232,
+        "currentPrice": 67.32,
+        "pct1Day": 0.8550276998605789,
+        "pct5Day": 0.7860588092584799,
+        "pct52WeekHigh": -73.41336179983485,
+        "pct52WeekLow": 11.429797241466964,
+        "sma20": 73.15432357788086,
+        "sma50": 81.72387283325196,
+        "sma200": 100.02872058868408,
+        "rsi14": 35.74440065540574,
+        "macd": -5.234753714219707,
+        "macdSignal": -5.05240335802779,
+        "macdHistogram": -0.1823503561919173,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -719,13 +719,13 @@
       "timestamp": "2026-06-13T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2264194177014.319,
-      "total24hVolumeUsd": 66639363638.72693,
-      "marketCapChangePct24h": 0.06651804461464947,
-      "btcDominance": 56.40232429069818,
-      "ethDominance": 8.917467546936077,
+      "totalMarketCapUsd": 2265048197855.2993,
+      "total24hVolumeUsd": 66259024154.2147,
+      "marketCapChangePct24h": 0.10426166782592924,
+      "btcDominance": 56.40108200769707,
+      "ethDominance": 8.9162633592543,
       "activeCryptocurrencies": 17463
     },
-    "generated_at": "2026-06-13T10:09:51.458Z"
+    "generated_at": "2026-06-13T10:17:30.024Z"
   }
 }
