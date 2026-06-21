@@ -459,7 +459,7 @@
       "publishedAt": "2026-06-18T17:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI为ChatGPT Enterprise推出新的使用分析和支出控制功能，帮助组织管理成本并自信地扩展AI应用。"
+      "summary": "OpenAI为ChatGPT企业版推出新的支出控制和用量分析功能，帮助组织管理成本并自信地扩展AI应用。"
     },
     {
       "sourceId": "openai-news",
@@ -469,7 +469,7 @@
       "publishedAt": "2026-06-18T11:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI通过GPT-5.5 Instant增强ChatGPT的健康与保健回答能力，提升推理、上下文理解、清晰沟通，并引入医生评估。"
+      "summary": "GPT-5.5 Instant提升了ChatGPT在健康方面的回复能力，包括更强的推理、更好的上下文、更清晰的沟通以及医生评估。"
     },
     {
       "sourceId": "openai-news",
@@ -479,7 +479,7 @@
       "publishedAt": "2026-06-18T08:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "研究人员使用OpenAI推理模型帮助诊断罕见疾病，在先前未确诊的病例中识别出18种新诊断。"
+      "summary": "研究人员使用OpenAI推理模型帮助诊断罕见遗传病，在先前未解决的病例中识别出18种新诊断。"
     },
     {
       "sourceId": "openai-news",
@@ -1002,7 +1002,7 @@
       "publishedAt": "2026-06-18T18:13:13.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face发布MosaicLeaks测试，评估研究智能体能否保守秘密。"
+      "summary": "Hugging Face博客探讨了研究型AI代理的保密能力，提出了「MosaicLeaks」问题。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1012,7 +1012,7 @@
       "publishedAt": "2026-06-18T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face博客探讨超越LoRA的微调方法，评估能否击败这一流行技术。"
+      "summary": "Hugging Face博客探讨了超越LoRA的微调技术，挑战能否击败最流行的微调方法。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1022,7 +1022,7 @@
       "publishedAt": "2026-06-18T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face博客介绍如何用自有工具对开源模型进行代理能力基准测试。"
+      "summary": "Hugging Face博客讨论了如何用自有工具对开源模型进行「代理能力」基准测试。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1276,7 +1276,7 @@
       "meta": "👍 111",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出Moebius轻量级图像修复框架，仅0.2B参数即达到10B级大模型性能，通过极端结构压缩与优化实现高效部署，显著降低计算成本。"
+      "summary": "提出Moebius轻量级图像修复框架，仅0.2B参数却达到10B级性能。通过极致的结构压缩和知识蒸馏，在保持高修复质量的同时大幅降低计算开销，适合实际部署。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1287,7 +1287,7 @@
       "meta": "👍 68",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对铰接物体操控中灵巧手交互的物理合理性挑战，提出DragMesh-2，实现多指手与铰接物体的顺从性接触模式，适用于家庭、辅助及类人机器人操作。"
+      "summary": "DragMesh-2实现与铰接物体的物理合理灵巧手操作。采用多指手与铰接物体交互的建模方法，考虑关节约束和接触物理，提升家庭和服务机器人场景的操控能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1298,7 +1298,7 @@
       "meta": "👍 46",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出MolmoMotion，基于语言指令预测3D点轨迹，将3D世界坐标点作为类无关的运动表示，支持动作规划与物理交互推理。"
+      "summary": "MolmoMotion通过语言指令预测3D世界坐标系中的点轨迹。采用类别无关的点表示，结合多模态输入，为运动预测提供通用且解释性强的框架。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1309,7 +1309,7 @@
       "meta": "👍 43",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出Playful Agentic Robot Learning，让具身智能体通过玩耍自主探索并学习可复用技能，无需显式任务指令，在尝试与反馈中编码策略。"
+      "summary": "提出游戏化智能体机器人学习框架，让具身智能体在无明确指令时通过自主探索和试错获取可复用技能，超越传统任务驱动学习范式。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1320,7 +1320,7 @@
       "meta": "👍 41",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "将LiveCodeBench扩展至多编程语言，通过筛选竞赛编程问题并持续更新，提供抗污染的多语言代码生成评测基准。"
+      "summary": "Multi-LCB将LiveCodeBench扩展至多编程语言，覆盖多语言竞争编程题目，持续更新且防污染，为代码生成LLM提供更全面的评估基准。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1331,7 +1331,7 @@
       "meta": "👍 34",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出S-Agent空间工具使用智能体范式，利用工具推理连续3D世界，突破现有VLM静态、无状态推理限制，实现空间智能理解。"
+      "summary": "S-Agent通过空间工具调用增强VLM的空间推理能力。代理在连续3D世界中利用工具（如地图、测量）进行状态推理，突破静态视觉观察的限制。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1342,7 +1342,7 @@
       "meta": "👍 28",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "超越静态排行榜，通过对MCP工业代理基准的14项并行实现研究，评估LLM代理在多个部署维度的预测有效性，弥补单一基准不足。"
+      "summary": "针对智能体评测的预测有效性研究，聚合了14个并行的MCP工业基准研究，揭示单基准无法覆盖部署中多维度的瓶颈，推动更可靠的评测方法。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1353,7 +1353,7 @@
       "meta": "👍 27",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "发布DF3DV-1K大规模真实世界数据集，专为无干扰新视角合成设计，支持全面基准测试并推动场景重建进展。"
+      "summary": "DF3DV-1K提供大规模无干扰新视角合成数据集和基准，包含1000个场景，促进无动态物体干扰的辐射场重建研究。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1364,7 +1364,7 @@
       "meta": "👍 25",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出FreeStyle，从社区LoRA中挖掘风格和内容双参考，实现图像生成中结构语义保留与风格迁移的自由控制，平衡内容忠实度与风格适配。"
+      "summary": "FreeStyle利用社区LoRA挖掘实现风格-内容双参考生成，通过解耦风格与内容特征，在保持内容结构的同时灵活迁移风格。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1375,7 +1375,7 @@
       "meta": "👍 10",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出ENPIRE，让机器人在真实世界中自主改进操作策略，通过编码智能体自动化算法搜索，减少人工监督，推动通用物理智能。"
+      "summary": "ENPIRE让机器人策略在真实世界中通过代码智能体自我改进，减少人为干预，自动搜索和调整算法参数，提升灵巧操作能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1386,7 +1386,7 @@
       "meta": "👍 10",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "引入视觉接地推理，让视觉-语言模型在生成自然语言推理轨迹时显式定位支持图像区域，增强可验证性与可监督性。"
+      "summary": "提出视觉基础思维方法，让VLM生成推理链时同时定位视觉证据，提升可验证性和可监督性，实现更可信的多模态推理。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1397,7 +1397,7 @@
       "meta": "👍 10",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "定义社会世界模型，构建MaineCoon原型，实现实时音视频生成，弥补现有视频生成模型对社交交互场景的忽视。"
+      "summary": "MaineCoon构建面向社交世界的实时音视频生成模型，支持交互式社交内容生成，填补该领域研究空白。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1408,7 +1408,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出ContextRL，一种上下文感知强化学习方法，提升LLM在长上下文或复杂场景中识别关键证据的能力，适用于智能体与多模态任务。"
+      "summary": "ContextRL提出上下文感知强化学习，增强LLM在长上下文或复杂上下文中识别关键证据的能力，显著提升工具调用和多模态问答性能。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1419,7 +1419,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出FAPO框架，让Claude Code全自动优化多步LLM流水线的提示，解决检索、推理、格式等环节交互失败问题。"
+      "summary": "FAPO全自动提示优化框架，利用Claude Code自动诊断和优化多步LLM链中的瓶颈，无需人工调参。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1430,7 +1430,7 @@
       "meta": "👍 7",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出ViT-Up忠实特征上采样方法，解决Vision Transformer因全局自注意力二次复杂度导致的小patch网格特征上采样难题，提升下游任务性能。"
+      "summary": "ViT-Up提出忠实特征上采样方法，解决ViT因小patch网格导致的空间分辨率损失，在保持全局语义的同时恢复高分辨率细节。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1441,7 +1441,7 @@
       "meta": "👍 6",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出LedgerAgent，为客服领域策略合规的工具调用智能体维护结构化任务状态，包括事实、约束等，保障跨轮交互中的状态一致性。"
+      "summary": "LedgerAgent为策略合规工具调用智能体提供结构化状态管理，跨轮次维护任务事实和约束，确保调用工具时遵守预定义策略。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1452,7 +1452,7 @@
       "meta": "👍 6",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "发布LOCUS美国地方法规语料库，填补现有法律AI语料库中地方性法规（如分区、住房等）的缺失，推动法律AI发展。"
+      "summary": "LOCUS构建美国地方法规语料库，收集大量地方条例文本，填补法律AI在地方层级数据的空白，支持合规和检索研究。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1463,7 +1463,7 @@
       "meta": "👍 6",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "HumanScale证明以自我为中心的人类视频数据在具身预训练中可超越遥操作机器人数据，打破机器人数据瓶颈，提升可扩展性。"
+      "summary": "HumanScale证明以自我为中心的人类视频数据可超越真实机器人数据用于具身预训练，通过大规模离线学习获得更好的泛化能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1474,7 +1474,7 @@
       "meta": "👍 6",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "探讨环境感知信息检索中不同检索器对查询策略的差异需求，揭示RAG系统在复杂查询中的关键挑战。"
+      "summary": "研究环境感知信息检索行为，揭示不同检索器需要差异化的查询构建策略，提出适应性的RAG方法以提升复杂查询处理效果。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1485,7 +1485,7 @@
       "meta": "👍 5",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出LegalHalluLens，对法律AI幻觉进行类型化审计，并通过校准的多智能体辩论降低幻觉率（从约52%降至可行动水平），实现可信部署。"
+      "summary": "LegalHalluLens提供幻觉类型审计和校准的多智能体辩论框架，识别法律AI错误类型和方向，通过辩论降低幻觉率，提升可信部署。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1595,7 +1595,7 @@
       "publishedAt": "2026-06-19T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI报道，GPT-5.6于周二发布，Claude引入Code artifacts，Perplexity推出Brain记忆功能。"
+      "summary": "GPT-5.6将于周二发布，Claude Code推出代码工件功能，Perplexity推出「Brain」记忆功能。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1605,7 +1605,7 @@
       "publishedAt": "2026-06-18T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI报道，ChatGPT市场份额下滑，Vercel推出Eve，Replit接入Claude。"
+      "summary": "ChatGPT市场份额下降；Vercel发布eve代理；Replit与Claude集成。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1777,7 +1777,7 @@
       "publishedAt": "2026-06-19T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "GLM-5.2成为领先的开源权重编码模型，在软件工程任务上与Opus 4.8和GPT-5.5竞争。专家强调开放模型对提供商竞争、本地部署和微调权利的策略重要性。"
+      "summary": "GLM-5.2成为领先的开源权重编程模型，在软件工程任务上媲美Opus 4.8和GPT-5.5，战略意义在于提供商竞争、本地部署和微调权限。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1787,7 +1787,7 @@
       "publishedAt": "2026-06-18T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "智谱GLM-5.2成为领先开源模型，其IndexShare稀疏注意力机制支持高效100万token推理，性能媲美GPT-5.5和Opus 4.8，但缺乏视觉支持。"
+      "summary": "智谱GLM-5.2成为领先开源权重模型，其IndexShare稀疏注意力实现高效100万token推理，媲美GPT-5.5和Opus 4.8，但缺乏视觉支持。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -2049,7 +2049,7 @@
       "publishedAt": "2026-06-20T08:06:05.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "据Latent Space报道，AI行业当日平静，AIE项目进行最后一次推广。"
+      "summary": "当天AI新闻平静，仅提及对AIE的最后一次推广，无重大事件发生。"
     },
     {
       "sourceId": "latent-space",
@@ -2059,7 +2059,7 @@
       "publishedAt": "2026-06-19T05:53:54.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "GLM-5.2模型通过测试，开放模型成为前沿话题。Z.ai预测Open Fable将于12月推出。"
+      "summary": "GLM-5.2通过了业界「氛围检查」，开源模型成为前沿故事；Z.ai预测12月前发布Open Fable。"
     },
     {
       "sourceId": "latent-space",
@@ -2069,7 +2069,7 @@
       "publishedAt": "2026-06-18T17:30:00.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "采访传奇投资人Anjney Midha，他来自新加坡，主导了Anthropic、Mistral、Black Forest Labs和Periodic Labs的投资，并披露AMP秘密计划。"
+      "summary": "采访传奇投资人Anjney Midha（AMP），他来自新加坡，领导了对Anthropic、Mistral、Black Forest Labs等的投资，并透露了AMP的秘密计划。"
     },
     {
       "sourceId": "latent-space",
@@ -2079,7 +2079,7 @@
       "publishedAt": "2026-06-18T04:23:05.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "自举式前沿实验室Midjourney宣布第二款产品Midjourney Medical，用于器官扫描，像称体重一样简单。"
+      "summary": "Midjourney宣布第二款产品「Midjourney Medical」，用户可像称体重一样扫描器官。"
     },
     {
       "sourceId": "latent-space",
@@ -2233,7 +2233,7 @@
       "publishedAt": "2026-06-19T10:40:24.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "迈阿密AI初创公司Subquadratic声称解决了困扰大型语言模型近十年的数学瓶颈，但细节不足，许多专家持怀疑态度。"
+      "summary": "总部位于迈阿密的AI初创公司Subquadratic声称解决了困扰大语言模型近十年的数学瓶颈，但细节不足，许多人对此表示怀疑。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2325,7 +2325,7 @@
       "category": "tech",
       "meta": "@horizon_trade_x · 4.4K 粉丝 · 1.3M 阅 · 507 赞 · 59 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "量化交易者常遇回测完美实盘亏钱的困境，该框架通过「生成-测试-评分-反馈」循环工程，系统化迭代构建Alpha策略。"
+      "summary": "量化交易中回测完美实盘却亏损的解决方法：通过“生成策略→测试→评分→反馈”的闭环循环，持续优化alpha因子，避免策略失效。框架实操分享。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2336,7 +2336,7 @@
       "category": "tech",
       "meta": "@AnatoliKopadze · 83.0K 粉丝 · 1.3M 阅 · 584 赞 · 70 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "多数用户仍用手动输入-等待-修正的慢速方式使用AI，而Claude、GPT、Mira等模型已支持更高效的循环方法，本文对比了各模型循环的实际效果。"
+      "summary": "对比Claude、GPT、Mira等AI工具的循环使用模式，指出大多数人仍用“请求-等待-修正”的低效手动方式，揭示了更高效的循环工作流。实用对比教程。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2347,7 +2347,7 @@
       "category": "tech",
       "meta": "@djfarrelly · 3.8K 粉丝 · 344.7K 阅 · 501 赞 · 61 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "AI圈共识「循环」是智能体系统的核心原语，但关键是谁来运行循环。本文深入解析Agent循环架构的设计，引用了Matt Van Horn的观点。"
+      "summary": "探讨AI代理系统中“循环”的本质：大家都问循环是什么，但没人追问“什么在驱动循环？”深入分析Agent Loop架构与核心组件。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2358,7 +2358,7 @@
       "category": "tech",
       "meta": "@EXM7777 · 118.9K 粉丝 · 107.7K 阅 · 509 赞 · 44 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "曾短暂出现接近AGI的Fable 5模型，但被Anthropic封禁。本文讨论如何找回Fable级别的智能，涉及替代方案与背后的限制。"
+      "summary": "Fable 5模型曾短暂带来接近AGI级别的智能，能力几乎无限，但随后被Anthropic关闭。讨论Fable级智能为何昙花一现及其影响。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2369,7 +2369,7 @@
       "category": "tech",
       "meta": "@mvanhorn · 35.2K 粉丝 · 102.4K 阅 · 510 赞 · 56 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "继前文「循环是什么」获360万阅读后，本文列出15种真实运行的循环模式，并给出可直接照搬的命令，成为循环工程实战指南。"
+      "summary": "继前篇爆火后，作者公布15种人们实际在运行的AI循环及其配置命令，从理论到实操，提供可直接复用的循环工程模板集合。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2380,7 +2380,7 @@
       "category": "tech",
       "meta": "@omarsar0 · 308.0K 粉丝 · 90.2K 阅 · 504 赞 · 69 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "AI编程圈流行观点：别再手动提示编码智能体，改为设计自动循环替你提示。本文系统梳理了从提示工程到循环工程的演进与实践。"
+      "summary": "AI编程圈新观点：停止手动给编码agent写提示，改为设计循环让循环自动生成提示。作者深入剖析从提示工程到循环工程的方法论转变。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2391,7 +2391,7 @@
       "category": "tech",
       "meta": "@Designarena · 13.9K 粉丝 · 80.4K 阅 · 518 赞 · 39 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "GLM 5.2在单轮非智能体HTML网页设计评估中排名第一，超越Claude Fable 5、Opus 4.6等，比前代GLM-5.1提升5位。"
+      "summary": "GLM-5.2在Design Arena单轮HTML网页设计评测中排名第一，击败Claude Fable 5、Opus 4.6等模型，显著超越前代GLM-5.1。模型能力对比。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2402,7 +2402,7 @@
       "category": "tech",
       "meta": "@nifinet · 10.4K 粉丝 · 62.8K 阅 · 519 赞 · 38 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "GTM团队的核心是判断（哪些公司值得联系、说什么、追谁），本文展示如何用Claude Code构建单人可运行的GTM自动化团队。"
+      "summary": "用Claude Code搭建单人GTM团队：自动化筛选客户、判断消息时机、跟进线索等决策工作，将销售发送操作变成AI驱动的精准执行。实战指南。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2413,7 +2413,7 @@
       "category": "tech",
       "meta": "@jasonzhou1993 · 30.8K 粉丝 · 48.5K 阅 · 526 赞 · 49 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "凌晨代码库涌入大量PR，它们来自多个智能体循环：自动发现issue、拾取任务、提交代码。本文解释「循环工程师」概念及真实部署方法。"
+      "summary": "凌晨1点大量PR自动涌入代码库，来自不同agent循环：自动发现issue、领取任务、提交代码，展示Loop Engineer如何让AI全自动协作开发。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2424,7 +2424,7 @@
       "category": "tech",
       "meta": "@contralabs_ai · 2.9K 粉丝 · 46.6K 阅 · 501 赞 · 37 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "设计品味难以量化，Design Crit数据集用十位专业设计师对四款前沿图像模型排序，让AI学会像设计师一样打分，使审美可测量。"
+      "summary": "推出Design Crit数据集：10位专业设计师对四个前沿图像模型进行设计质量排序，将主观审美变成可量化指标，推动AI设计评价标准化。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2434,7 +2434,7 @@
       "publishedAt": "2026-06-21T07:25:18.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "三艘满载的印度关联超级油轮在阿曼湾重新出现，表明霍尔木兹海峡双向交通增加，尽管对通行状况的叙述仍存矛盾。"
+      "summary": "三艘满载的印度关联超级油轮在阿曼湾重新出现，增加了霍尔木兹海峡南北航线的双向交通量，但关于过境状况的叙述仍存在矛盾。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2444,7 +2444,7 @@
       "publishedAt": "2026-06-21T03:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "初步民调显示瑞士选民将否决加强中立的倡议，结果可能支持维持对俄制裁立场。"
+      "summary": "早期民调显示瑞士选民将拒绝加强中立的倡议，结果可能支持继续对俄罗斯实施制裁。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2454,7 +2454,7 @@
       "publishedAt": "2026-06-21T00:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "伊朗战争担忧消退，股市投资者转向气候风险（极端厄尔尼诺），重新评估从农业到保险等板块的押注。"
+      "summary": "随着伊朗战争担忧消退，股市投资者面临气候风险，需重新评估从农业到保险等板块的押注，应对罕见的「超级厄尔尼诺」现象。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2464,7 +2464,7 @@
       "publishedAt": "2026-06-20T20:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美联储青睐的通胀指标预计显示加速，不太可能改变央行今年需要加息的共识。"
+      "summary": "美联储最青睐的通胀指标最新数据预计显示通胀加速，不太可能挑战美联储今年需加息的共识。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2474,7 +2474,7 @@
       "publishedAt": "2026-06-20T16:30:41.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "巴西总统卢拉在民调中保持对参议员弗拉维奥·博索纳罗的领先，后者因与前银行家关联（该国最大银行欺诈案）承压。"
+      "summary": "巴西总统卢拉在民调中保持领先，对手弗拉维奥·博索纳罗因与涉及该国最大银行诈骗丑闻的前银行家关联而承压。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2889,7 +2889,7 @@
       "publishedAt": "2026-06-21T05:21:26.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "英国电信集团Virgin Media O2与Vodafone/Three推出“紧急关闭开关”以减少门店手机盗窃。此前苹果和三星抵制采取更广泛措施。"
+      "summary": "英国电信运营商Virgin Media O2与Vodafone三公司推出「紧急切断」功能，旨在减少商店手机盗窃。此前苹果和三星拒绝采取更广泛措施。"
     },
     {
       "sourceId": "ft-companies",
@@ -2899,7 +2899,7 @@
       "publishedAt": "2026-06-21T04:00:17.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "MSCI给予SpaceX最低ESG评级（CCC），与2022年俄乌冲突后的俄罗斯同级，影响埃隆·马斯克的公司形象。"
+      "summary": "MSCI给予SpaceX最低的ESG评级（Triple C），使其与2022年入侵乌克兰后的俄罗斯处于同一水平。"
     },
     {
       "sourceId": "ft-companies",
@@ -2909,7 +2909,7 @@
       "publishedAt": "2026-06-21T04:00:17.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "大型科技公司意识到需要体力和工艺技能来建设和维护数据中心，工人正成为下一个AI发展瓶颈。"
+      "summary": "大型科技公司意识到建设和维护数据中心需要大量体力和技能工人，劳动力正成为人工智能发展的新瓶颈。"
     },
     {
       "sourceId": "ft-companies",
@@ -2919,7 +2919,7 @@
       "publishedAt": "2026-06-21T04:00:17.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "东地中海地区假期预订量激增，因游客重新评估伊朗危机的威胁程度和距离远近。"
+      "summary": "东地中海地区因伊朗危机受影响的旅游市场预订量出现反弹，游客重新评估冲突的威胁及距离。"
     },
     {
       "sourceId": "ft-companies",
@@ -2929,7 +2929,7 @@
       "publishedAt": "2026-06-21T04:00:07.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "欧洲阿丽亚娜6型火箭计划获杰夫·贝索斯帮助，试图摆脱美国SpaceX的阴影，对抗马斯克的预言。"
+      "summary": "欧洲阿丽亚娜6号火箭项目获得杰夫·贝佐斯帮助，试图摆脱美国竞争对手马斯克的阴影，回应其「你们完了」的预言。"
     },
     {
       "sourceId": "ft-companies",
@@ -2939,7 +2939,7 @@
       "publishedAt": "2026-06-21T04:00:07.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "海上保险公司拟将开战后的取消通知更名为“denunciato recisiones”，以缓解特朗普对该做法的愤怒。"
+      "summary": "海上保险公司在战争爆发后发出的取消通知可能更名为拉丁文「denunciato recisiones」，以规避特朗普的愤怒并重新命名引发争议的做法。"
     },
     {
       "sourceId": "ft-companies",
@@ -2949,7 +2949,7 @@
       "publishedAt": "2026-06-21T04:00:07.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "热门生物科技公司Revolution Medicines表示出售非优先事项，此前默克320亿美元收购未成功。"
+      "summary": "热门生物技术公司Revolution Medicines表示出售并非优先事项，此前默克以320亿美元收购未成功。"
     },
     {
       "sourceId": "ft-companies",
@@ -4152,11 +4152,11 @@
       "sourceId": "guardian-world",
       "title": "Middle East live: US-Iran talks to begin in Switzerland as Tehran says it has closed strait of Hormuz",
       "url": "https://www.theguardian.com/world/live/2026/jun/21/iran-us-israel-war-middle-east-lebanon-peace-talks-switzerland-vance-trump-strait-of-hormuz-latest-news-updates",
-      "excerpt": "Iran says decision comes after waves of Israeli strikes in Lebanon, as delegations arrive as Swiss resort for talks US-Iran talks in Switzerland to get under way as strait of Hormuz remains closed Talks between Iran and the US aimed at building out the fragile interim deal to end the war are due to ",
-      "publishedAt": "2026-06-21T10:08:59.000Z",
+      "excerpt": "Iran says decision comes after waves of Israeli strikes in Lebanon, as delegations arrive as Swiss resort for talks US-Iran talks in Switzerland to get under way as strait of Hormuz remains closed Israelis overwhelmingly believe that Iran emerged stronger from the Middle East war and its subsequent ",
+      "publishedAt": "2026-06-21T10:35:44.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "伊朗宣布关闭霍尔木兹海峡，称此举系回应以色列对黎巴嫩的空袭。美伊谈判在瑞士展开，旨在巩固结束战争的临时协议。"
+      "summary": "伊朗在以色列对黎巴嫩轰炸后宣布关闭霍尔木兹海峡，美伊谈判在瑞士开始。以色列民调显示多数人认为伊朗从战争中变得更强大。"
     },
     {
       "sourceId": "guardian-world",
@@ -4166,7 +4166,7 @@
       "publishedAt": "2026-06-21T10:04:26.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "美伊谈判在瑞士举行，霍尔木兹海峡仍关闭。副总统万斯表示会谈旨在推动核问题与黎巴嫩停火问题取得进展。"
+      "summary": "美伊谈判在瑞士举行，万斯表示目标是在核问题和黎巴嫩停火问题上取得进展，霍尔木兹海峡仍关闭。"
     },
     {
       "sourceId": "guardian-world",
@@ -4203,7 +4203,7 @@
       "publishedAt": "2026-06-21T10:11:28.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "美伊新一轮谈判即将在瑞士开始，副总统万斯预计与伊朗代表会谈。但黎巴嫩冲突威胁更广泛和平努力及霍尔木兹海峡通行安全。"
+      "summary": "美伊新一轮谈判在瑞士开始，副总统万斯预期与伊朗代表会谈。但黎巴嫩冲突威胁更广泛和平及霍尔木兹海峡的开放。"
     },
     {
       "sourceId": "nyt-world",
@@ -4330,7 +4330,7 @@
       "publishedAt": "2026-06-21T09:56:52.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "伊朗核谈判将围绕四个关键问题展开。德黑兰坚持核计划和平用途，特朗普政府要求确保伊朗无法秘密研发核武器。"
+      "summary": "伊朗核谈判预计围绕四个核心问题：伊朗坚持核计划和平用途，特朗普政府要求确保其无法秘密研发核武器。"
     },
     {
       "sourceId": "nyt-world",
@@ -4340,7 +4340,7 @@
       "publishedAt": "2026-06-21T09:34:35.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "美伊会谈在瑞士卢塞恩湖畔的布尔根斯托克度假村举行，该地百余年来接待过众多世界富豪和政要。"
+      "summary": "比尔根斯托克度假村拥有百年历史，曾接待世界最富有和权贵人士，此次主办美伊谈判。"
     },
     {
       "sourceId": "nyt-world",
@@ -4359,7 +4359,7 @@
       "publishedAt": "2026-06-21T09:31:22.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "暂无详细信息。"
+      "summary": "暂无具体内容更新，仅表示中东局势最新动态。"
     },
     {
       "sourceId": "nyt-world",
@@ -4477,7 +4477,7 @@
       "publishedAt": "2026-06-21T10:00:00.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "柬埔寨打击诈骗园区后，数千名被贩卖的外籍劳工获释但陷入新危机，流落金边街头无家可归。"
+      "summary": "柬埔寨打击诈骗园区后，数千名被解救的外国劳工流落金边街头，面临新的生存危机。"
     },
     {
       "sourceId": "npr-world",
@@ -4568,7 +4568,7 @@
       "publishedAt": "2026-06-21T09:22:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "波兰撤销泽连斯基最高国家荣誉后，泽连斯基归还勋章，多名乌克兰高官也归还波兰荣誉以示抗议。他们指出此决定只会使俄罗斯受益，而波兰本是乌克兰的坚定盟友。"
+      "summary": "波兰撤销泽连斯基最高国家荣誉后，泽连斯基归还勋章，多名乌克兰高官也归还以示抗议，称波兰总统的决定让俄罗斯受益。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4833,13 +4833,42 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Messi, Argentina play Austria in World Cup group match: All to know",
+      "url": "https://www.aljazeera.com/sports/2026/6/21/messi-argentina-play-austria-in-world-cup-group-match-all-to-know?traffic_source=rss",
+      "excerpt": "Hat-trick hero Lionel Messi back in action for Argentina as they look to take a huge step towards the knockout stages.",
+      "publishedAt": "2026-06-21T10:32:09.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar",
+      "url": "https://www.aljazeera.com/news/2026/6/21/ukraine-strikes-hit-oil-facilities-in-crimea-russias-krasnodar?traffic_source=rss",
+      "excerpt": "Crimea's Moscow-installed leader says four people killed in drone attack on the Russian-occupied Black Sea peninsula.",
+      "publishedAt": "2026-06-21T10:30:46.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "乌克兰无人机袭击克里米亚和俄罗斯克拉斯诺达尔的石油设施，克里米亚俄占当局称袭击造成4人死亡。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "‘Kind, principled’: Palestinian journalists remember slain Gaza journalist",
+      "url": "https://www.aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist?traffic_source=rss",
+      "excerpt": "Ahmed Wishah is the 12th Al Jazeera journalist killed by Israel in Gaza since October 2023.",
+      "publishedAt": "2026-06-21T10:30:18.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "巴勒斯坦记者艾哈迈德·维沙赫被以色列杀害，成为自2023年10月以来第12位遇害的半岛电视台记者，同行赞其“善良、有原则”。"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "Stop ‘Greater Israel’ to make peace",
       "url": "https://www.aljazeera.com/opinions/2026/6/21/stop-greater-israel-to-make-peace?traffic_source=rss",
       "excerpt": "Expansionist Israel will not stop dragging the US to war in the Middle East.",
       "publishedAt": "2026-06-21T10:11:32.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "本文认为扩张主义的以色列不会停止将美国拖入中东战争，呼吁停止「大以色列」计划以实现和平。"
+      "summary": "评论文章指出，扩张主义以色列不会停止将美国拖入中东战争，呼吁阻止“大以色列”计划以实现和平。"
     },
     {
       "sourceId": "aljazeera",
@@ -4849,7 +4878,7 @@
       "publishedAt": "2026-06-21T10:06:01.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "以色列攻击威胁黎巴嫩古代遗迹，这些历史遗产持续面临风险。"
+      "summary": "黎巴嫩的古迹在以色列持续攻击下仍面临风险，文化遗产安全令人担忧。"
     },
     {
       "sourceId": "aljazeera",
@@ -4859,7 +4888,7 @@
       "publishedAt": "2026-06-21T10:01:27.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "半岛电视台摄影师艾哈迈德·维沙赫在加沙被以色列杀害，其母亲首次看到儿子遗体时悲痛哀悼。"
+      "summary": "半岛电视台摄像师艾哈迈德·维沙赫被以色列杀害，其母亲首次见到遗体时悲痛哀悼。"
     },
     {
       "sourceId": "aljazeera",
@@ -4869,7 +4898,7 @@
       "publishedAt": "2026-06-21T09:52:47.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "阿尔巴尼亚民众举行抗议，反对库什纳支持的保护区度假村项目。示威者高呼「阿尔巴尼亚不可出售」，表达对环境破坏的担忧。"
+      "summary": "阿尔巴尼亚抗议者高呼“阿尔巴尼亚不出售”，反对库什纳在保护区建设的沿海度假项目，担忧环境破坏。"
     },
     {
       "sourceId": "aljazeera",
@@ -4879,7 +4908,7 @@
       "publishedAt": "2026-06-21T09:38:58.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "哥伦比亚总统决选，左翼候选人伊万·塞佩达与极右翼律师阿贝拉多·德拉埃斯普列利亚角逐总统职位。"
+      "summary": "哥伦比亚总统决选，左派伊万·塞佩达与极右翼律师阿韦拉多·德拉埃斯普列拉竞争总统职位。"
     },
     {
       "sourceId": "aljazeera",
@@ -4888,8 +4917,7 @@
       "excerpt": "Albanians have gathered for the 21st day in a row to protest plans to build a resort on Albania's coast.",
       "publishedAt": "2026-06-21T09:19:36.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "阿尔巴尼亚民众连续21天举行抗议，反对在海岸建设由库什纳支持的度假村项目，抗议人数增至数万人。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4898,8 +4926,7 @@
       "excerpt": "The Iran war has put the US in a difficult position, but Trump has made the most of it.",
       "publishedAt": "2026-06-21T09:17:30.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "文章认为与伊朗的协议虽不完美，但符合美国民众意愿。伊朗战争使美国陷入困境，但特朗普充分利用了局势。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -5033,33 +5060,6 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss",
       "excerpt": "Talks come as Iran says it is closing the Strait of Hormuz over Israel's deadly attacks on Lebanon.",
       "publishedAt": "2026-06-21T00:00:00.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "US refuses to ease Iran World Cup travel restrictions for Belgium match",
-      "url": "https://www.aljazeera.com/sports/2026/6/20/us-refuses-to-ease-iran-world-cup-travel-restrictions-for-belgium-match?traffic_source=rss",
-      "excerpt": "Andrew Giuliani says Iran's players will not be allowed to stay longer for their group matches in the US.",
-      "publishedAt": "2026-06-20T23:45:36.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Iranian delegation arrives in Switzerland for US peace talks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iranian-delegation-arrives-in-switzerland-for-us-peace-talks?traffic_source=rss",
-      "excerpt": "Iranian delegation arrives in Switzerland for US peace talks",
-      "publishedAt": "2026-06-20T23:39:45.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Undav injury-time goal sees Germany beat Ivory Coast to top World Cup group",
-      "url": "https://www.aljazeera.com/sports/2026/6/20/amiri-injury-time-goal-sees-germany-beat-ivory-coast-to-top-world-cup-group?traffic_source=rss",
-      "excerpt": "Germany come from behind to beat Ivory Coast 2-1 in Group E, sealing FIFA World Cup 2026 knockout place.",
-      "publishedAt": "2026-06-20T22:40:55.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
