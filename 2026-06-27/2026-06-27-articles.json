@@ -174,6 +174,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "转行求建议 算子 or MLOps or AI Infra?",
+      "url": "https://www.v2ex.com/t/1223329",
+      "excerpt": "6 回复 · 程序员 节点",
+      "publishedAt": "2026-06-27T09:59:27.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "Claude 新一轮大规模封号",
       "url": "https://www.v2ex.com/t/1223234",
       "excerpt": "6 回复 · 程序员 节点",
@@ -214,15 +223,6 @@
       "url": "https://www.v2ex.com/t/1223065",
       "excerpt": "6 回复 · Apple 节点",
       "publishedAt": "2026-06-26T05:08:36.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "iOS 中的“团结”这个是啥？是中毒了么？",
-      "url": "https://www.v2ex.com/t/1222916",
-      "excerpt": "6 回复 · Apple 节点",
-      "publishedAt": "2026-06-25T14:08:25.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -459,7 +459,7 @@
       "publishedAt": "2026-06-26T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI预览GPT-5.6 Sol，该下一代模型在编程、科学和网络安全方面能力更强，并搭载最先进的安全技术栈。"
+      "summary": "OpenAI 预览下一代模型 GPT-5.6 Sol，在编程、科学和网络安全方面能力更强，并配备最先进的安全堆栈。"
     },
     {
       "sourceId": "openai-news",
@@ -469,7 +469,7 @@
       "publishedAt": "2026-06-25T02:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI最新研究论文展示AI智能体如何变革工作方式，支持更长期、更复杂的任务，并在各角色中提升生产力。"
+      "summary": "OpenAI 新研究论文显示 AI 智能体正在改变工作方式，能完成更长时间、更复杂的任务，提升跨角色的生产力。"
     },
     {
       "sourceId": "openai-news",
@@ -731,7 +731,7 @@
       "publishedAt": "2026-06-24T16:30:01.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "DeepMind宣布在Gemini 3.5 Flash中引入计算机使用功能，使模型能直接操作桌面应用。"
+      "summary": "DeepMind 在 Gemini 3.5 Flash 中引入计算机使用功能。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -1002,7 +1002,7 @@
       "publishedAt": "2026-06-26T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face发布新功能，可通过一条命令在HF Jobs上运行vLLM服务器，简化部署流程。"
+      "summary": "Hugging Face 博客介绍如何通过一条命令在 HF Jobs 上运行 vLLM 服务器。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1012,7 +1012,7 @@
       "publishedAt": "2026-06-25T16:11:42.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "艾伦人工智能研究所发布混合模型预测研究，分析混合模型对不同类型token的预测效果。"
+      "summary": "Allen AI 博客探讨混合模型在预测不同 token 方面的表现差异。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1022,7 +1022,7 @@
       "publishedAt": "2026-06-24T16:00:13.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "NVIDIA推出NeMo AutoModel，旨在加速Transformer模型的微调流程，提升开发效率。"
+      "summary": "NVIDIA 博客介绍如何利用 NeMo AutoModel 加速 Transformer 模型的微调。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1276,7 +1276,7 @@
       "meta": "👍 104",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出面向LLM智能体的原生记忆系统，从简单检索增强演进为支持持久存储、更新、合并和动态生命周期管理的数据管理系统，解决智能体执行中的记忆治理问题。"
+      "summary": "针对LLM智能体记忆系统从简单检索增强演进为数据管理层，提出代理原生记忆系统设计，支持持久化存储、检索、更新、整合及动态生命周期治理，实现智能体执行过程中的高效记忆管理。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1287,7 +1287,7 @@
       "meta": "👍 44",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "ShutterMuse利用多模态大语言模型在拍照时提供取景和主体姿势引导。现有裁剪评测仅关注事后预测，忽略拍摄时建议，该工作填补了MLLM在实时摄影指导上的空白。"
+      "summary": "现有美学裁剪基准仅评估事后裁剪，忽略拍摄时引导。提出ShutterMuse，利用多模态大模型在拍摄时提供相机取景和主体姿态建议，弥合拍摄侧指导的缺失，提升实时摄影质量。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1298,7 +1298,7 @@
       "meta": "👍 41",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对VLA模型无法泛化到新视角或机器人形态的问题，提出上下文世界建模，将系统配置作为变量纳入条件，使模型能适应未知环境变化。"
+      "summary": "现代VLA模型常因仅依赖当前观测和指令而泛化失败。提出上下文世界建模方法，将底层系统配置（如视角、机器人形态）作为变量显式建模，使智能体在 novel 场景下仍能有效控制。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1309,7 +1309,7 @@
       "meta": "👍 40",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "OPID提出同策略技能蒸馏，结合结果驱动RL的稳定性和同策略自蒸馏的密集token级监督，为语言智能体提供更精细的中间决策训练信号。"
+      "summary": "基于结果的强化学习给语言智能体提供稳定优化，但稀疏轨迹奖励缺乏中间决策指导。提出OPID（在策略技能蒸馏），通过密集 token 级监督与 on-policy 自蒸馏结合，提升智能体在复杂任务中的决策质量。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1320,7 +1320,7 @@
       "meta": "👍 38",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "Qwen-Image-Agent通过弥合用户上下文与生成条件之间的“上下文鸿沟”，处理真实世界中表述不完整、隐含或依赖时效信息的图像生成请求。"
+      "summary": "文本到图像模型在真实世界请求中常因上下文缺失而失效（上下文鸿沟）。提出Qwen-Image-Agent，通过桥接用户上下文与生成需求的差距，实现对模糊、隐含或依赖最新知识的请求的高质量图像生成。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1331,7 +1331,7 @@
       "meta": "👍 37",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "ViQ提出文本对齐的视觉量化表示，支持任意分辨率下用离散信号表示图像，在保持低层级细节的同时实现统一多模态建模，缓解信息损失。"
+      "summary": "统一文本与视觉表示面临离散化信息损失。提出ViQ，在任意分辨率下实现文本对齐的视觉量化表示，平衡低层细节保留与高层次语义对齐，提升多模态建模效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1342,7 +1342,7 @@
       "meta": "👍 36",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "挑战“验证比生成容易”的经典直觉：随着编码智能体能力增强，生成复杂解变得比验证更简单，研究发现验证本身成为新的瓶颈，不存在通用奖励银弹。"
+      "summary": "传统直觉认为验证比生成容易，但编码智能体中因模型推理增强，生成复杂解变快而验证却成瓶颈。通过实验揭示「验证地平线」现象：当候选解复杂度增加时，验证难度反而超过生成，需重新设计奖励机制。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1353,7 +1353,7 @@
       "meta": "👍 34",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "MVTrack4Gen利用多视角点跟踪作为几何监督，从单目参考视频合成新视角视频，无需显式3D重建，提升几何一致性和运动保真度。"
+      "summary": "从单目参考视频合成新视角视频需兼顾几何一致性与运动保真。提出MVTrack4Gen，利用多视点跟踪作为几何监督，无需显式3D重建，直接生成符合目标相机轨迹的4D视频。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1364,7 +1364,7 @@
       "meta": "👍 26",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "JetSpec通过并行树草稿打破推测解码的缩放上限，在保持高接受率和低草稿开销的同时增加草稿预算，加速自回归LLM推理。"
+      "summary": "推测解码加速LLM受限于扩展瓶颈：增加草案预算时需维持高接受率与低开销。提出JetSpec，通过并行树形草案打破缩放上限，显著提升解码速度。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1375,7 +1375,7 @@
       "meta": "👍 25",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "构建统一的执行层基准，对比纯屏幕交互与技能介导的计算机使用智能体在GUI和CLI上的性能瓶颈，解耦模态差异对任务执行的影响。"
+      "summary": "电脑使用智能体可通过图形或命令行界面执行任务，但现有评估混杂交互模态。构建匹配的执行层基准，系统比较屏幕仅与技能介导的智能体在任务、初始状态等变量控制下的瓶颈差异。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1386,7 +1386,7 @@
       "meta": "👍 25",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "V-Zero提出无答案标签的同策略蒸馏方法，结合对比证据门控，使MLLM在细粒度视觉推理中定位相关区域，避免依赖大规模标注或RL。"
+      "summary": "细粒度视觉推理需多模态大模型定位局部证据。提出V-Zero，无需答案标签的 on-policy 蒸馏方法，结合对比证据门控机制，在无需大规模标注下提升推理区域的 grounding 能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1397,7 +1397,7 @@
       "meta": "👍 24",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "UnityShots利用记忆驱动的多镜头音视频生成，通过边界感知门控在剪切间保持主体外观、场景和说话人身份一致性，避免长序列训练或记忆膨胀。"
+      "summary": "生成连贯多镜头视频需跨镜头记忆（外观、场景、身份一致性）。提出UnityShots，采用记忆驱动的多镜头音视频生成，结合边界感知门控控制信息流，生成长序列且保持一致性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1408,7 +1408,7 @@
       "meta": "👍 20",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "Fast LeWorldModel加速基于JEPA的世界模型，引入高效潜空间规划方法，替代原模型中重复的单步潜转移评估，提升视觉规划速度。"
+      "summary": "LeWorldModel使用局部一步潜在过渡模型评估动作序列，效率低。提出Fast LeWorldModel，通过改进规划时的推理过程，加速视觉世界模型在规划任务中的评估速度。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1419,7 +1419,7 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "研究发现多步工具使用RL容易崩溃，原因是缺乏监督信号；引入辅助监督（如中间奖励或演示）能稳定训练，提升工具调用能力。"
+      "summary": "强化学习在工具使用任务中常导致不稳定或有限增益。实验发现模型出现灾难性现象。分析表明，监督信号（如奖励 shaping）能稳定训练并修复RL在工具使用中的崩溃问题。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1430,7 +1430,7 @@
       "meta": "👍 14",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "重新评估智能体在陌生环境中的能力，现有基准聚焦简单任务且范围狭窄，该工作构建更具挑战性的评测集，揭示智能体泛化短板。"
+      "summary": "现有智能体基准集中于简单任务。提出「跑过考验场」，重新评估智能体在陌生环境中的能力，设计涵盖高复杂度、多领域的挑战，揭示当前系统泛化能力的不足。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1441,7 +1441,7 @@
       "meta": "👍 12",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "LISA通过似然分数对齐优化视觉条件可控生成中的双分支范式，分析侧网络中间层特征的作用，提升条件控制的准确性和生成质量。"
+      "summary": "双分支范式（侧网络编码条件+冻结主网络）在视觉条件可控生成中成功但侧网络的作用未明。提出LISA，通过似然分数对齐，动态调整侧网络激活，提升生成质量与条件保真。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1452,7 +1452,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对长推理链中KV缓存膨胀问题，提出信息感知压缩方法，超越传统注意力权重，基于信息量估计token重要性，在预填充和解码阶段有效压缩。"
+      "summary": "长推理场景中KV缓存膨胀。现有压缩方法依赖注意力权重估计 token 重要性，但注意力不能完全反映信息价值。提出信息感知KV缓存压缩，考虑更大信息量指标，在长推理中保持性能的同时显著减少缓存。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1463,7 +1463,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "视频推理模型存在“盲信问题”，对运动模糊、遮挡等扰动脆弱（准确率下降15-30%）。提出置信度感知工具编排，鲁棒整合多模态证据提升视频理解。"
+      "summary": "视频推理模型假设每帧可靠，但运动模糊等扰动导致准确率下降15-30%。提出自信感知工具编排机制，识别不可靠帧并动态调用外部工具（如OCR、检测），提升鲁棒视频理解。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1474,7 +1474,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "PhysiFormer是扩散Transformer，在世界坐标系中模拟3D物体力学运动（网格表现），给定初始顶点位置、速度和外部条件，生成物理可信的3D运动。"
+      "summary": "现有视频世界模型在像素空间操作，缺乏3D物理一致性。提出PhysiFormer，基于扩散Transformer，将物体表示为世界坐标下的3D网格，给定初始顶点位置/速度及外部条件，直接模拟物理驱动下的3D运动。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1485,7 +1485,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "Autodata让AI智能体充当数据科学家，自动构建高质量合成训练/评估数据，并通过元优化使其学会生成更强的数据，提升下游模型性能。"
+      "summary": "提出Autodata，一种通用方法使AI智能体扮演数据科学家，自动构建高质量训练与评估数据。通过元优化训练智能体学会创建更强数据，并给出具体实现框架。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1595,7 +1595,7 @@
       "publishedAt": "2026-06-26T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "当日AI新闻要点：美国政府与OpenAI的法律纠纷、AI经济现状、规模定律讨论等。"
+      "summary": "美国与 OpenAI 之间的争议，人工智能经济现状，以及扩展定律的讨论。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1605,7 +1605,7 @@
       "publishedAt": "2026-06-25T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "当日AI新闻：Anthropic指控阿里巴巴侵权、Gemini推出计算机使用功能、其他科技动态。"
+      "summary": "辣味薯片、Anthropic 起诉阿里巴巴、Gemini 计算机使用功能等话题。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1777,7 +1777,7 @@
       "publishedAt": "2026-06-26T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "OpenAI推出GPT-5.6三个变体：旗舰版Sol、中端Terra、低成本Luna，受美国政府限制仅向受信任合作伙伴开放。Sol增强网络安全与安全性能。"
+      "summary": "OpenAI 预览 GPT-5.6 的三个变体：Sol（旗舰）、Terra（中端）和 Luna（低成本），根据美国政府要求限制发布，仅限可信合作伙伴使用。Sol 增强网络安全和安全性。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1787,7 +1787,7 @@
       "publishedAt": "2026-06-25T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Z.ai的GLM-5.2在编码和智能体基准测试中领先，Code Arena前端得分1595，推理准确率34.29%且零失败。Databricks将GLM-5.2速度提升至392 tok/s。新开源模型Ornith-1.0发布（MIT许可）。"
+      "summary": "Z.ai 的 GLM-5.2 在编码和智能体基准测试中领先，Code Arena: Frontend 得分1595，推理准确率34.29%。Databricks 优化后速度达392 tok/s。新模型 Ornith-1.0 采用 MIT 许可发布。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -2049,7 +2049,7 @@
       "publishedAt": "2026-06-27T05:23:22.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "OpenAI发布GPT-5.6 Sol、Terra、Luna三个层级模型，同日面向OAI与ANT。Sol为旗舰版，Terra中端，Luna低成本，仅限受信任合作伙伴使用。"
+      "summary": "OpenAI 推出 GPT-5.6 的三个变体：旗舰版 Sol、中端版 Terra 和低成本版 Luna，同日对 OpenAI 和 ANT 进行分级发布，仅限可信合作伙伴使用。"
     },
     {
       "sourceId": "latent-space",
@@ -2059,7 +2059,7 @@
       "publishedAt": "2026-06-26T01:12:30.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "OpenAI报告称，自2025年11月以来，内部Codex输出令牌中位数在Research部门增长56倍，客户支持32倍，工程27倍，法务13倍。"
+      "summary": "OpenAI 报告自2025年11月以来，内部 Codex 输出 token 中位数增长：研究部门56倍，客服32倍，工程27倍，法律13倍。"
     },
     {
       "sourceId": "latent-space",
@@ -2069,7 +2069,7 @@
       "publishedAt": "2026-06-25T02:14:08.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Meta提出“Meta-Harness”概念，强调在已有产品工程基础上构建更高级的“测具中的测具”，推动AI工具链系统性提升。"
+      "summary": "Meta 的「哈内斯工程」被取代，进入「元哈内斯」夏季——即哈内斯之上的哈内斯。"
     },
     {
       "sourceId": "latent-space",
@@ -2079,7 +2079,7 @@
       "publishedAt": "2026-06-24T18:53:16.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Databricks技术负责人Matei Zaharia和Reynold Xin在访谈中阐述为何前沿生态系统必须开放，并讨论企业构建Agent Cloud所需条件。"
+      "summary": "Databricks 技术领导人 Matei Zaharia 和 Reynold Xin 讨论前沿生态系统必须保持开放，以及如何帮助每家公司构建「智能体云」。"
     },
     {
       "sourceId": "latent-space",
@@ -2233,7 +2233,7 @@
       "publishedAt": "2026-06-25T14:22:59.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "AI正重塑零售业，但最显著变革不在虚拟试穿或聊天购物助手，而在幕后决策：产品如何出现在搜索结果、定价策略等。"
+      "summary": "人工智能正在重塑零售业，但最大的变革并非虚拟试穿或聊天助手，而是搜索排名和后台决策方式。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2325,7 +2325,7 @@
       "category": "tech",
       "meta": "@RhysSullivan · 57.2K 粉丝 · 86.1K 阅 · 503 赞 · 25 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分析MCP协议未能流行的原因：推出时机过早，当时模型能力（Sonnet 3.5、GPT-4o）有限，对工具使用认知不足。展望未来方向，强调需根据模型能力提升重新设计协议。"
+      "summary": "反思MCP（Model Context Protocol）未能成功的原因：推出时最佳模型为Sonnet 3.5和GPT 4o，业界对模型工具使用尚不成熟。探讨下一步方向。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2336,7 +2336,7 @@
       "category": "tech",
       "meta": "@GoogleAIStudio · 179.4K 粉丝 · 41.0K 阅 · 605 赞 · 57 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Gemini 3.5 Flash 新增内置「计算机使用」工具，可像人类一样操控屏幕完成任务，性能优于此前独立版本，强化Agent的端到端自动化能力。"
+      "summary": "Google AI Studio 宣布 Gemini 3.5 Flash 内置 computer use 功能，作为 agentic 计算机任务的内置工具，性能较之前 Gemini 2.5 独立版本显著提升。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2347,7 +2347,7 @@
       "category": "tech",
       "meta": "@0xDevin_ · 6.6K 粉丝 · 38.3K 阅 · 539 赞 · 5 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "介绍Kimi与传统聊天AI的本质区别：内置浏览器自动化引擎Claw和Agent Swarm，能自主导航网页、多智能体协作执行复杂任务，效率远超普通界面工具。"
+      "summary": "对比传统AI聊天工具，Kimi 是一套完整系统：包含浏览器自动化引擎 Claw（模拟人类浏览）和 Agent Swarm（可并行执行多步骤任务），实现更复杂的自动化工作流。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2358,7 +2358,7 @@
       "category": "tech",
       "meta": "@ericzakariasson · 76.0K 粉丝 · 32.3K 阅 · 518 赞 · 29 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分享使用AI agent编程的「人在回路」工作流：同时运行多个agent，空闲时处理其他工作，agent完成或需要决策时再介入，提升整体开发效率。"
+      "summary": "分享 agent 编程中的「人在回路」实践：可同时运行多个 agent 任务，待其完成或需要干预时再介入，从而高效并行工作，适合异步协作场景。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2387,7 +2387,7 @@
       "publishedAt": "2026-06-27T08:00:15.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "联想首席财务官在历史性繁荣期进行资本配置，该公司作为主要服务器公司正充分利用这一浪潮。"
+      "summary": "联想首席财务官在历史性繁荣期如何进行资本配置，该公司正受益于服务器业务的大幅增长。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2397,7 +2397,7 @@
       "publishedAt": "2026-06-27T08:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "播客节目「Odd Lots」讨论联想首席财务官如何看待人工智能时代的资本支出。"
+      "summary": "播客节目中，联想首席财务官分享了在人工智能时代对资本支出（Capex）的看法。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2407,7 +2407,7 @@
       "publishedAt": "2026-06-27T08:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "伦敦金融城为伯纳姆政府挑选财政大臣做准备。往年夏季市长官邸晚宴可了解财相想法，但今年无人确定人选。"
+      "summary": "伦敦金融城为伯纳姆政府可能任命的新财相做准备，每年夏季的市长官邸晚宴原本是倾听财相讲话的机会，但今年财相人选未定。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2417,7 +2417,7 @@
       "publishedAt": "2026-06-27T05:02:48.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "刚果民主共和国和乌干达埃博拉病例增加，非洲疾控中心主任让·卡塞亚呼吁西方政府提供更多资金遏制疫情，并警告关闭边境无法阻止病毒传播。"
+      "summary": "非洲疾病预防控制中心呼吁西方政府提供更多资金以遏制埃博拉疫情，刚果民主共和国和乌干达病例增加，中心主任让·卡塞亚警告关闭边境无法阻止病毒传播。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2437,7 +2437,7 @@
       "publishedAt": "2026-06-27T04:04:48.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "比亚迪董事长王传福在陕西与省委书记赵一德、省长赵刚会谈；自3月以来，他已先后与至少五个省份的领导人会面。"
+      "summary": "比亚迪董事长王传福在陕西与省委书记赵一德、省长赵刚会面，这是自三月以来他与至少五个省份领导人的系列会谈之一。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2825,7 +2825,7 @@
       "publishedAt": "2026-06-27T08:00:10.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "今日新闻简报内容包括：足球的隐秘超级联赛、PGA巡回赛改革以及埃利奥特·希尔对耐克修复的看法。"
+      "summary": "文章探讨足球界隐秘的超级联赛计划，同时提及PGA巡回赛改革以及Elliott Hill如何修复耐克品牌。"
     },
     {
       "sourceId": "ft-companies",
@@ -2835,7 +2835,7 @@
       "publishedAt": "2026-06-27T04:53:56.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "北京中信大厦飞机撞击事件后，警方搜查的汽车车主身份已确认。该车当时位于肇事飞机起飞的那个机场。"
+      "summary": "北京中信大厦遭飞机撞击事件中，警方搜查的汽车车主身份已确认，该车当时位于肇事飞机起飞的那个机场。"
     },
     {
       "sourceId": "ft-companies",
@@ -2845,7 +2845,7 @@
       "publishedAt": "2026-06-27T04:00:51.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "易捷航空主要股东坚持要求Castlelake以53亿英镑（每股7英镑）收购，许多大型投资者认为报价必须达到该水平。"
+      "summary": "易捷航空大股东坚持要求私募信贷集团Castlelake将收购报价提高至每股7英镑，总价约53亿英镑。"
     },
     {
       "sourceId": "ft-companies",
@@ -2855,7 +2855,7 @@
       "publishedAt": "2026-06-27T04:00:51.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "奢侈品行业低迷，但香水是美容业增长最快的领域之一，不过投资香水并非易事。"
+      "summary": "奢侈品行业低迷，但香水成为美容行业中增长较快的领域，不过投资香水品类并非易事。"
     },
     {
       "sourceId": "ft-companies",
@@ -2865,7 +2865,7 @@
       "publishedAt": "2026-06-27T04:00:51.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "波罗的海国家敦促欧盟加快禁止进口俄罗斯石油的进程；此前因霍尔木兹海峡关闭引发能源供应危机担忧，相关退出门槛讨论陷入停滞。"
+      "summary": "波罗的海国家敦促欧盟加快禁止进口俄罗斯石油的进程，此前因霍尔木兹海峡关闭引发能源供应危机担忧，相关谈判陷入停滞。"
     },
     {
       "sourceId": "ft-companies",
@@ -3595,7 +3595,7 @@
       "publishedAt": "2026-06-27T10:06:32.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "美国对伊朗发动军事打击，此前伊朗袭击了一艘货船。伊朗指责美国违反双方协议，并声称已对美军相关目标实施报复性打击。"
+      "summary": "美国对伊朗发动空袭（此前一艘货船遭袭），伊朗指责美国违反协议，并声称已袭击与美国军队相关的目标作为回应。"
     },
     {
       "sourceId": "bbc-world",
@@ -3644,10 +3644,19 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "DR Congo takes Rwanda to international court over decades of conflict",
-      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
-      "publishedAt": "2026-06-26T17:05:22.000Z",
+      "title": "Billionaire Leon Black walks out of Epstein investigation hearing",
+      "url": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The House panel then issued subpoenas demanding the private equity tycoon, who co-founded Apollo Global Management, testify on camera and under oath.",
+      "publishedAt": "2026-06-27T03:07:46.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Pete Buttigieg briefly separated from children after false police report",
+      "url": "https://www.bbc.co.uk/news/articles/cwydx95kjx0o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Buttigieg says the day he spent separated from his twins was \"among the darkest hours of my life\".",
+      "publishedAt": "2026-06-27T00:40:44.000Z",
       "category": "politics",
       "source": "BBC World"
     },
@@ -3671,6 +3680,33 @@
     },
     {
       "sourceId": "bbc-world",
+      "title": "World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
+      "url": "https://www.bbc.co.uk/news/articles/clyxgjykx7lo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "International fans visiting the US for the World Cup have become frustrated by the culture of having to tip servers, telling the BBC that tipping fatigue has set in.",
+      "publishedAt": "2026-06-26T18:20:04.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "DR Congo takes Rwanda to international court over decades of conflict",
+      "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
+      "publishedAt": "2026-06-26T17:05:22.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
+      "url": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "It relates to a 17-year-old girl - four men including her father and husband face years in jail if convicted.",
+      "publishedAt": "2026-06-26T15:34:39.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
       "title": "Christmas market attacker jailed for life for murdering six in Germany",
       "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
       "excerpt": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
@@ -3684,15 +3720,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
       "excerpt": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
       "publishedAt": "2026-06-26T10:38:37.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "Four men held over child marriage in Sierra Leone appear in landmark court case",
-      "url": "https://www.bbc.co.uk/news/articles/c9q212y8p21o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "It relates to a 17-year-old girl - four men including her father and husband face years in jail if convicted.",
-      "publishedAt": "2026-06-26T15:34:39.000Z",
       "category": "politics",
       "source": "BBC World"
     },
@@ -4019,7 +4046,7 @@
       "publishedAt": "2026-06-27T10:13:07.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "欧洲遭遇热浪侵袭，德国气温预计超过40°C，英格兰发布极端高温警告。热浪自西向东移动，法国、瑞士、奥地利等国已发布最高级别预警。"
+      "summary": "欧洲热浪持续，德国预计气温远超40°C，英国发布极端高温预警。热浪向中欧和东欧蔓延，法国、瑞士、德国、奥地利发出最高级别警报。"
     },
     {
       "sourceId": "guardian-world",
@@ -4029,7 +4056,7 @@
       "publishedAt": "2026-06-27T10:12:10.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "美国总统特朗普威胁对任何征收数字服务税的欧洲国家加征100%关税，称该措施将立即生效并取代现有贸易协议。此举针对欧盟国家。"
+      "summary": "美国总统特朗普威胁称，将对任何征收数字服务税的欧洲国家立即加征100%进口关税，且该关税将取代现有贸易协定。"
     },
     {
       "sourceId": "guardian-world",
@@ -4110,8 +4137,7 @@
       "excerpt": "Frontline Congolese workers who conduct safe burials are key to containing what experts fear could become the worst ever Ebola outbreak. They risk not just infection, but the anger of terrified communities.",
       "publishedAt": "2026-06-27T09:01:25.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "刚果（金）埃博拉疫情可能成为史上最严重之一，负责安全埋葬的志愿者面临感染风险和社区愤怒。他们并非总是受到欢迎。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4121,7 +4147,7 @@
       "publishedAt": "2026-06-27T09:01:57.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "墨西哥总统希恩鲍姆反对美国调查墨政界人士，但部分墨西哥官员开始与特朗普政府合作充当线人。此举引发对墨美关系的关注。"
+      "summary": "墨西哥总统辛鲍姆抵制美国对墨政治人物的调查，但一些墨官员转而成为特朗普政府的线人，提供情报合作。"
     },
     {
       "sourceId": "nyt-world",
@@ -4131,7 +4157,17 @@
       "publishedAt": "2026-06-27T09:02:39.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "委内瑞拉经济此前因改革出现好转，但连续地震造成重大破坏，死亡人数攀升。外界对美国在援助中扮演更大角色的期待正在上升。"
+      "summary": "委内瑞拉经济在数十年治理不善后本有好转，但地震重创该国。外界对美国将如何提供帮助的预期上升。"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Live Updates: Mideast Hostilities Flare, Testing Fragile U.S.-Iran Truce",
+      "url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
+      "excerpt": "Bahrain said it had come under attack by Iranian drones, an apparent retaliation after the United States launched strikes on Iranian military sites overnight.",
+      "publishedAt": "2026-06-27T10:31:06.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "中东局势再度紧张，美国对伊朗军事设施发动空袭后，巴林声称遭伊朗无人机攻击，被视为报复行动，考验美伊脆弱的停火协议。"
     },
     {
       "sourceId": "nyt-world",
@@ -4141,7 +4177,7 @@
       "publishedAt": "2026-06-27T09:02:30.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "纽约选举结果及针对以色列在加沙和伊朗战争政策的批评，令以色列担忧美以关系进一步破裂。分析认为美国对以色列的坚定支持可能难以为继。"
+      "summary": "纽约选举结果及美国国内对以色列在加沙和伊朗战争中的批评，使以色列担忧美以关系可能进一步破裂，华盛顿的坚定支持或难持续。"
     },
     {
       "sourceId": "nyt-world",
@@ -4166,10 +4202,10 @@
       "title": "Trump’s Vow to ‘Run’ Venezuela Is Tested After Quakes",
       "url": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
       "excerpt": "The U.S. dispatched hundreds of rescue workers to help the Venezuelan government, as the injured overwhelmed hospitals and the death toll rose to 920. The Pentagon sent two ships, transport planes and helicopters.",
-      "publishedAt": "2026-06-27T09:35:02.000Z",
+      "publishedAt": "2026-06-27T10:31:06.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "委内瑞拉强震已致920人死亡，伤者挤满医院。美国派遣数百名救援人员及两艘舰船、运输机和直升机协助救灾。特朗普此前对委内瑞拉的承诺面临考验。"
+      "summary": "委内瑞拉地震死亡人数升至920人，伤者挤满医院。美国派遣数百名救援人员、两艘军舰及飞机直升机协助委方，特朗普的援委承诺面临考验。"
     },
     {
       "sourceId": "nyt-world",
@@ -4227,12 +4263,13 @@
     },
     {
       "sourceId": "nyt-world",
-      "title": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
-      "url": "https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html",
-      "excerpt": "Weeks of intense strikes by Ukraine have rattled everyday life in Crimea to an extent unseen since Russia illegally annexed the peninsula in 2014.",
-      "publishedAt": "2026-06-26T17:06:55.000Z",
+      "title": "Natural Selection",
+      "url": "https://www.nytimes.com/2026/06/27/briefing/natural-selection.html",
+      "excerpt": "Sometimes, our preference for certitude, our need to define things with conviction, closes us off from possibility.",
+      "publishedAt": "2026-06-27T10:15:36.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "文章探讨人们对确定性的偏好可能阻碍发现新的可能性，反思认知习惯的局限性。"
     },
     {
       "sourceId": "nyt-world",
@@ -4242,7 +4279,7 @@
       "publishedAt": "2026-06-27T10:00:03.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "加拿大努纳武特地区剑桥湾一家由菲律宾移民经营的咖啡馆，提供意式浓缩冰淇淋和仁当等多元菜品，反映了该国高纬度北极地区日益增长的种族多样性。"
+      "summary": "加拿大努纳武特地区剑桥湾一家由菲律宾移民经营的咖啡馆提供Affogato和Rendang等美食，反映了高纬度北极地区日益增长的多样性。"
     },
     {
       "sourceId": "nyt-world",
@@ -4252,7 +4289,7 @@
       "publishedAt": "2026-06-27T09:57:31.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "该条目暂无详细报道内容。"
+      "summary": "该条目未提供具体内容，无法生成摘要。"
     },
     {
       "sourceId": "nyt-world",
@@ -4261,8 +4298,7 @@
       "excerpt": "Our chief Africa correspondent, Declan Walsh, reports from a city where Red Cross workers carrying out burials in the Ebola outbreak have come under attack.",
       "publishedAt": "2026-06-27T09:00:20.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "刚果（金）埃博拉疫情中，红十字会工作人员在实施埋葬时遭到袭击。本台首席非洲记者报道了这起针对第一响应者的攻击事件。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4373,15 +4409,6 @@
       "source": "NYT World"
     },
     {
-      "sourceId": "nyt-world",
-      "title": "Search Teams From California, Virginia and Florida Head to Venezuela",
-      "url": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-rescuers.html",
-      "excerpt": "The groups that include firefighters, doctors and structural engineering specialists began arriving on Friday to join the race to find survivors.",
-      "publishedAt": "2026-06-26T18:36:34.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
       "sourceId": "npr-world",
       "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
       "url": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
@@ -4389,7 +4416,7 @@
       "publishedAt": "2026-06-27T09:02:00.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "乌克兰一支秘密无人机部队深入俄罗斯境内1200英里，攻击炼油厂和油库。NPR探访了执行此类远程打击任务的乌方团队。"
+      "summary": "乌克兰使用远程无人机打击俄罗斯境内纵深目标，最远达1200英里，袭击油库和炼油厂。NPR日前探访了执行此类任务的乌克兰无人机小队。"
     },
     {
       "sourceId": "npr-world",
@@ -4480,7 +4507,7 @@
       "publishedAt": "2026-06-27T09:50:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "中国全国人大常委会宣布终止15人的全国人大代表资格，其中包括中共政治局委员、新疆原党委书记马兴瑞，以及中央军委装备发展部原部长、载人航天工程原总指挥徐学强等军政高层。"
+      "summary": "中国全国人大常委会终止15人全国人大代表资格，包括中共政治局委员、新疆原党委书记马兴瑞，中央军委装备发展部原部长徐学强等军政高官。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4490,7 +4517,7 @@
       "publishedAt": "2026-06-27T09:10:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "一架小型飞机撞击北京第一高楼中信大厦（中国尊），事故造成1人死亡、13人受伤，驾驶员丧生。该楼位于国贸CBD，距天安门和中南海仅数公里。"
+      "summary": "周五傍晚，一架小型飞机撞击北京第一高楼「中国尊」（中信大厦），位于国贸CBD，距天安门数公里。官方通报造成1人死亡、13人受伤。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4977,7 +5004,7 @@
       "publishedAt": "2026-06-27T15:03:00.000Z",
       "category": "politics",
       "source": "The Diplomat",
-      "summary": "巴基斯坦试图重塑和平缔造者形象，但作者呼吁国际社会不忘其人权问题。文章强调该国存在侵犯人权行为，要求外界持续关注。"
+      "summary": "巴基斯坦试图重塑国际形象、展现和平使者一面，但文章指出世界不应忘记该国人权侵害问题。"
     },
     {
       "sourceId": "the-diplomat",
