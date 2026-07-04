@@ -504,7 +504,7 @@
       "publishedAt": "2026-07-03T14:25:43.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "Google DeepMind与电影公司A24宣布首次研究合作伙伴关系，旨在探索人工智能与创意产业的结合。"
+      "summary": "谷歌DeepMind与电影公司A24宣布首次开创性研究合作伙伴关系，具体合作内容未披露。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -1046,7 +1046,7 @@
       "meta": "👍 41",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出EvoPolicyGym，一种可控评估框架用于评测自主策略演化（Autonomous Policy Evolution）。智能体通过交互环境反馈持续改进策略，避免最终分数与开放软件工程混淆。提供标准化评测设定。"
+      "summary": "提出Autonomous Policy Evolution评估框架，通过EvoPolicyGym在受控交互环境中衡量自主策略改进过程，区分最终得分与演化过程，避免与开放式软件工程进展混淆。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1057,7 +1057,7 @@
       "meta": "👍 41",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出AgenticSTS，一个有限记忆测试平台，评估长时程LLM智能体的记忆合约。通过界定每个未来决策允许看到的信息，解决简单追加记忆导致的上下文混乱。实现可控记忆管理。"
+      "summary": "AgenticSTS为长程LLM Agent提供有界记忆测试床，分析简单拼接策略导致上下文混杂的问题，为可控记忆合约评估提供标准化环境。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1068,7 +1068,7 @@
       "meta": "👍 36",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出PerceptionRubrics，基于评分标准的评估框架，从整体语义匹配转向严格原子审计。使用1038张信息密集图像，通过原子级审计对齐人类感知，弥补多模态评估中基准饱和与真实鲁棒性差距。"
+      "summary": "PerceptionRubrics基于评分细则的多模态评估框架，将整体语义匹配转为原子审核，配合1038张信息密集图像与大量标注，校准评估与人类感知，缓解基准饱和与真实脆弱性矛盾。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1079,7 +1079,7 @@
       "meta": "👍 33",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "研究Transformer转混合注意力模型时如何选择保留全注意力层与替换为线性注意力层。提出方法决定关键层选择，在提升长上下文效率的同时保持性能。优于现有混合转换策略。"
+      "summary": "将Transformer变形为混合注意力模型，保留部分全注意力层、其余替换为线性注意力。关键在于选择哪些层保留全注意力，提升长上下文效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1090,7 +1090,7 @@
       "meta": "👍 24",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出AgenticDataBench，一个全面的数据智能体基准，评测从异构数据中自动化获取洞察的能力。涵盖多步骤检索、推理与工具使用，推动数据科学自动化减少人工。"
+      "summary": "AgenticDataBench全面基准测试，用于评估自动化数据科学Agent从异构原始数据中提取洞察的能力，覆盖多步推理与工具调用。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1101,7 +1101,7 @@
       "meta": "👍 23",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出ELDR，面向PD分离MoE服务的专家局部性感知解码路由。除均衡负载外，考虑每步加载的专家权重差异，优化延迟。显著加速MoE推理。"
+      "summary": "ELDR提出专家局部性感知的解码路由，针对PD分离的MoE服务。现有路由仅考虑负载均衡，未考虑不同Worker加载专家权重的延迟差异；ELDR通过感知局部性优化路由，降低解码延迟。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1112,7 +1112,7 @@
       "meta": "👍 23",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "发布Seed2.0模型系列，针对真实世界复杂任务。通过识别用户真实需求构建可靠评估系统，在多个基准上取得前沿性能，接近解决复杂现实任务的智能前沿。"
+      "summary": "Seed2.0系列模型以用户真实需求为导向构建前瞻性评估体系，并优化训练，在复杂真实任务上取得有意义进展。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1123,7 +1123,7 @@
       "meta": "👍 22",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出非对称互变分学习实现多模态连续潜在推理。突破语言离散token瓶颈，在连续空间中挖掘隐式推理路径，保留视觉感知细节。提升MLLM复杂视觉推理表现。"
+      "summary": "提出非对称互变分学习实现多模态连续推理，避开语言空间瓶颈。通过连续隐空间推理路径发现，保留视觉感知细节，提升MLLMs在复杂视觉任务上的表现。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1134,7 +1134,7 @@
       "meta": "👍 22",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出MemSyco-Bench，评估智能体记忆中随声附和（sycophancy）的基准。发现检索记忆使智能体过度迎合用户，损害真实性。提供系统化测试方法检测该问题。"
+      "summary": "MemSyco-Bench基准测试关注Agent记忆带来的谄媚（sycophancy）问题，即记忆检索导致Agent过度迎合用户。提供标准化评估方法，衡量记忆引发的不当对齐。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1145,7 +1145,7 @@
       "meta": "👍 18",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出WorldDirector，一个具备持久动态物体记忆和自由视角探索的可控视频世界模型框架。分离物理动态与像素渲染，实现对物体记忆的持续控制。"
+      "summary": "WorldDirector可控制视频世界模型框架，具备持久动态对象记忆和自由视角探索。解耦物理动态与像素渲染，不依赖连续视觉观测即可维持运动一致性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1156,7 +1156,7 @@
       "meta": "👍 18",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出ASPIRE，一种通过迭代机器人探索进行智能体技能编程的持续学习系统。自动发现技能以应对多模态感知、物理接触动力学等挑战，减少人工编程。"
+      "summary": "ASPIRE通过机器人迭代探索实现自主技能发现与编程的持续学习系统，让机器人自主习得可复用技能，应对多模态感知、接触动力学和故障处理。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1167,7 +1167,7 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对医学多模态推理中的失败级联，提出步骤感知强化学习。通过逐步骤奖励解决稀疏信用分配问题，提升临床图像推理的中间步骤正确性和最终准确性。"
+      "summary": "提出步骤感知强化学习用于医学多模态推理，将推理步骤分解并每步奖励，解决结果中心训练中信用分配稀疏的问题，打破错误级联，提升临床图像推理鲁棒性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1178,7 +1178,7 @@
       "meta": "👍 14",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出SkillCoach，通过自演化评分标准评估和增强智能体技能使用。针对重叠技能仓库提供细粒度反馈，超越最终验证器，提升技能选择可靠性。"
+      "summary": "SkillCoach为LLM Agent技能使用提供自演化评分细则，针对技能库重叠导致使用不可靠的问题，通过细粒度评估和训练提升技能选择的正确性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1189,7 +1189,7 @@
       "meta": "👍 12",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出Logit-Contribution Scoring方法，识别长上下文模型中非字面检索头——那些基于语义合成答案而非直接拷贝的注意力头。提升模型可解释性。"
+      "summary": "提出Logit-Contribution Scoring方法，识别LLM中负责非字面检索的注意力头——这些头根据上下文语义合成答案而非直接复制。相比现有检测器更准确，有助于解释长上下文行为。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1200,7 +1200,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出图原生强化学习方法，通过概念重组生成可追溯的科学假设。在材料设计中确保多步推理的领域基础性和可追踪性，优于标准LLM的模糊生成。"
+      "summary": "提出图原生强化学习方法，通过概念重组实现可追踪的科学假设生成。将推理过程建模在图上，每一步可溯源，解决LLM在材料设计问题中响应流畅但可追踪性弱的问题。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1211,7 +1211,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出InstanceControl，无需实例标注即可生成可控复杂多实例图像。解决ControlNet等方法在多实例场景中的属性混淆，实现精细控制。"
+      "summary": "InstanceControl无需实例标注即可实现复杂多实例图像可控生成。解决现有方法在多重物体场景中的属性混淆问题，通过隐式条件控制每个实例特征。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1222,7 +1222,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出DiscoBench，一个需要澄清的深度搜索基准。针对用户查询不完整、隐含意图的场景，评测搜索智能体何时应主动提问以澄清需求，推动鲁棒搜索。"
+      "summary": "DiscoBench基准测试关注搜索Agent何时应主动询问澄清问题。现有基准假设查询完整明确，DiscoBench评估Agent在模糊查询下进行澄清式多步搜索的能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1233,7 +1233,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出状态-预测分离假说：Transformer中预测下一个token与存储有用状态应分离。设计变体分离两者，在语言建模中取得更好性能，验证假说有效性。"
+      "summary": "提出状态-预测分离假说：Transformer将下一token预测与状态存储解耦可提升语言建模性能。设计新架构变体验证该假说，在保持计算效率的同时改进预测质量。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1244,7 +1244,7 @@
       "meta": "👍 7",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出AutoMem，将记忆管理视为可训练的元认知技能。通过将文件系统操作提升为智能体一阶方法，自动学习编码、检索和组织知识，提升长时记忆效率。"
+      "summary": "AutoMem将记忆管理训练为LLM的认知技能（元记忆）。将文件系统操作提升为一级机制，让模型自主学习编码、检索和知识组织策略，提升长程记忆利用效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1255,7 +1255,7 @@
       "meta": "👍 7",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出AnyGroundBench，一个专业化领域视频定位基准，评估VLM在医疗、工业等特殊场景的时空视频定位能力，弥补零样本评估与现实应用的差距。"
+      "summary": "AnyGroundBench专业领域视频定位基准，评估VLM在工业、医疗等特殊场景中的时空视频定位能力，弥补当前仅限通用日常场景零样本评估的空白。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1365,7 +1365,7 @@
       "publishedAt": "2026-07-03T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "Meta发布Watermelon项目，Anthropic与三星芯片达成合作，自动研究实践取得新进展。"
+      "summary": "Meta推出「Watermelon」项目，Anthropic与三星合作开发芯片，autoresearch实践取得进展。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1375,7 +1375,7 @@
       "publishedAt": "2026-07-02T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "Google Gemini Flash模型升级，Meta推出AI云服务，以及新工具ZCode发布。"
+      "summary": "Gemini Flash获得升级，Meta推出AI云服务，ZCode项目公布。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1547,7 +1547,7 @@
       "publishedAt": "2026-07-02T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Fullstack Code Arena扩展编码代理评估至数据库、API密钥和结构化工具使用，转向端到端应用交付；LangChain发布LangSmith（统一追踪）和OpenWiki（自动生成文档）。"
+      "summary": "Fullstack Code Arena扩展编码代理评估至数据库、API密钥和部署；LangChain发布LangSmith统一追踪和OpenWiki自动生成文档。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1818,7 +1818,7 @@
       "publishedAt": "2026-07-03T05:11:43.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI工程师世界博览会（AIEWF）以一场关于循环的辩论、一份AI工程状况报告以及聚焦于“下一步建设什么”的闭幕主题演讲落下帷幕。"
+      "summary": "AI工程师世界博览会（AIEWF）以关于循环的辩论、AI工程现状报告及聚焦未来建设方向的主题演讲闭幕。"
     },
     {
       "sourceId": "latent-space",
@@ -1828,7 +1828,7 @@
       "publishedAt": "2026-07-03T00:08:18.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Vercel首席软件官Andrew Qu解释了其代理框架eve的创建过程，并阐述了技能、沙盒以及代理可读网站在当下为何重要。"
+      "summary": "Vercel首席软件官Andrew Qu阐述其代理框架eve的创建过程，并解释技能、沙盒和代理可读网站为何变得重要。"
     },
     {
       "sourceId": "latent-space",
@@ -1838,7 +1838,7 @@
       "publishedAt": "2026-07-02T21:25:14.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Adobe正在实验“代理网站”，该网站可根据用户意图动态生成页面。在AIEWF上，Carlos Sanchez讨论了Web的未来。"
+      "summary": "Adobe正在试验「代理型网站」，根据用户意图动态生成页面。在AIEWF上，Carlos Sanchez讨论了网站的未来发展。"
     },
     {
       "sourceId": "latent-space",
@@ -1848,7 +1848,7 @@
       "publishedAt": "2026-07-02T14:36:05.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Paul Bakaus讨论了技能工程和反对一次性AI设计的案例，强调在“循环最大化”时代人类判断力的重要性，以及代理仍需人类引导。"
+      "summary": "Paul Bakaus讨论Impeccable工具、人类在「循环最大化」时代中的判断力，以及为何代理仍需人类引导。"
     },
     {
       "sourceId": "latent-space",
@@ -1858,7 +1858,7 @@
       "publishedAt": "2026-07-02T07:10:14.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI新闻简报：当天较为平静，无明显重大事件发生。"
+      "summary": "当日AI领域无重大事件，市场平静。"
     },
     {
       "sourceId": "latent-space",
@@ -1868,7 +1868,7 @@
       "publishedAt": "2026-07-02T06:13:49.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AIEWF每日简报聚焦自动研究引发的AI与人类能动性之间的张力，软件工厂愿景遭到维护人类理解与控制的演讲者反对。"
+      "summary": "AIEWF日报：自动研究（Autoresearch）引发关于AI与人类自主性之间张力的讨论，演讲者捍卫人类理解和控制。"
     },
     {
       "sourceId": "latent-space",
@@ -1878,7 +1878,7 @@
       "publishedAt": "2026-07-01T23:52:30.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Introspection联合创始人Roland Gavrilescu解释了自动研究、代理“配方”、自我改进循环，并强调人类在软件工厂中的核心地位。"
+      "summary": "Introspection联合创始人Roland Gavrilescu解释自动研究、代理「配方」和自我改进循环，强调人类在软件工厂中的核心地位。"
     },
     {
       "sourceId": "latent-space",
@@ -1888,7 +1888,7 @@
       "publishedAt": "2026-07-01T19:03:44.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Cursor的Pauline Brunet解释了其前部署工程师团队如何帮助企业实施代理，实质上是建立软件工厂。"
+      "summary": "Cursor的Pauline Brunet解释其前置部署工程师团队如何帮助企业实施代理，本质上建立软件工厂。"
     },
     {
       "sourceId": "latent-space",
@@ -1898,7 +1898,7 @@
       "publishedAt": "2026-07-01T14:42:39.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Evan Feinberg和Sergey Edunov讨论扩散研究在药物发现中的应用：Llama负责人离开Meta转向药物发现，PEARL的零样本OpenBind获胜，以及共折叠达到精度门槛后的可能性。"
+      "summary": "Genesis Molecular AI的Evan Feinberg和Sergey Edunov指出最酷的扩散研究不在LLM领域；前Llama负责人离开Meta投身药物发现，PEARL在OpenBind实现零样本胜利。"
     },
     {
       "sourceId": "latent-space",
@@ -2007,7 +2007,7 @@
       "publishedAt": "2026-07-02T15:37:08.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "文章探讨利用AI实现运营卓越，引用精益六西格玛和业务流程管理（BPM）框架，强调其通过统计严谨性和质量控制为混乱运营带来秩序的作用。"
+      "summary": "Lean Six Sigma和BPM等框架曾为混乱运营带来秩序，强调统计严谨性和质量控制。文章探讨AI如何助力实现运营卓越。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2017,7 +2017,7 @@
       "publishedAt": "2026-07-02T12:51:44.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "AI在物理基础设施、运营连续性和安全等工业领域的应用正展现其最重大的用例，超越了消费级工具，例如教授AI与涡轮机协同工作。"
+      "summary": "AI在物理基础设施、运营连续性和安全等工业领域正发挥重要作用，远超消费级工具。文章聚焦AI在涡轮机等场景的应用。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2100,7 +2100,7 @@
       "category": "tech",
       "meta": "@RampLabs · 13.4K 粉丝 · 335.4K 阅 · 507 赞 · 45 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "论文提出PorTAL，让LoRA风格的任务适配器不再绑定单一基础模型，可迁移到新模型，降低微调成本，解决重复适配问题。"
+      "summary": "研究员Ben Geist提出PorTAL（便携式任务适配器），解决LoRA等参数高效微调方法中adapter绑定单一基模型的问题，使adapter可迁移到新发布的模型上，提升复用性。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2111,7 +2111,7 @@
       "category": "tech",
       "meta": "@milesdeutscher · 671.1K 粉丝 · 243.8K 阅 · 500 赞 · 73 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "提供掌握Fable工具的完整指南，从基础操作到高阶技巧，声称可将AI生产力提升10倍，适用于AI工作流优化。"
+      "summary": "博主分享如何充分利用Fable提升AI生产力的基础指南，涵盖从入门到进阶的必备工具和技巧，声称可10倍提升工作效率。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2122,7 +2122,7 @@
       "category": "tech",
       "meta": "@philhchen · 9.1K 粉丝 · 179.1K 阅 · 516 赞 · 34 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "AI擅长解决有明确标准答案的问题（如学校教育），未来有价值的工作是定义问题本身，而非求解已知答案。"
+      "summary": "在AI时代，模型擅长有明确损失函数的问题（如学校标准化考试），因此未来有价值的工作是那些无法被简单定义和评估的非结构化任务，需要重新思考职业方向。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2133,7 +2133,7 @@
       "category": "tech",
       "meta": "@ErikVoorhees · 908.5K 粉丝 · 124.8K 阅 · 529 赞 · 103 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Venice宣布A轮融资，致力于打造私密、不受审查的AI服务，强调用户数据自主权和思想自由。"
+      "summary": "Venice完成A轮融资，旨在构建隐私优先、不受限制的AI平台。创始人引用匿名格言强调思想与言论自由，认为AI不应被他人控制和约束。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2144,7 +2144,7 @@
       "category": "tech",
       "meta": "@EXM7777 · 121.1K 粉丝 · 83.6K 阅 · 518 赞 · 48 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "教程演示如何将Fable 5打造为「第二大脑」，使其深度理解业务逻辑并输出个性化成果，区别于通用AI输出。"
+      "summary": "步骤指南：如何将Fable 5打造成深度理解业务的「第二大脑」，产出与众不同的结果。强调个性化配置，让AI工具真正融入个人工作流。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2155,7 +2155,7 @@
       "category": "tech",
       "meta": "@AlexFinn · 459.5K 粉丝 · 72.5K 阅 · 565 赞 · 34 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "指出Fable 5不是「氛围编程」工具，而是操作系统级工具；应将其用于构建工作流和自动化操作，而非简单代码生成。"
+      "summary": "Fable 5并非简单代码生成工具，而是操作系统级工具。博主认为若只用于vibe coding则大材小用，强调应将其作为底层系统来管理任务和工作流。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2166,7 +2166,7 @@
       "category": "tech",
       "meta": "@addyosmani · 404.9K 粉丝 · 53.5K 阅 · 525 赞 · 66 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "探讨Agent工程自主性层次，核心是从「提示」转向「操作」，涉及软件工厂、目标循环、后台会话等新范式。"
+      "summary": "探讨Agent自主性层次，行动已从提示转向操作。展望未来方向：软件工厂、目标循环、后台会话等概念，描绘Agent工程的前沿图景。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2177,7 +2177,7 @@
       "category": "tech",
       "meta": "@trq212 · 299.3K 粉丝 · 40.1K 阅 · 534 赞 · 43 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "强调「地图不等于领土」：提示和技能只是工作规划，实际执行中需要不断调整，发现未知才是关键。"
+      "summary": "使用Claude Fable 5的田野指南：强调「地图不是领土」——用户的prompts和技能只是任务表征，真正的价值在于探索未知领域，而非固守预设。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2188,7 +2188,7 @@
       "category": "tech",
       "meta": "@ericzakariasson · 76.4K 粉丝 · 37.9K 阅 · 567 赞 · 24 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "介绍Fable 5在Cursor中的使用模式：让Fable作为编排者，其他Composer作为执行者，分工协作提升效率。"
+      "summary": "Fable重新回到Cursor，博主分享使用模式：将Fable作为协调者（orchestrator），Composer作为工人（workers），实现更高效的AI协作工作流。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2199,7 +2199,7 @@
       "category": "tech",
       "meta": "@0xkozue · 690 粉丝 · 24.9K 阅 · 501 赞 · 46 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "一页PyTorch训练管线速查表，涵盖权重更新机制、数据加载、前向/反向传播等完整步骤，适合快速参考。"
+      "summary": "一页PyTorch训练管线速查表，涵盖数据加载、模型定义、损失计算、反向传播等核心步骤，简洁实用。欢迎指正和补充。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2210,7 +2210,17 @@
       "category": "tech",
       "meta": "@OptimaiNetwork · 99.8K 粉丝 · 7.8K 阅 · 540 赞 · 351 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "AI行业焦点从模型转向基础设施，探讨智能系统如何获取知识、协调行动，构建Agent原生互联网的六月进展与七月规划。"
+      "summary": "AI行业进入新阶段，焦点从模型转向基础设施。Optimai Network回顾6月进展并展望7月目标：构建智能系统知识访问与协调的底层设施，支撑Agent原生互联网。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Zelenskyy Denies Putin Claim of Securing Donetsk Stronghold",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/russia-said-it-captured-key-ukraine-stronghold-in-donetsk-region",
+      "excerpt": "Ukraine pushed back on a claim by Russian President Vladimir Putin that Kremlin forces have taken control of Kostiantynivka, a strategic logistics center in the Donetsk region, saying the heavily bombarded city remains under Ukrainian command.",
+      "publishedAt": "2026-07-04T04:21:41.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "乌克兰否认俄总统普京所称已控制顿涅茨克地区战略枢纽康斯坦丁尼夫卡的说法，表示该城市仍由乌军控制。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2220,7 +2230,7 @@
       "publishedAt": "2026-07-04T10:05:31.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "欧洲央行管委Emmanuel Moulin表示，在上月加息及油价下跌推动通胀放缓的数据后，央行处于「良好位置」。"
+      "summary": "欧洲央行管委穆兰表示，在上月加息及油价下跌导致通胀放缓后，央行处于\"有利位置\"。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2230,7 +2240,7 @@
       "publishedAt": "2026-07-04T09:49:29.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "道达尔CEO Patrick Pouyanné称，中东产油国急于出售海湾冲突期间积累的原油库存，但因航运担忧，汽油和柴油库存仍受限。"
+      "summary": "道达尔能源CEO称中东产油国急于出售冲突期间积压的原油库存，但因航运担忧，汽油和柴油库存依然紧张。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2240,17 +2250,7 @@
       "publishedAt": "2026-07-04T08:07:28.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "当地官员称，乌克兰无人机夜间袭击了俄罗斯第二大城市圣彼得堡的一处石油终端；乌克兰则称一处天然气生产设施遭俄方打击。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Ukraine Denies Putin’s Claim of Securing Donetsk Stronghold",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-04/russia-said-it-captured-key-ukraine-stronghold-in-donetsk-region",
-      "excerpt": "Ukraine pushed back on Russia’s claim that Kremlin forces have taken control of Kostiantynivka, a strategic logistics center in the Donetsk region, saying the heavily bombarded city remains under Ukrainian command.",
-      "publishedAt": "2026-07-04T04:21:41.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "乌克兰否认俄罗斯声称已占领顿涅茨克战略重镇Kostiantynivka的说法，表示该市仍由乌方控制。"
+      "summary": "乌克兰无人机袭击俄罗斯圣彼得堡一石油码头；乌克兰称一处天然气生产设施遭俄方打击。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2260,7 +2260,7 @@
       "publishedAt": "2026-07-04T07:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "法国总统马克龙任内最后一次预算对决即将上演，预计将成为法国十年来风险最高的财政冲突，预示更多政治动荡。"
+      "summary": "马克龙总统任期末的最终预算对决，预计将成为法国本十年来风险最大的财政冲突，可能引发更多政治混乱。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2270,7 +2270,7 @@
       "publishedAt": "2026-07-04T05:00:19.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "刚果和乌干达埃博拉病例上升，疫苗开发商加速应对罕见的本迪布焦毒株。IAVI首席执行官Mark Feinberg表示，候选疫苗有望年底前进入人体试验。"
+      "summary": "刚果和乌干达埃博拉病例上升，疫苗开发者加速应对罕见Bundibugyo毒株；IAVI CEO表示候选疫苗或于年底前进入人体试验。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2676,7 +2676,7 @@
       "publishedAt": "2026-07-04T09:02:27.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "美国东部「热穹顶」导致气温接近40°C，风暴袭击后超80万户家庭断电，电网承压令电价飙升。"
+      "summary": "美国东部\"热穹顶\"天气导致气温接近40°C，风暴造成超过80万户家庭停电，电网承压，电价飙升。"
     },
     {
       "sourceId": "ft-companies",
@@ -2686,7 +2686,7 @@
       "publishedAt": "2026-07-04T08:00:02.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "温布尔登网球锦标赛作为奢侈品营销平台的作用被分析，同时报道了银石赛道排位赛及耐克复苏进展。"
+      "summary": "温网成为奢侈品牌营销平台；本通讯还提及银石赛道的地位及耐克复苏进展。"
     },
     {
       "sourceId": "ft-companies",
@@ -2696,7 +2696,7 @@
       "publishedAt": "2026-07-04T04:00:52.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "英国热浪冲击后，农民开始采用再生农业方法，减少化学品使用和密集耕作，以改善土壤质量、增强保水能力。"
+      "summary": "英国农民因高温冲击转向再生农业方法，减少化学品和深耕以改善土壤保水能力。"
     },
     {
       "sourceId": "ft-companies",
@@ -2706,7 +2706,7 @@
       "publishedAt": "2026-07-04T04:00:43.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "瑞银集团在美国财富业务取得进展，目标到2028年实现18%的税前利润率。"
+      "summary": "瑞银在美国追求\"平庸\"业务目标取得进展，计划到2028年实现美国财富业务18%的税前利润率。"
     },
     {
       "sourceId": "ft-companies",
@@ -2716,7 +2716,7 @@
       "publishedAt": "2026-07-04T04:00:43.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "索尼放弃光盘的决定引发投资者与玩家的对立，此举被包装为顺应时代潮流而非贪婪的租金抽取。"
+      "summary": "索尼弃用光盘被视作风潮而非贪婪的租金提取，引发投资者与游戏玩家之间的对立。"
     },
     {
       "sourceId": "ft-companies",
@@ -2726,7 +2726,7 @@
       "publishedAt": "2026-07-04T04:00:43.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "研究显示，英格兰约五分之二估值超过150万英镑的豪宅缺乏土地注册处销售记录，可能危及「豪宅税」的估值准确性。"
+      "summary": "研究显示，英格兰价值150万英镑以上的住宅中约五分之二缺乏土地注册销售记录，导致\"豪宅税\"估值面临风险。"
     },
     {
       "sourceId": "ft-companies",
@@ -3474,7 +3474,7 @@
       "publishedAt": "2026-07-04T09:45:55.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "伊朗最高领袖哈梅内伊葬礼首日，德黑兰聚集大量哀悼者。遗体在Grand Mosalla清真寺停放至周一，随后将巡游伊朗和伊拉克多地。"
+      "summary": "哈梅内伊遗体在德黑兰大穆萨拉清真寺停放至周一，随后将巡展伊朗和伊拉克。首日大批民众聚集致哀。"
     },
     {
       "sourceId": "bbc-world",
@@ -3925,7 +3925,7 @@
       "publishedAt": "2026-07-04T09:43:04.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "伊朗前最高领袖哈梅内伊的六天葬礼开始，预计多达3000万人参加。他在与美国和以色列的战争初期被杀，遗体停放在德黑兰Grand Mosalla清真寺。"
+      "summary": "伊朗前最高领袖哈梅内伊的六天葬礼开始，预计多达3000万人参加。哈梅内伊在与美以开战初期被杀。德黑兰大穆萨拉清真寺已开放，数千哀悼者进入。"
     },
     {
       "sourceId": "guardian-world",
@@ -3970,8 +3970,7 @@
       "excerpt": "Ayatollah Mojtaba Khamenei’s absence has raised questions inside Iranian political circles about who is really running the country and allowed open divisions to fester.",
       "publishedAt": "2026-07-04T09:01:35.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "哈梅内伊葬礼上的短暂团结掩盖了伊朗领导层的深层分歧。其子穆杰塔巴·哈梅内伊缺席引发关于国家实际控制者的疑问，内部分歧公开化。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -3981,7 +3980,7 @@
       "publishedAt": "2026-07-04T09:01:42.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "卢旺达7月4日纪念解放日，标志针对图西族的种族灭绝结束，该屠杀造成数十万人死亡。"
+      "summary": "卢旺达在7月4日纪念“解放日”，铭记针对图西族的种族灭绝结束，该屠杀导致数十万人死亡。"
     },
     {
       "sourceId": "nyt-world",
@@ -3990,8 +3989,7 @@
       "excerpt": "While critics question just how much the World Cup will benefit tourism long term, Mexican officials believe it can help boost the country to fifth most visited in the world.",
       "publishedAt": "2026-07-04T09:00:07.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "特朗普的旅行限制使墨西哥旅游业受益。尽管批评者质疑世界杯对旅游业的长期收益，墨西哥官员认为其有望将国家提升为世界第五大旅游目的地。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4085,13 +4083,23 @@
     },
     {
       "sourceId": "nyt-world",
+      "title": "What to Know About Ayatollah Ali Khamenei as His Funeral Services Begin in Iran",
+      "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-funeral-supreme-leader-ali-khamenei.html",
+      "excerpt": "Iran’s longstanding supreme leader concentrated power, presided over crackdowns and built an armed proxy network that projected influence across the Middle East.",
+      "publishedAt": "2026-07-04T10:20:25.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "伊朗已故最高领袖哈梅内伊长期集权，主导镇压行动，并建立代理人武装网络，其影响力遍及中东。葬礼仪式已开始。"
+    },
+    {
+      "sourceId": "nyt-world",
       "title": "Happy Birthday to Us",
       "url": "https://www.nytimes.com/2026/07/04/briefing/happy-birthday-to-us.html",
       "excerpt": "A forgotten founder. A tour of Revolutionary taverns. But first, a royal wedding.",
       "publishedAt": "2026-07-04T10:17:31.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "《纽约时报》简报涉及美国独立日纪念，提及一位被遗忘的建国者及革命时期酒馆之旅等内容。"
+      "summary": "一篇关于美国独立日相关历史和趣闻的简报，涉及被遗忘的创始人、革命时期酒馆及皇室婚礼等内容。"
     },
     {
       "sourceId": "nyt-world",
@@ -4101,7 +4109,7 @@
       "publishedAt": "2026-07-04T10:00:10.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "加拿大总理马克·卡尼宣布在阿尔伯塔省和卑诗省投资数十亿美元，推动贸易多元化以减少对美依赖。"
+      "summary": "加拿大总理马克·卡尼本周宣布在阿尔伯塔省和卑诗省进行数十亿美元投资，进一步推动对美贸易多元化。"
     },
     {
       "sourceId": "nyt-world",
@@ -4115,12 +4123,11 @@
     {
       "sourceId": "nyt-world",
       "title": "Iran, projecting unity to the world, pursues a crackdown at home.",
-      "url": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/iran-projecting-unity-to-the-world-pursues-a-crackdown-at-home",
+      "url": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-projecting-unity-to-the-world-pursues-a-crackdown-at-home.html",
       "excerpt": "A string of",
-      "publishedAt": "2026-07-04T08:57:41.000Z",
+      "publishedAt": "2026-07-04T08:57:42.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "伊朗在哈梅内伊葬礼期间向外界展示团结，同时在国内进行镇压行动。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4130,7 +4137,7 @@
       "publishedAt": "2026-07-04T09:42:48.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "伊朗最高领袖哈梅内伊葬礼最新消息。"
+      "summary": "伊朗最高领袖哈梅内伊葬礼最新进展。"
     },
     {
       "sourceId": "nyt-world",
@@ -4139,8 +4146,7 @@
       "excerpt": "After lying in state in Tehran, Mr. Khamenei’s body will be taken to some of the holiest sites in Shiite Islam during a four-day procession that is expected to draw millions.",
       "publishedAt": "2026-07-04T08:36:18.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "哈梅内伊遗体在德黑兰停灵后，将在四天内巡游伊朗和伊拉克五座城市，包括什叶派圣地，预计吸引数百万人参加。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4192,9 +4198,10 @@
       "title": "It’s Day 1 of the Supreme Leader’s Funeral, and Allies Gather in Iran",
       "url": "https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html",
       "excerpt": "Foreign dignitaries paid their respects to Ayatollah Ali Khamenei on Friday as days of ceremonies got underway.",
-      "publishedAt": "2026-07-03T15:39:00.000Z",
+      "publishedAt": "2026-07-04T10:23:41.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "伊朗最高领袖哈梅内伊葬礼首日，外国政要前往致哀，多日悼念活动拉开序幕。"
     },
     {
       "sourceId": "nyt-world",
@@ -4229,15 +4236,6 @@
       "url": "https://www.nytimes.com/2026/07/02/world/europe/trump-world-leaders-corruption-wealth.html",
       "excerpt": "President Trump’s earnings in office are at a level once unimaginable for any leader of a liberal democracy, particularly a sitting American president.",
       "publishedAt": "2026-07-03T08:21:04.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "As Ukraine War Escalates, Witkoff and Kushner Are Focused on Iran",
-      "url": "https://www.nytimes.com/2026/07/02/us/politics/ukraine-russia-witkoff-kushner-trump.html",
-      "excerpt": "Steve Witkoff and Jared Kushner are pivotal players at a moment when the posts of U.S. ambassador to Moscow and Kyiv are both vacant.",
-      "publishedAt": "2026-07-03T00:33:03.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4339,7 +4337,7 @@
       "publishedAt": "2026-07-04T09:43:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "德国外交部就中国军方训练俄军的报道紧急约谈中国驻德大使，称任何帮助俄罗斯侵乌的行为都威胁欧洲安全，与中国声称的中立立场矛盾。"
+      "summary": "德国外交部就中国军方训练俄军的报道紧急约谈中国驻德大使。德方称任何助俄侵乌行为均威胁欧洲安全，指相关报道与中国中立立场矛盾。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4348,8 +4346,7 @@
       "excerpt": "在北京举行的一场仪式上，习近平向晋升上将军衔的张曙光和王刚颁发命令状。张曙光接替张升民成为权力强大的中央军委纪委书记。",
       "publishedAt": "2026-07-04T08:30:00.000Z",
       "category": "politics",
-      "source": "DW 中文",
-      "summary": "习近平在北京出席晋升上将军衔仪式，向张曙光、王刚颁发命令状。张曙光接替张升民出任中央军委纪委书记。"
+      "source": "DW 中文"
     },
     {
       "sourceId": "dw-chinese",
@@ -4456,15 +4453,6 @@
       "url": "https://www.dw.com/zh/德国首次起诉北溪遭袭事件嫌犯/a-77800351?maca=chi-rss-chi-all-1127-rdf",
       "excerpt": "北溪天然气管线遭袭事件近四年后，德国联邦检察院对涉嫌为该破坏行动小组带头人的乌克兰人Serhii K.提起公诉。据ARD等德媒报道，K.在被监听的电话通话中作出对自己不利的陈述。",
       "publishedAt": "2026-07-02T11:44:00.000Z",
-      "category": "politics",
-      "source": "DW 中文"
-    },
-    {
-      "sourceId": "dw-chinese",
-      "title": "北京官方通报小飞机撞击“中国尊”调查结果",
-      "url": "https://www.dw.com/zh/北京官方通报小飞机撞击-中国尊-调查结果/a-77798673?maca=chi-rss-chi-all-1127-rdf",
-      "excerpt": "调查认定，这是一起因个人原因造成的危害公共安全案件。调查没有指明被撞击的大楼是中信大厦即“中国尊”，只写道“北京市朝阳区东三环附近”。",
-      "publishedAt": "2026-07-02T09:56:00.000Z",
       "category": "politics",
       "source": "DW 中文"
     },
@@ -4604,6 +4592,55 @@
       "source": "DW 中文"
     },
     {
+      "sourceId": "dw-chinese",
+      "title": "大众汽车深陷危机 “中国车型”能否解围？",
+      "url": "https://www.dw.com/zh/大众汽车深陷危机-中国车型-能否解围？/a-77734274?maca=chi-rss-chi-all-1127-rdf",
+      "excerpt": "大众汽车或将全球再裁员数万人。面对来自中国日益激烈的竞争，这家汽车巨头将如何应对？大众总部所在的德国北部下萨克森州州长利斯主张另辟蹊径。",
+      "publishedAt": "2026-06-27T14:03:00.000Z",
+      "category": "politics",
+      "source": "DW 中文"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "In South Asia, America has stopped asking India for permission",
+      "url": "https://www.aljazeera.com/opinions/2026/7/4/in-south-asia-america-has-stopped-asking-india-for-permission?traffic_source=rss",
+      "excerpt": "Washington has started dealing with regional players without regard for Indian interests.",
+      "publishedAt": "2026-07-04T10:29:41.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "美国在南亚地区开始直接与区域国家打交道，不再顾及印度利益，显示出美方对印度态度的转变。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
+      "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
+      "excerpt": "Kyiv's drones disrupt St Petersburg internet and flights as Russian strikes halt a gas facility in central Ukraine.",
+      "publishedAt": "2026-07-04T10:29:19.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "乌克兰无人机袭击俄罗斯圣彼得堡附近的石油和军事设施，导致当地互联网和航班中断；俄方打击则使乌克兰中部一处天然气设施停运。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
+      "url": "https://www.aljazeera.com/gallery/2026/7/4/millions-mourn-irans-ali-khamenei-amid-historic-funeral-procession?traffic_source=rss",
+      "excerpt": "Mourners pack Tehran streets for Khamenei’s funeral, with ceremonies spanning cities and ending in Mashhad burial.",
+      "publishedAt": "2026-07-04T10:16:31.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "数百万哀悼者涌上德黑兰街头参加哈梅内伊葬礼，仪式在多座城市举行，最终在马什哈德下葬。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Russia claims it captured the strategic key Ukrainian city of Kostiantynivk",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russia-claims-it-captured-the-strategic-key-ukrainian-city-of-kostiantynivk?traffic_source=rss",
+      "excerpt": "Russia claims it captured the strategic key Ukrainian city of Kostiantynivka",
+      "publishedAt": "2026-07-04T10:04:35.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "俄罗斯声称已夺取乌克兰战略重镇康斯坦丁诺夫卡（Kostiantynivka）。"
+    },
+    {
       "sourceId": "aljazeera",
       "title": "Cape Verde fans overjoyed with team’s World Cup run despite Argentina loss",
       "url": "https://www.aljazeera.com/sports/2026/7/4/cape-verde-fans-overjoyed-with-teams-world-cup-run-despite-argentina-loss?traffic_source=rss",
@@ -4620,17 +4657,17 @@
       "publishedAt": "2026-07-04T09:35:45.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "伊朗最高领袖哈梅内伊葬礼在德黑兰开始，数千名哀悼者参加公开送葬仪式。"
+      "summary": "数千哀悼者参加伊朗已故最高领袖哈梅内伊在德黑兰的公开盛大游行，葬礼仪式正式开启。"
     },
     {
       "sourceId": "aljazeera",
-      "title": "Armed fighters attack multiple towns across Mali",
+      "title": "Mali’s army says rebels launch new attacks on towns and cities",
       "url": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali?traffic_source=rss",
       "excerpt": "Tuareg-led armed ⁠group says it attacked northern town where Malian troops and Russian fighters are based.",
       "publishedAt": "2026-07-04T09:14:56.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "图阿雷格领导的武装组织袭击马里北部多个城镇，其中包括马里军队和俄罗斯战斗人员驻扎的地点。"
+      "summary": "马里军队称图阿雷格领导的武装组织对多个城镇发起新攻击，该组织声称袭击了马里军队和俄罗斯战斗机驻扎的北部城镇。"
     },
     {
       "sourceId": "aljazeera",
@@ -4639,8 +4676,7 @@
       "excerpt": "Threats escalate after Houthis block Saudi warplanes, allowing Iranian plane to land in Sanaa for first time in decade.",
       "publishedAt": "2026-07-04T08:59:17.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "胡塞武装阻止沙特战机，使伊朗飞机十年来首次降落萨那。沙特领导的联军承诺以“前所未有”的武力回应胡塞武装威胁。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4792,42 +4828,6 @@
       "url": "https://www.aljazeera.com/sports/2026/7/4/egypt-coach-dedicates-world-cup-win-to-palestine-as-arab-world-celebrates?traffic_source=rss",
       "excerpt": "Fans in Gaza celebrated Egypt's win at match screenings held against the backdrop of bombed buildings.",
       "publishedAt": "2026-07-04T00:20:08.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "England vs Mexico World Cup knockout match to go ahead as scheduled",
-      "url": "https://www.aljazeera.com/sports/2026/7/4/england-vs-mexico-world-cup-knockout-match-to-go-ahead-as-scheduled?traffic_source=rss",
-      "excerpt": "No decision was ever made to reschedule the kickoff time of 6pm local time in Mexico City, sources tell Al Jazeera.",
-      "publishedAt": "2026-07-04T00:07:04.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
-      "excerpt": "Huge crowds gather in Iran's Tehran for the funeral of the late Supreme leader Ali Khamenei.",
-      "publishedAt": "2026-07-04T00:00:00.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/quakes-reduce-venezuela-tourist-town-to-rubble-leaving-economy-in-tatters?traffic_source=rss",
-      "excerpt": "Quakes reduce Venezuela tourist town to rubble, leaving economy in tatters.",
-      "publishedAt": "2026-07-03T23:57:24.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Egypt say Dallas police officer pushed player, team director at World Cup",
-      "url": "https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss",
-      "excerpt": "A security officer pushed the fan, as well as Trezeguet and Hassan, at the team hotel in Dallas before Egypt's match.",
-      "publishedAt": "2026-07-03T22:20:04.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
