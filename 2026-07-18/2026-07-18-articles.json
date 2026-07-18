@@ -32,7 +32,7 @@
       "sourceId": "v2ex-hot",
       "title": "2026，我将博客部署到了 Cloudflare（CF）",
       "url": "https://www.v2ex.com/t/1228199",
-      "excerpt": "21 回复 · 程序员 节点",
+      "excerpt": "22 回复 · 程序员 节点",
       "publishedAt": "2026-07-18T04:57:55.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -41,8 +41,17 @@
       "sourceId": "v2ex-hot",
       "title": "PowerShell 和 Codex 在打架？可以试试这份提示词",
       "url": "https://www.v2ex.com/t/1228204",
-      "excerpt": "17 回复 · 程序员 节点",
+      "excerpt": "18 回复 · 程序员 节点",
       "publishedAt": "2026-07-18T05:45:39.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "大家用 AI 写代码真实感受是啥？",
+      "url": "https://www.v2ex.com/t/1228212",
+      "excerpt": "17 回复 · 程序员 节点",
+      "publishedAt": "2026-07-18T06:58:27.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -97,15 +106,6 @@
       "url": "https://www.v2ex.com/t/1224019",
       "excerpt": "13 回复 · Linux 节点",
       "publishedAt": "2026-06-30T11:56:12.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "大家用 AI 写代码真实感受是啥？",
-      "url": "https://www.v2ex.com/t/1228212",
-      "excerpt": "12 回复 · 程序员 节点",
-      "publishedAt": "2026-07-18T06:58:27.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -234,7 +234,7 @@
       "publishedAt": "2026-07-17T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI首席财务官Sarah Friar提出AI评分卡，通过有用工作、每次成功任务成本、可靠性和计算回报衡量AI投资回报率。"
+      "summary": "OpenAI首席财务官Sarah Friar提出AI记分卡，通过有用工作、每成功任务成本、可靠性和计算回报来衡量AI投资回报率。"
     },
     {
       "sourceId": "openai-news",
@@ -244,7 +244,7 @@
       "publishedAt": "2026-07-16T16:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI介绍如何通过适龄保护、学习工具、家长控制和专家合作，使ChatGPT对青少年更安全。"
+      "summary": "OpenAI阐述为何青少年应享有安全AI，通过年龄适宜保护、学习工具、家长控制和专家合作使ChatGPT更安全。"
     },
     {
       "sourceId": "openai-news",
@@ -254,7 +254,7 @@
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "印度二手车平台Cars24利用OpenAI语音和聊天代理处理每月超100万分钟对话，挽回12%丢失商机，并在全公司推广智能体工作流。"
+      "summary": "Cars24利用OpenAI驱动的语音和聊天代理，每月处理超过100万分钟对话，挽回12%丢失线索，并在全公司推广智能体工作流。"
     },
     {
       "sourceId": "openai-news",
@@ -507,7 +507,7 @@
       "publishedAt": "2026-07-16T09:30:42.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "Google DeepMind与Isomorphic Labs联合发布生物韧性方法，介绍其AI模型在生物韧性领域的应用。"
+      "summary": "Google DeepMind与Isomorphic Labs分享其在生物韧性及AI模型方面的联合方法。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -778,7 +778,7 @@
       "publishedAt": "2026-07-17T15:57:54.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "NVIDIA NeMo Automodel与Hugging Face Diffusers结合，支持大规模微调视频和图像模型。"
+      "summary": "NVIDIA与Hugging Face合作，通过NeMo Automodel和Diffusers实现视频与图像模型的大规模微调。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -788,7 +788,7 @@
       "publishedAt": "2026-07-16T11:49:48.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face博客文章讨论新模型在性能上延续了既有优势，具体内容未披露。"
+      "summary": "Dharma AI探讨新模型仍保持相同优势，具体内容未详述。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -798,7 +798,7 @@
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face披露2026年7月安全事件，具体细节未提供。"
+      "summary": "Hugging Face披露2026年7月安全事件，详情待查。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1052,7 +1052,7 @@
       "meta": "👍 146",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "LongStraw 提出在固定 GPU 预算下将 RL 后训练上下文长度从 256K 扩展至 2M token，缩小推理与后训练的差距，显著提升 AI agent 的长上下文能力。"
+      "summary": "针对推理与RL后训练之间日益扩大的上下文长度差距，提出LongStraw，在固定GPU预算下实现超过2M token的长上下文RL训练，无需依赖部署时的长度泛化。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1063,7 +1063,7 @@
       "meta": "👍 123",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "Boogu-Image-0.1 是开源统一多模态理解与生成模型族，含 Base、Turbo、Edit 等变体，在高质量文生图、快速推理、指令编辑及中英双语任务上表现竞争力。"
+      "summary": "开源统一多模态理解与生成模型族Boogu-Image-0.1，包含Base、Turbo、Edit、Edit-Turbo变体，在高质量文生图、快速推理、指令编辑和双语支持上表现优异。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1074,7 +1074,7 @@
       "meta": "👍 112",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "VideoChat3 提出全开放视频 MLLM，支持运动、长视频、流式交互等通用视频理解任务，提升跨视频类型的泛化能力，推动实际应用。"
+      "summary": "VideoChat3是一个全开源视频多模态大模型，旨在实现高效且通用的视频理解，解决现有模型在不同视频类型上泛化能力不足的问题，覆盖运动、长视频和流式交互。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1085,7 +1085,7 @@
       "meta": "👍 85",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "Ring-Zero 将零强化学习（verifiable reward 无人类标注）扩展到万亿参数规模，无需人工数据即可激发链式思维推理，突破小模型限制实现涌现推理。"
+      "summary": "将可验证奖励的零强化学习（Zero RL）扩展到万亿参数规模，首次在超大模型上激发链式思维推理能力，突破了此前仅限小模型的计算约束。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1096,7 +1096,7 @@
       "meta": "👍 77",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "SEED 提出自演化同策略蒸馏方法，用于智能体强化学习中的长程多轮任务，通过环境反馈和工具使用增强稀疏轨迹级奖励，提升学习效率。"
+      "summary": "提出SEED框架，通过自我进化的在策略蒸馏实现智能体强化学习，在稀疏轨迹奖励下利用环境反馈进行多轮交互和工具使用优化，提升长任务表现。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1107,7 +1107,7 @@
       "meta": "👍 54",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "SearchOS-V1 提出鲁棒开放域信息搜索智能体协作框架，改进任务跟踪与证据收集，缓解多轮交互中搜索尝试失败的问题，提升信息检索效率。"
+      "summary": "SearchOS-V1针对开放域信息搜索代理协作中交互历史增长导致的进度追踪困难，提出鲁棒的多代理协作框架，提升搜索失败时的问题解决能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1118,7 +1118,7 @@
       "meta": "👍 38",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "BadWAM 揭示世界-动作模型可能出现“想象正确但行动错误”的不一致，警示耦合动作生成与未来世界预测并非自动保证鲁棒性与安全性。"
+      "summary": "揭示世界-动作模型（WAM）在耦合动作生成与未来预测时可能产生「正确幻想但错误行动」的病理现象，挑战了该类模型鲁棒性和安全性的常用假设。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1129,7 +1129,7 @@
       "meta": "👍 36",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "AgentCompass 构建统一智能体能力评估基础设施，解决现有评估 pipeline 碎片化、可重复性差的问题，减少冗余工程。"
+      "summary": "AgentCompass提供统一评测基础设施，解决当前LLM智能体评测管线碎片化、不可重复的问题，支持多种智能体能力的标准化评估。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1140,7 +1140,7 @@
       "meta": "👍 35",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "PolicyShiftGuard 提出策略自适应图像安全护盾的基准与改进方法，使模型能应对不同产品场景下的策略变化，提升部署灵活性。"
+      "summary": "PolicyShiftGuard提出并基准测试政策自适应图像安全护栏，指出同一图像在不同产品/政策下安全性不同，并改进模型对动态政策边界的适应能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1151,7 +1151,7 @@
       "meta": "👍 30",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "KeyFrame-Compass 建立关键帧条件视频生成综合评估基准，检测模型能否忠实再现指定关键帧并维持时间一致性，揭示当前多关键帧生成的不足。"
+      "summary": "KeyFrame-Compass提出关键帧条件视频生成的全面评测框架，检验模型是否能忠实再现指定关键帧并保持帧间连贯性，解决现有评测不足。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1162,7 +1162,7 @@
       "meta": "👍 30",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "MetaView 提出尺度感知隐式几何先验用于单目新视角合成，在保持空间一致性的同时避免显式几何先验对生成多样性的限制。"
+      "summary": "MetaView提出单目新视角合成方法，引入尺度感知的隐式几何先验，在保持空间一致性的同时避免显式几何约束对生成多样性的限制。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1173,7 +1173,7 @@
       "meta": "👍 29",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "MultiRef-Compass 构建多参考到音视频生成（MR2AV）的综合评估基准，填补现有文本驱动、单参考保持及音视频分离评估的空白。"
+      "summary": "MultiRef-Compass建立多参考音视频生成（MR2AV）综合评测基准，填补现有基准在跨模态、多参考保持和音视频对齐方面的空白。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1184,7 +1184,7 @@
       "meta": "👍 25",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "GigaWorld-Policy-0.5 通过 AutoResearch 自动研究加速世界动作模型，避免推理时显式生成未来视频，在保持物理接地动作生成的同时提升速度和强度。"
+      "summary": "GigaWorld-Policy-0.5优化世界-动作模型（WAM），通过AutoResearch自动研究加速推理，避免显式未来视频生成，实现更快更强的机器人策略学习。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1195,7 +1195,7 @@
       "meta": "👍 24",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "UniVR 首次探索从纯视觉演示同时学习复杂推理、物理动态与长期规划，通过视觉空间思考实现统一视觉推理，无需语言中间表示。"
+      "summary": "UniVR首次在纯视觉演示中同时学习复杂推理、精细物理动力学和长期规划，核心思想是在视觉空间中进行思考，实现统一的视觉推理。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1206,7 +1206,7 @@
       "meta": "👍 24",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出自校正耦合马尔可夫跳跃过程，将图像理解与生成同时建模，利用掩码扩散模型（MDM）实现模态间相互重塑，提升协同性。"
+      "summary": "提出耦合马尔可夫跳变过程实现图像理解与生成的并发自纠正，模仿人类边说边画时模态相互重塑的机制，基于掩码扩散模型设计新采样器。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1217,7 +1217,7 @@
       "meta": "👍 22",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "该综述系统梳理现代自主智能体自我改进机制，强调从经验中可控演化（自适应），减少甚至无需人工干预，为部署型智能体提供框架。"
+      "summary": "综述现代自主智能体系统中的自我改进技术，将智能体视为自适应系统，通过经验实现可控演化，涵盖从研究原型到部署的转化途径。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1228,7 +1228,7 @@
       "meta": "👍 20",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "Spectral Rewiring 提出谱重连方法，用于强化学习后训练中的探索、净化与模型合并，缓解全参数更新带来的推理性能饱和与部署干扰。"
+      "summary": "提出频谱重连方法用于探索、净化与模型融合，解决LLM密集全参数更新带来的推理饱和与合并干扰问题，提升强化学习后训练中的部署效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1236,10 +1236,10 @@
       "url": "https://huggingface.co/papers/2607.14187",
       "excerpt": "Embodied cognition requires agents to connect high-level task reasoning with the physical states to be achieved. We introduce Hy-Embodied-RxBrain, an embodied cognition foundation model with joint language-visual reasoning and imagination. Unlike vision-language models that emphasize scene understan",
       "publishedAt": "2026-07-15T00:00:00.000Z",
-      "meta": "👍 18",
+      "meta": "👍 19",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "RxBrain 提出具身认知基础模型 Hy-Embodied-RxBrain，联合语言-视觉推理与想象，连接高层任务推理与物理状态，实现智能体的认知能力。"
+      "summary": "Hy-Embodied-RxBrain是具身认知基础模型，联合语言-视觉推理与想象，连接高层任务推理与物理状态，超越传统场景理解的多模态模型。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1250,7 +1250,7 @@
       "meta": "👍 16",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "ShortOPD 提出短到长同策略蒸馏，恢复结构化剪枝后的 LLM 在自由生成任务上的性能，解决剪枝模型在贪婪解码中崩溃的问题。"
+      "summary": "ShortOPD通过短到长的在策略蒸馏恢复结构化剪枝后的LLM生成能力，解决剪枝模型在自由生成任务上崩溃的问题，避免贪婪解码的短视。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1261,7 +1261,7 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "系统研究 LLM 后训练中同策略蒸馏（OPD）的训练动力学，阐明其作为探索催化剂的作用，并识别病理现象与调节机制。"
+      "summary": "系统研究在策略蒸馏（OPD）在LLM后训练中的作用、病理与调控，阐明OPD作为探索催化剂引导学生探索未知行为，并诊断其训练动态问题。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1371,7 +1371,7 @@
       "publishedAt": "2026-07-17T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI总结当日AI动态：Kimi K3发布，Gemini 3.5延期，ARC-AGI 3被攻克。"
+      "summary": "本周AI热点：Kimi K3发布，Gemini 3.5延期，ARC-AGI 3被攻克。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1552,7 +1552,7 @@
       "publishedAt": "2026-07-17T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Moonshot发布Kimi K3模型，引发对中国开源模型接近前沿水平的重新评估，其在编程、智能体任务和长时知识工作表现强劲，战略重心从「计算护城河」转向「效率堆栈」。"
+      "summary": "月之暗面发布Kimi K3，引发对中国开源权重模型接近前沿水平的重新评估，其在编程、智能体任务和长期知识工作表现出色，战略焦点从算力护城河转向效率堆栈。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1562,7 +1562,7 @@
       "publishedAt": "2026-07-16T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Moonshot AI发布Kimi K3开源模型，2.8T参数、100万token上下文窗口、原生多模态输入，采用Kimi Delta Attention（KDA）实现最高6.3倍解码加速。"
+      "summary": "月之暗面推出Kimi K3，2.8T参数开源模型，支持1M token上下文和原生多模态输入，创新KDA注意力机制使解码速度提升6.3倍。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1824,7 +1824,7 @@
       "publishedAt": "2026-07-18T04:30:21.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "当日AI新闻领域较为平静，无重大事件发生。"
+      "summary": "今日AI领域相对平静，未有重大事件发生。"
     },
     {
       "sourceId": "latent-space",
@@ -1834,7 +1834,7 @@
       "publishedAt": "2026-07-17T01:46:36.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space报道，Moonshot AI发布Kimi K3模型，2.8T参数-A50B架构，是迄今最大开源模型，性能达Opus 4.8级别，定价与Sonnet 5相当。"
+      "summary": "月之暗面发布Kimi K3，参数达2.8T（A50B），是迄今最大开源模型，性能接近Opus 4.8级别但定价与Sonnet 5相当。"
     },
     {
       "sourceId": "latent-space",
@@ -1844,7 +1844,7 @@
       "publishedAt": "2026-07-16T13:30:44.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Lila Sciences认为科学而非互联网是最后未开发的训练数据源，其实验室如同数据中心，充满机器人，探索科学自动化。"
+      "summary": "Lila Sciences认为科学而非互联网是最后的未开发训练数据源，未来实验室应像数据中心，充满机器人。"
     },
     {
       "sourceId": "latent-space",
@@ -1854,7 +1854,7 @@
       "publishedAt": "2026-07-16T06:18:05.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space报道，Thinky发布首个完整LLM Inkling，975B参数-A41B架构，多模态，Apache 2.0开源，并附Inkling-Small（276B-A12B），为美国最佳开源模型。"
+      "summary": "Thinky发布首个完整大语言模型Inkling，975B参数（A41B），多模态，采用Apache 2.0开源许可，同时推出小型版276B-A12B。"
     },
     {
       "sourceId": "latent-space",
@@ -2008,7 +2008,7 @@
       "publishedAt": "2026-07-17T08:57:32.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "天气预报影响航空、电网和农业等重大决策，MIT Tech Review指出天气数据遭破坏的风险正在上升。"
+      "summary": "天气预报影响全球航空、电网和农业等重大决策，但天气数据遭破坏的风险正在增加。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2100,7 +2100,7 @@
       "category": "tech",
       "meta": "@part_harry_ · 1.5K 粉丝 · 225.6K 阅 · 503 赞 · 46 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "为开源模型GLM 5.2添加视觉能力，使其支持图像输入，补齐与Qwen、Kimi等旗舰模型的功能差距。"
+      "summary": "GLM 5.2 是优秀开源语言模型但不支持图像输入，该博主将其改造以支持视觉能力，弥补与 Qwen、Kimi 等竞品的差距。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2111,7 +2111,7 @@
       "category": "tech",
       "meta": "@amasad · 472.6K 粉丝 · 223.7K 阅 · 560 赞 · 65 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Replit六个月内工程师代码产出提升近三倍，审查时间保持稳定，展示了公司自我运营（Self-Driving Company）的实践效果。"
+      "summary": "Replit 工程师过去6个月代码产出近翻三倍，审查时间不变，回滚率降低。展示公司自我运作的自动化效果，预示“自动驾驶公司”的趋势。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2122,7 +2122,7 @@
       "category": "tech",
       "meta": "@DesignArena · 17.6K 粉丝 · 191.5K 阅 · 509 赞 · 46 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "OpenAI的GPT-5.6 Sol在Design Arena网页设计基准中排名第一，比前代GPT-5.5跃升18位，显示设计品味显著提升。"
+      "summary": "GPT-5.6 Sol 在 Web 设计基准测试中排名第一，比前代 GPT-5.5 提升18位，展示了设计审美能力的突破。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2133,7 +2133,7 @@
       "category": "tech",
       "meta": "@btaylor · 158.6K 粉丝 · 144.3K 阅 · 511 赞 · 40 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Sierra发布Horizon平台，支持agent执行长期目标任务，如贷款发起和医疗预授权，拓展agent应用边界。"
+      "summary": "Sierra 发布 Horizon 平台，让 AI 代理能够执行长期目标，如贷款发起或医疗预先授权。推动代理从单步任务迈向复杂长程工作流。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2144,7 +2144,7 @@
       "category": "tech",
       "meta": "@GoogleAIStudio · 186.6K 粉丝 · 111.0K 阅 · 512 赞 · 51 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Google AI Studio宣布Gemini API的Managed Agents新增免费层、预算控制护栏和定时触发功能，降低使用门槛。"
+      "summary": "Gemini API 的托管代理新增免费层、预算控制护栏和定时触发器。降低使用门槛，增强自动化任务调度能力。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2155,7 +2155,7 @@
       "category": "tech",
       "meta": "@cerebras · 60.4K 粉丝 · 70.7K 阅 · 509 赞 · 38 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Cerebras分享内部知识库构建经验，员工每日查询超15000次，提供交互式技术博客详细介绍方法。"
+      "summary": "Cerebras 分享了内部知识库的构建经验，员工每日查询超1.5万次。博客详细介绍了技术方案，并配有交互式版本。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2166,7 +2166,7 @@
       "category": "tech",
       "meta": "@elliotarledge · 40.7K 粉丝 · 69.3K 阅 · 506 赞 · 45 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "作者提前测试Kimi K3模型在KernelBench上的性能，表示印象深刻，未看到基准分数前已认可其能力。"
+      "summary": "作者提前测试了 Kimi K3 模型在 KernelBench 上的表现，未看基准分数已对其内核生成能力印象深刻。分享早期体验和性能观察。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2177,7 +2177,7 @@
       "category": "tech",
       "meta": "@akshay_pachaar · 281.7K 粉丝 · 53.7K 阅 · 516 赞 · 74 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "逐步教程：构建类似Claude Code的编码框架，涵盖agent循环、规划、子agent、沙箱、记忆与检查点。"
+      "summary": "逐步教程：构建 Claude Code 的编码工具链，涵盖代理循环、规划、子代理、沙箱、记忆和检查点。适合想自建类似 Agent 的开发者。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2188,7 +2188,17 @@
       "category": "tech",
       "meta": "@zachlloydtweets · 12.1K 粉丝 · 42.7K 阅 · 527 赞 · 57 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "系列教程第三篇：构建自我改进的代码审查agent，之前已构建问题分类agent和规格撰写agent，构成云端软件工厂。"
+      "summary": "系列第三篇：构建自我改进的代码审查代理。之前已构建问题分类和规格编写代理，本篇聚焦代码审查流程的自动优化。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "ICICI Bank First-Quarter Profit Beats Estimates as Loans Surge",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-18/icici-bank-first-quarter-profit-beats-estimates-as-loans-surge",
+      "excerpt": "ICICI Bank Ltd. posted better-than-expected results as India’s second-largest private-sector lender benefited from healthy loan growth across retail and corporate segments.",
+      "publishedAt": "2026-07-18T10:02:41.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "印度第二大私营银行ICICI Bank公布第一季度利润超预期，得益于零售和企业贷款强劲增长。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2198,7 +2208,7 @@
       "publishedAt": "2026-07-18T04:04:47.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "中国表示希望印尼为其矿业提供稳定透明的政策环境，两国正深化经济联系。"
+      "summary": "中国表示希望印尼为其矿业部门提供稳定透明的政策环境，以深化经济联系。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2207,8 +2217,7 @@
       "excerpt": "Kuwait suffered one of its worst nights of Iranian retaliatory attacks since the conflict in the Middle East began, with a second power plant hit in as many days and flights suspended.",
       "publishedAt": "2026-07-18T08:01:05.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "科威特遭遇中东冲突以来最严重的伊朗报复性袭击，第二座电厂两日内被击中，航班被迫暂停。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2218,7 +2227,7 @@
       "publishedAt": "2026-07-18T07:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "匈牙利对价值200亿美元的电动车产业展开整治，新政府打击环境违规并计划加税，中国投资者受到密切关注。"
+      "summary": "匈牙利新领导层对价值200亿美元的电动汽车行业展开整顿，打击环境违规并计划增税，向中国发出警示。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2228,7 +2237,7 @@
       "publishedAt": "2026-07-18T06:35:43.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "印度央行印钞厂邀请制造商投标，供应适合印制印度纸币的聚合物基材及安全特征。"
+      "summary": "印度邀请制造商投标，供应具备安全特征的聚合物基材，用于印制印度钞票。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2238,7 +2247,7 @@
       "publishedAt": "2026-07-18T05:06:27.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "中国商务部呼吁与吉尔吉斯斯坦加强绿色矿产产业链合作，并要求保护在吉中资企业的权益。"
+      "summary": "中国商务部敦促与吉尔吉斯斯坦加强绿色矿产产业链合作，并要求保护在吉中国企业的权益。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2248,7 +2257,7 @@
       "publishedAt": "2026-07-18T05:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "中国汇川技术正考虑在欧洲进行收购，以进入当地市场，与西门子和博世等工业巨头竞争。"
+      "summary": "深圳汇川技术正考虑在欧洲进行收购，准备与西门子、博世等工业巨头竞争。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2258,7 +2267,7 @@
       "publishedAt": "2026-07-18T04:48:49.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "印度当局在议会会议前于新德里对抗议失业和考试舞弊的年轻人采取行动，给莫迪政府带来压力。"
+      "summary": "印度当局在议会会议前于新德里对抗议失业和考试舞弊的青年示威者采取行动。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2268,7 +2277,7 @@
       "publishedAt": "2026-07-18T04:21:18.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "中国太阳能电池出口6月连续第二个月下降，表明年初激增后海外需求正在减弱。"
+      "summary": "中国太阳能电池出口6月连续第二个月下降，表明海外需求在年初激增后减弱。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2366,15 +2375,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-17/us-stock-index-futures-slide-as-jitters-grow-on-chip-selloff",
       "excerpt": "US stocks finished the week lower as semiconductor names dipped following the reveal of an artificial-intelligence model from a Chinese startup.",
       "publishedAt": "2026-07-17T08:13:01.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Sweetgreen Pares Drop as Parasite Tied to Taco Bell Lettuce",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/sweetgreen-pares-26-drop-as-parasite-tied-to-taco-bell-lettuce",
-      "excerpt": "Sweetgreen Inc. shares surged on Friday, halting a four-day skid, after US regulators said a parasite outbreak that’s sickened thousands across several states was traced to shredded iceberg lettuce served at Taco Bell restaurants.",
-      "publishedAt": "2026-07-17T15:58:20.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2560,13 +2560,23 @@
     },
     {
       "sourceId": "ft-companies",
+      "title": "Rise of delivery apps takes a bite out of sales for Big Pizza",
+      "url": "https://www.ft.com/content/d10e846e-5615-4cb5-bd4f-b159423d4f75",
+      "excerpt": "Large corporate chains lose their edge as services such as DoorDash and Uber Eats level the playing field",
+      "publishedAt": "2026-07-18T10:00:02.000Z",
+      "category": "finance",
+      "source": "Financial Times",
+      "summary": "外卖应用DoorDash和Uber Eats等平台兴起，使大型披萨连锁店失去优势，销售额受冲击。"
+    },
+    {
+      "sourceId": "ft-companies",
       "title": "Is the hyper-commercial World Cup here to stay?",
       "url": "https://www.ft.com/content/ca88a40b-0f24-42bb-863c-fbfe80d49cf8?syn-25a6b1a6=1",
       "excerpt": "Also in today’s newsletter: the transfer market’s big spenders and how MLS aims to capitalise on America’s football fever",
       "publishedAt": "2026-07-18T08:00:01.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "探讨世界杯过度商业化是否持续，提及转会市场大额支出及美国职业足球大联盟借美国足球热发展的策略。"
+      "summary": "分析世界杯高度商业化趋势是否持续，以及转会市场大买家和MLS如何借美国足球热潮获利。"
     },
     {
       "sourceId": "ft-companies",
@@ -2576,7 +2586,7 @@
       "publishedAt": "2026-07-18T04:00:41.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "英国避免停电的电力系统面临审查，国家能源系统运营商的任务因气候变化和可再生能源增加而更加困难。"
+      "summary": "英国国家能源系统运营商避免停电的任务因气候变化和可再生能源增加而更具挑战性，该体系面临审查。"
     },
     {
       "sourceId": "ft-companies",
@@ -2585,8 +2595,7 @@
       "excerpt": "It is easy to look enviously at New York, but the UK is on course to enjoy its best year for new listings since 2021",
       "publishedAt": "2026-07-18T04:00:41.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "伦敦IPO市场看似低迷，但英国今年有望实现2021年以来最佳上市年份，表现优于外界印象。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -2595,8 +2604,7 @@
       "excerpt": "Investments in semiconductors fuel growth in regional revenues for US banks",
       "publishedAt": "2026-07-18T04:00:41.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "亚洲人工智能投资推动华尔街银行在亚洲的区域收入创纪录增长，半导体投资成为主要增长动力。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -2775,15 +2783,6 @@
       "url": "https://www.ft.com/content/2c5151d9-738f-4808-bbd0-15aaf48d922e?syn-25a6b1a6=1",
       "excerpt": "Streaming giant projects weakest revenue increase in three years",
       "publishedAt": "2026-07-17T13:35:27.000Z",
-      "category": "finance",
-      "source": "Financial Times"
-    },
-    {
-      "sourceId": "ft-companies",
-      "title": "Chinese AI models narrow cyber gap with US rivals",
-      "url": "https://www.ft.com/content/21c10336-61bc-4743-82e3-acabfc7d540d?syn-25a6b1a6=1",
-      "excerpt": "UK agency warns cheaper open models could leave companies less time to patch critical vulnerabilities",
-      "publishedAt": "2026-07-17T13:00:05.000Z",
       "category": "finance",
       "source": "Financial Times"
     },
@@ -3335,7 +3334,7 @@
       "publishedAt": "2026-07-18T07:33:40.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "美国连续第七晚打击伊朗。伊朗对地区内美国盟友进行报复，科威特报告一处电力和水厂被击中。"
+      "summary": "美军连续第七夜空袭伊朗。伊朗报复袭击美国地区盟友，科威特报告称一电力和水厂被击中。"
     },
     {
       "sourceId": "bbc-world",
@@ -3381,7 +3380,7 @@
       "publishedAt": "2026-07-18T09:30:32.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "老挝官方表示，由于未进行尸检，无法确定2024年游客死亡事件与甲醇中毒有关，目前没有中毒证据。"
+      "summary": "老挝官员表示，因未进行尸检，无法确定2024年游客死亡是否与甲醇中毒有关，称没有中毒证据。"
     },
     {
       "sourceId": "bbc-world",
@@ -3561,8 +3560,7 @@
       "excerpt": "The blaze has destroyed more than 100 homes in Drammen and has spread to a nearby forest, authorities say.",
       "publishedAt": "2026-07-18T07:13:07.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "挪威德拉门市发生大火，烧毁100多栋房屋并蔓延至附近森林。直升机投水灭火。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3833,7 +3831,7 @@
       "publishedAt": "2026-07-18T09:00:02.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "特朗普在宣布停火不到一个月后恢复对伊朗打击，专家警告此举可能延长战争，并在中期选举前损害共和党。特朗普为何冒着政治灾难风险？"
+      "summary": "特朗普在称赞停火不到一个月后恢复对伊朗空袭，专家警告此举可能延长战争并损害共和党中期选举前景，被视为高风险政治赌博。"
     },
     {
       "sourceId": "guardian-world",
@@ -3882,22 +3880,52 @@
     },
     {
       "sourceId": "nyt-world",
+      "title": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
+      "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+      "excerpt": "In the days since the cease-fire unraveled, the U.S. and Iran have expanded the scope of their attacks, with reports of water facilities and other structures coming under fire.",
+      "publishedAt": "2026-07-18T10:06:55.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "自停火破裂以来，美国和伊朗扩大攻击范围，据报水利设施等关键基础设施遭袭，冲突持续升级。"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Lamine Yamal, Soccer Star and Son of African Migrants, Personifies a Changing Spain",
+      "url": "https://www.nytimes.com/2026/07/18/world/europe/spain-lamine-yamal.html",
+      "excerpt": "As he prepares for the World Cup final, Lamine Yamal, 19, is at the heart of a national debate about what it means to be Spanish in an increasingly multicultural society.",
+      "publishedAt": "2026-07-18T09:02:09.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "19岁足球明星拉明·亚马尔（Lamine Yamal）是非洲移民之子，正备战世界杯决赛。他成为西班牙关于多元文化社会下「西班牙身份」辩论的核心人物。"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Israel Counters Iranian Spying by Warning Against Recruitment",
+      "url": "https://www.nytimes.com/2026/07/18/world/middleeast/israel-recruits-rabbis-iran.html",
+      "excerpt": "The Israeli authorities have enacted a broad array of countermeasures to contain what they describe as online recruiting efforts by Iranian agents.",
+      "publishedAt": "2026-07-18T09:00:35.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "以色列当局采取一系列措施，应对伊朗特工在网上的招募活动，警告民众警惕此类间谍行为。"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Indian Activist on Hunger Strike Is Forcibly Removed by Police",
+      "url": "https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html",
+      "excerpt": "The activist, Sonam Wangchuk, started his strike last month as part of a protest over educational mismanagement that has affected millions of students.",
+      "publishedAt": "2026-07-18T07:36:30.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "印度活动家Sonam Wangchuk因抗议教育管理不善（影响数百万学生）而绝食，被警方强行带走。"
+    },
+    {
+      "sourceId": "nyt-world",
       "title": "They Called Sam Neill ‘Skux.’ (It Was a Compliment.)",
       "url": "https://www.nytimes.com/2026/07/18/world/australia/new-zealand-sam-neill-skux-meaning.html",
       "excerpt": "The New Zealand slang word, dating back to the 1990s, was pulled back into circulation in tributes to the actor, who died on Tuesday.",
       "publishedAt": "2026-07-18T04:01:05.000Z",
       "category": "politics",
       "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
-      "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
-      "excerpt": "Overnight and into Friday, Iran reported U.S. strikes on infrastructure that can serve civilian purposes and has targeted similar sites in Gulf countries that host American bases. In the afternoon, the U.S. military announced a new round of attacks on Iran.",
-      "publishedAt": "2026-07-18T09:26:45.000Z",
-      "category": "politics",
-      "source": "NYT World",
-      "summary": "美国对伊朗的打击进入第七天。伊朗报告美方袭击了民用基础设施（桥梁、水厂），美军还打击了驻有美军基地的海湾国家类似设施，美方下午宣布新一轮攻击。"
     },
     {
       "sourceId": "nyt-world",
@@ -3973,58 +4001,13 @@
     },
     {
       "sourceId": "nyt-world",
-      "title": "7.3-Magnitude Earthquake Off Coast of Mexico and Guatemala Poses Tsunami Threat",
-      "url": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html",
-      "excerpt": "A powerful earthquake near the border of Mexico and Guatemala raised fears of a tsunami and shook buildings across three countries.",
-      "publishedAt": "2026-07-17T19:54:11.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Parents in Uganda Demand Answers After Bus Crash Kills 21 Children",
-      "url": "https://www.nytimes.com/2026/07/17/world/africa/uganda-bus-crash-children.html",
-      "excerpt": "The driver of the school bus, carrying dozens of students, lost control, officials said, causing the bus to veer off the road into a boulder.",
-      "publishedAt": "2026-07-17T16:03:37.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Hundreds of Rohingya Feared Drowned at Sea",
-      "url": "https://www.nytimes.com/2026/07/17/world/asia/rohingya-myanmar-boats-sink-missing.html",
-      "excerpt": "Members of the persecuted minority group from Myanmar set off in search of a better life weeks ago, but news of their boats sinking only emerged recently. More than 500 are feared dead.",
-      "publishedAt": "2026-07-17T14:20:07.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "As Blazes Spread Near Paris, Extreme Heat Is Changing How France Fights Fires",
-      "url": "https://www.nytimes.com/2026/07/17/france-forest-fires-extreme-heat.html",
-      "excerpt": "Until recently, France’s forest fires were mostly in the south. This week, fires are raging much farther north. France is having to rethink its firefighting strategy.",
-      "publishedAt": "2026-07-17T09:01:52.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Dubai Migrant Worker Layoffs Reveal Costs of Middle East War",
-      "url": "https://www.nytimes.com/2026/07/17/world/middleeast/dubai-iran-war-migrant-workers-layoffs.html",
-      "excerpt": "The Persian Gulf city attracted migrant workers with the promise of opportunity. Many now say the war has brought job losses and salary cuts.",
-      "publishedAt": "2026-07-17T09:00:33.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
       "title": "Freedom Convoy Leader, Under House Arrest, Wants to Visit the White House",
       "url": "https://www.nytimes.com/2026/07/18/world/canada/freedom-convoy-ottawa-lich-wildfires.html",
       "excerpt": "Prosecutors say Tamara Lich wants a “blank cheque” for international travel, including a cruise, arguing that she is trying to profit from the very protest that got her sentenced.",
       "publishedAt": "2026-07-18T10:00:03.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "自由车队领导人Tamara Lich正处于软禁，却请求前往白宫。检方称其要求「空白支票」用于国际旅行（包括邮轮），意在从导致她定罪的抗议活动中获利。"
+      "summary": "自由车队领袖Tamara Lich处于软禁状态，希望获准国际旅行（包括邮轮）访问白宫。检方称她试图从导致其判刑的抗议中牟利。"
     },
     {
       "sourceId": "nyt-world",
@@ -4034,17 +4017,7 @@
       "publishedAt": "2026-07-18T09:26:43.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "暂无详细更新内容。"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Lamine Yamal, Soccer Star and Son of African Migrants, Personifies a Changing Spain",
-      "url": "https://www.nytimes.com/2026/07/18/world/europe/spain-lamine-yamal.html",
-      "excerpt": "As he prepares for the World Cup final, Lamine Yamal, 19, is at the heart of a national debate about what it means to be Spanish in an increasingly multicultural society.",
-      "publishedAt": "2026-07-18T09:02:09.000Z",
-      "category": "politics",
-      "source": "NYT World",
-      "summary": "19岁的足球明星拉明·亚马尔（Lamine Yamal）是非洲移民之子，在备战世界杯决赛之际，他成为西班牙关于多元文化社会中「何为西班牙人」的全国性辩论焦点。"
+      "summary": "美国与伊朗冲突持续，最新动态尚未披露具体细节。"
     },
     {
       "sourceId": "nyt-world",
@@ -4054,7 +4027,7 @@
       "publishedAt": "2026-07-18T09:01:37.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "美国一项扩大对俄制裁的法案可能加剧对美元地位的担忧。特朗普政府近期试图缩减制裁，因对手方发展出规避手段，可能侵蚀美元霸权。"
+      "summary": "美国一项扩大对俄制裁的法案引发担忧，因对手正发展规避手段，可能削弱美元霸权。特朗普政府近期试图缩减制裁规模。"
     },
     {
       "sourceId": "nyt-world",
@@ -4064,27 +4037,7 @@
       "publishedAt": "2026-07-18T09:01:06.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "加拿大最北端城市伊魁特（Iqaluit）开通首条公交线路。来自安哥拉的Jacinto Marques经营该服务，伊魁特是加拿大北极地区唯一城市。"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Israel Counters Iranian Spying by Warning Against Recruitment",
-      "url": "https://www.nytimes.com/2026/07/18/world/middleeast/israel-recruits-rabbis-iran.html",
-      "excerpt": "The Israeli authorities have enacted a broad array of countermeasures to contain what they describe as online recruiting efforts by Iranian agents.",
-      "publishedAt": "2026-07-18T09:00:35.000Z",
-      "category": "politics",
-      "source": "NYT World",
-      "summary": "以色列当局实施多项反制措施，以遏制其所称的伊朗特工在线招募活动。以色列警告民众警惕伊朗间谍招募。"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Indian Activist on Hunger Strike Is Forcibly Removed by Police",
-      "url": "https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html",
-      "excerpt": "The activist, Sonam Wangchuk, started his strike last month as part of a protest over educational mismanagement that has affected millions of students.",
-      "publishedAt": "2026-07-18T07:36:30.000Z",
-      "category": "politics",
-      "source": "NYT World",
-      "summary": "印度活动人士索南·旺楚克（Sonam Wangchuk）因抗议教育管理不善而绝食，被警方强制带离。其抗议行动影响数百万学生。"
+      "summary": "加拿大最北部城市伊魁特（Iqaluit）开通首条公交线路。来自安哥拉的Jacinto Marques负责运营该服务，该市是加拿大北极地区唯一城市。"
     },
     {
       "sourceId": "nyt-world",
@@ -4133,6 +4086,24 @@
     },
     {
       "sourceId": "nyt-world",
+      "title": "7.3-Magnitude Earthquake Off Coast of Mexico and Guatemala Poses Tsunami Threat",
+      "url": "https://www.nytimes.com/2026/07/17/world/americas/earthquake-tsunami-warning-mexico-guatemala.html",
+      "excerpt": "A powerful earthquake near the border of Mexico and Guatemala raised fears of a tsunami and shook buildings across three countries.",
+      "publishedAt": "2026-07-17T19:54:11.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Parents in Uganda Demand Answers After Bus Crash Kills 21 Children",
+      "url": "https://www.nytimes.com/2026/07/17/world/africa/uganda-bus-crash-children.html",
+      "excerpt": "The driver of the school bus, carrying dozens of students, lost control, officials said, causing the bus to veer off the road into a boulder.",
+      "publishedAt": "2026-07-17T16:03:37.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
       "title": "E.U. Proposes Changes to Emissions Trading System",
       "url": "https://www.nytimes.com/2026/07/17/climate/european-union-emissions-rollback.html",
       "excerpt": "The European Union is facing a green backlash as emissions cuts become harder and require bigger overhauls to industry and livelihoods",
@@ -4146,6 +4117,33 @@
       "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html",
       "excerpt": "Like his predecessors, President Trump has struggled to turn battlefield successes into long-term victories.",
       "publishedAt": "2026-07-17T16:25:27.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Cuban Dissident Was Missing A Week After Prison Release",
+      "url": "https://www.nytimes.com/2026/07/17/world/americas/luis-manuel-otero-alcantara-cuba-missing-exile.html",
+      "excerpt": "A Cuban artist awaiting permission from the Trump administration to enter the United States was held in an unknown location in Cuba.",
+      "publishedAt": "2026-07-17T19:44:21.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Iran-U.S. Talks: How 4 Negotiators Would Approach Diplomacy",
+      "url": "https://www.nytimes.com/2026/07/17/world/middleeast/iran-us-war-peace-talks-strategies.html",
+      "excerpt": "First step: Agree on a goal.",
+      "publishedAt": "2026-07-17T13:06:32.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Hundreds of Rohingya Feared Drowned at Sea",
+      "url": "https://www.nytimes.com/2026/07/17/world/asia/rohingya-myanmar-boats-sink-missing.html",
+      "excerpt": "Members of the persecuted minority group from Myanmar set off in search of a better life weeks ago, but news of their boats sinking only emerged recently. More than 500 are feared dead.",
+      "publishedAt": "2026-07-17T14:20:07.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4241,13 +4239,23 @@
     },
     {
       "sourceId": "dw-chinese",
+      "title": "美国空袭持续 伊朗:再不收手就“全面反攻”",
+      "url": "https://www.dw.com/zh/美国空袭持续-伊朗-再不收手就-全面反攻/a-78018295?maca=chi-rss-chi-all-1127-rdf",
+      "excerpt": "美军对伊朗的空袭已经连续7天，伊朗谴责美国对民用基础设施的打击构成了战争罪行。与此同时，伊朗也加大了对中东邻国境内美军目标的袭击力度。霍尔木兹海峡的自由通行短期内希望渺茫。",
+      "publishedAt": "2026-07-18T10:05:00.000Z",
+      "category": "politics",
+      "source": "DW 中文",
+      "summary": "美军连续7天空袭伊朗，伊朗谴责美方打击民用基础设施构成战争罪行，并加大对中东邻国美军目标袭击。霍尔木兹海峡自由通行短期内希望渺茫。"
+    },
+    {
+      "sourceId": "dw-chinese",
       "title": "事实核查：特朗普指控美国2020大选遭舞弊 是否属实？",
       "url": "https://www.dw.com/zh/事实核查：特朗普指控美国2020大选遭舞弊-是否属实？/a-78016859?maca=chi-rss-chi-all-1127-rdf",
       "excerpt": "在一场黄金时段电视讲话中，特朗普声称，中国干预了2020年美国总统选举。德国之声查阅了解密文件，对相关说法进行了核查。",
       "publishedAt": "2026-07-18T08:16:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "特朗普在电视讲话中指控中国干预2020年美国总统选举。德国之声查阅解密文件，对相关说法进行了事实核查。"
+      "summary": "特朗普在电视讲话中指控中国干预2020年美国大选。德国之声查阅解密文件进行事实核查，评估该说法是否属实。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4257,7 +4265,7 @@
       "publishedAt": "2026-07-18T07:19:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "时事评论作家长平观察称，中共可能通过黑社会性质团伙对台湾实施「外包镇压」，并警告类似矢板明夫遇袭事件可能增多。"
+      "summary": "评论作家长平指出，黑社会性质团伙已成中共日常权力一部分，并警告类似矢板明夫遇袭的「外包镇压」可能增多。涉及台湾议题。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4364,15 +4372,6 @@
       "url": "https://www.dw.com/zh/皮尤：许多国家对中国及习近平好感度超过美国和特朗普/a-77983759?maca=chi-rss-chi-all-1127-rdf",
       "excerpt": "多年来，美国在世界上大多数国家获得的好感度高于中国。但今年，皮尤研究中心的最新问卷显示出不同的结果。部分原因是特朗普政府与盟国的紧张关系。",
       "publishedAt": "2026-07-16T11:25:00.000Z",
-      "category": "politics",
-      "source": "DW 中文"
-    },
-    {
-      "sourceId": "dw-chinese",
-      "title": "中朝高层频繁互动 中共4号人物王沪宁访朝",
-      "url": "https://www.dw.com/zh/中朝高层频繁互动-中共4号人物王沪宁访朝/a-77983429?maca=chi-rss-chi-all-1127-rdf",
-      "excerpt": "中共中央政治局常委、全国政协主席王沪宁在平壤与朝鲜劳动党高级官员举行了会谈。在朝鲜与俄罗斯关系日益密切的背景下，中国正利用《中朝友好合作互助条约》签订65周年的契机，努力加强对朝鲜这一传统盟友的影响力。",
-      "publishedAt": "2026-07-16T11:22:00.000Z",
       "category": "politics",
       "source": "DW 中文"
     },
@@ -4513,6 +4512,15 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Argentina’s New York fans share hopes before 2026 World Cup final",
+      "url": "https://www.aljazeera.com/sports/2026/7/18/argentinas-new-york-fans-share-hopes-ahead-of-2026-world-cup-final?traffic_source=rss",
+      "excerpt": "Argentinians in Queens hold on to football tradition, as new communities grow support the national team in NYC.",
+      "publishedAt": "2026-07-18T09:29:20.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "Watch FIFA World Cup: Messi, Rodri comment ahead of Argentina-Spain final",
       "url": "https://www.aljazeera.com/video/2026/7/18/video-world-cup-2026-highlights?traffic_source=rss",
       "excerpt": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
@@ -4537,7 +4545,7 @@
       "publishedAt": "2026-07-18T07:45:46.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "巴勒斯坦球迷向埃及教练霍萨姆·哈桑（Hossam Hassan）致敬。"
+      "summary": "巴勒斯坦球迷向埃及教练霍萨姆·哈桑（Hossam Hassan）致敬，表达敬意。"
     },
     {
       "sourceId": "aljazeera",
@@ -4725,15 +4733,6 @@
       "url": "https://www.aljazeera.com/news/2026/7/18/trump-media-reportedly-mulling-fee-for-first-access-to-social-media-posts?traffic_source=rss",
       "excerpt": "US president has frequently been accused of trading government influence for improper financial gain.",
       "publishedAt": "2026-07-18T00:32:34.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "UK by-election sees record 34 candidates as Farage seeks return",
-      "url": "https://www.aljazeera.com/news/2026/7/18/uk-by-election-sees-record-34-candidates-as-farage-seeks-return?traffic_source=rss",
-      "excerpt": "The Reform UK leader seeks to regain his seat after resigning amid gifts controversy.",
-      "publishedAt": "2026-07-18T00:23:40.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
