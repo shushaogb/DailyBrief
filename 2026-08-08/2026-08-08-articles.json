@@ -234,7 +234,7 @@
       "publishedAt": "2026-08-07T15:20:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI公布其Astra模型的初步网络安全评估结果，并加强安全防护与控制措施，以应对下一代关键网络能力。"
+      "summary": "OpenAI公布了新一代模型Astra的初步网络安全评估结果，并介绍了为强化安全防护与控制措施所采取的具体步骤，以应对关键网络能力领域的新前沿。"
     },
     {
       "sourceId": "openai-news",
@@ -244,7 +244,7 @@
       "publishedAt": "2026-08-07T09:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "HSP GRUPPE利用ChatGPT Enterprise提升生产力、改善工作质量，并为税务咨询和客户服务创造更多空间。"
+      "summary": "OpenAI发文介绍税务咨询公司HSP GRUPPE如何利用ChatGPT Enterprise提高生产力、改善工作质量，并为税务咨询及客户服务释放更多人力与时间。"
     },
     {
       "sourceId": "openai-news",
@@ -254,7 +254,7 @@
       "publishedAt": "2026-08-06T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI在ChatGPT中推出改进版GPT-5.6 Sol，提升准确性和一致性；同时扩大免费用户对GPT-5.6 Luna的访问，支持无限日常对话。"
+      "summary": "OpenAI宣布升级ChatGPT中的GPT-5.6 Sol，提升其准确性与一致性，并扩大GPT-5.6 Luna对免费用户的开放范围，用户可进行无限制的日常对话。"
     },
     {
       "sourceId": "openai-news",
@@ -264,7 +264,7 @@
       "publishedAt": "2026-08-06T06:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI与美国心理学会合作，为青少年心理健康和AI负责任使用提供循证指南、资源和保障措施。"
+      "summary": "OpenAI与美国心理学会（American Psychological Association）合作，共同推进基于证据的指南、资源与安全防护，以促进负责任的AI应用，并关注青少年心理健康。"
     },
     {
       "sourceId": "openai-news",
@@ -274,7 +274,7 @@
       "publishedAt": "2026-08-06T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI Signals数据显示全球用户使用ChatGPT的方式，包括国家层面的采用率、使用趋势和行为变化。"
+      "summary": "OpenAI发布Signals新数据，展示全球用户使用ChatGPT的方式，并提供各国层面的采用率、使用趋势及行为变化洞察，反映AI应用从“提问”到“执行”的转变。"
     },
     {
       "sourceId": "openai-news",
@@ -509,7 +509,7 @@
       "publishedAt": "2026-08-06T15:06:15.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "DeepMind发布WeatherNext AI模型，在气旋预测方面实现突破性进展。"
+      "summary": "谷歌DeepMind发布WeatherNext AI模型，称其在气旋预测方面取得突破性进展，有望提升对极端天气事件的预报准确性与预警能力。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -780,7 +780,7 @@
       "publishedAt": "2026-08-07T17:53:32.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face发布TutorMoments，探讨AI导师应何时介入帮助、何时保持克制，以优化教学辅助效果。"
+      "summary": "Hugging Face博客介绍AllenAI的TutorMoments项目，核心问题是AI辅导系统能否判断何时该提供帮助、何时该保持克制，涉及AI教育中的教学时机判断。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -790,7 +790,7 @@
       "publishedAt": "2026-08-06T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Baseten现已集成至Hugging Face推理提供商平台，可供开发者使用。"
+      "summary": "Hugging Face博客宣布，Baseten已加入其推理提供商生态，成为新晋推理服务商，开发者可通过Hugging Face平台直接调用Baseten的模型推理能力，简化部署流程。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1053,7 +1053,7 @@
       "meta": "👍 213",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "面向长时程终端任务，提出递归合成方法生成高质量训练数据，以解决人工编写不可扩展且每任务成本高达数百至数千美元的问题。方法保证指令、环境、参考解与验证器的一致性，降低数据生产开销。"
+      "summary": "面向终端代理的长时程任务训练数据成本高昂，人工编写难以扩展，且需保持指令、环境、参考解与验证器相互一致。提出递归合成方法，按约束层层生成并校验，以低成本规模化构建高质量一致性数据。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1061,10 +1061,10 @@
       "url": "https://huggingface.co/papers/2608.05987",
       "excerpt": "Reinforcement learning (RL) with verifiable rewards constructs trajectory-level advantage estimates, yet it often fails to credit the few pivotal decisions that determine outcomes in long-horizon, multi-turn agentic tasks. Recent work introduces privileged self-distillation for credit assignment, pr",
       "publishedAt": "2026-08-06T00:00:00.000Z",
-      "meta": "👍 74",
+      "meta": "👍 75",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对长时程多轮智能体强化学习中，轨迹级优势估计难以对少数关键决策进行信用分配的问题，提出 AgentOPSD，基于特权自蒸馏思想引入递归自蒸馏机制，改进信用分配，提升智能体决策学习效率。"
+      "summary": "基于可验证奖励的强化学习在长时程多轮智能体任务中难以将奖励归于关键决策。提出AgentOPSD递归自蒸馏方法，通过特权蒸馏改进信用分配，提升智能体在长期决策中的学习效率与性能。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1075,7 +1075,7 @@
       "meta": "👍 62",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对长时程搜索代理在监督微调和强化学习中均匀对待轨迹步骤、无法识别关键动作的问题，提出 ABSeeker，通过答案回溯的信用分配方法，在搜索、检索、验证与整合的多步决策中准确定位决定性步骤，提升训练效果。"
+      "summary": "长时程搜索代理需多步搜索、检索、验证与整合证据。现有SFT和RL常对轨迹内所有步骤一视同仁，信用分配不准。提出ABSeeker，基于答案回溯的信用分配方法，回溯关键步骤并差异化训练，提升搜索代理整体性能。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1086,7 +1086,7 @@
       "meta": "👍 59",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 OSReward，为跨平台计算机使用代理（CUA）建立标准化的奖励模型评估体系。CUA 轨迹记录动作、状态与推理，验证其是否完成任务对评估、数据整理和强化学习至关重要，人工验证器难以满足需求，OSReward 提供统一评测方案。"
+      "summary": "计算机使用代理（CUA）的轨迹验证是评估、数据整理与RL的核心。人工编写验证器不可靠。OSReward建立跨平台计算机使用奖励模型的标准化评估，统一评测框架，提升验证的可靠性与可比较性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1097,7 +1097,7 @@
       "meta": "👍 56",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "通过 CLIP 风格目标训练的深度网络可从非侵入性脑磁图（MEG）中解码感知语音，但其权重不映射电生理量。本文研究皮层来源及驱动检索的刺激特征，揭示解码机制，提升语音解码的可解释性。"
+      "summary": "针对深度网络从MEG信号解码语音时权重无法映射到电生理量、可解释性不足的问题，提出可解释解码方法，定位皮层源并识别驱动检索的刺激特征，揭示语音感知的神经机制。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1108,7 +1108,7 @@
       "meta": "👍 50",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 WorldClaw，一种完全智能体化的从粗到细框架，用于从开放式文本生成大规模可自由探索的 3D 世界。方法统一维护全局空间连贯、丰富局部内容，并产出可编辑复用的显式资产，解决大规模 3D 生成的关键挑战。"
+      "summary": "从开放式文本生成大规模可自由探索3D世界需同时保证全局空间连贯、局部内容丰富和可编辑资产。提出WorldClaw，一个全智能体的由粗到精生成框架，实现规模化开放世界生成。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1119,7 +1119,7 @@
       "meta": "👍 36",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出全局时空基准 GST-Bench，用于评估视觉语言模型（VLM）能否从连续、长时程视频流中形成全局空间意识。现有基准仅关注单视图或局部空间感知，GST-Bench 弥补了这一空白，为具身智能空间智能提供评测标准。"
+      "summary": "现有空间智能基准多聚焦单视角局部感知，忽视连续长时程视觉流下的全局空间感知。提出GST-Bench基准，用于评估VLM从视频中发展全局空间—时间感知的能力，填补该评测空白。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1130,7 +1130,7 @@
       "meta": "👍 33",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 EnvACE，一种智能体强化学习方法，通过世界预演将环境动态内化到语言模型代理中，用于长时程工具使用。相比依赖真实或合成可执行环境，该方法降低环境构建与验证成本，减少对外部模拟器接地困难的依赖。"
+      "summary": "长时程工具使用代理依赖真实或合成的可执行环境，构建与验证成本高。提出EnvACE智能体强化学习框架，通过“世界预演”内化环境动态，减少对外部模拟器的依赖，提升训练效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1141,7 +1141,7 @@
       "meta": "👍 31",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 ChronoVision，通过潜在状态重建增强多模态大语言模型的多步时间推理能力。语言化推理难以准确刻画连续视觉状态导致性能退化，该方法在潜在空间重建连续状态，提升复杂视觉认知任务的表现。"
+      "summary": "多模态大模型在需要多步时间推理的视觉认知任务上表现欠佳，源于语言化推理难以刻画连续视觉动态。提出ChronoVision潜在状态重建方法，显式重构中间状态以增强时态推理能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1152,7 +1152,7 @@
       "meta": "👍 29",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对统一多模态检索中，LVLM 检索器直接编码原始输入而遗漏细粒度判别信息的问题，提出检索中心思维链方法，利用硬负样本从失败案例中学习，增强对复杂异质用户意图的候选识别能力，提升检索性能。"
+      "summary": "统一多模态检索中，基于LVLM的检索器直接编码原始输入易丢失细粒度判别信息。提出基于硬负样本的检索中心CoT方法，从失败样本中学习，强化复杂意图下候选匹配的判别力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1163,7 +1163,7 @@
       "meta": "👍 27",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出经济世界模型（EWM）的系统蓝图，从系统视角建模异质经济主体的信念、行动以及市场与制度机制，模拟其相互作用如何产生总体经济结果，使经济模型能够从内部生成式地演化，而非仅外部校准。"
+      "summary": "经济世界模型通过建模异质智能体的信念、行为及市场制度机制，内生地模拟经济演化。提出系统蓝图，从经济智能体走向智能体经济，设计可落地的多智能体经济世界模型架构。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1174,7 +1174,7 @@
       "meta": "👍 27",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 HarnessOpt-Bench 基准，评估 LLM 在智能体系统中执行 harness 优化的能力。harness 包括提示、工具、控制流、记忆与编排代码，自动化迭代改进 harness 对智能体性能至关重要，该基准填补了相关评估空白。"
+      "summary": "智能体系统的能力不仅取决于模型权重，还取决于prompt、工具、控制流等harness。提出HarnessOpt-Bench，评估LLM在自动化harness优化中的表现，推动评估引导的迭代式优化。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1185,7 +1185,7 @@
       "meta": "👍 24",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 DataSpace 基准，用于评估数据代理在异构工作区中执行可验证自然语言分析的能力。相关证据可能分散于数据库、结构化文件、长文档与多媒体，现有基准割裂结构化查询、检索与开放分析，DataSpace 提供统一评测。"
+      "summary": "数据代理需跨数据库、结构化文件、长文档和多媒体执行自然语言分析，现有基准彼此割裂。提出DataSpace基准，覆盖异构工作区，评测可验证的分析任务，推动数据代理能力评估。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1196,7 +1196,7 @@
       "meta": "👍 24",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 GDPevo 基准，在真实业务任务上评估智能体自我进化能力：从既往经验更新持久状态并复用于解决相关任务。现有基准对经济价值任务覆盖有限且训练/测试设计不足，GDPevo 提供更贴近实际业务场景的评测方案。"
+      "summary": "代理自我进化通过更新持久状态复用经验以解决相关任务。现有基准领域覆盖不足且训练测试设计不佳。提出GDPevo，基于真实商业任务评估代理自进化能力，提供更贴近实用的评测。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1207,7 +1207,7 @@
       "meta": "👍 23",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "研究 On-Policy Distillation（OPD）及其高级变体 On-Policy Delta Distillation（OPD²）在多语言数学推理中的表现。OPD 正成为 LLM 后训练中强化学习的替代方案，该工作探索其多语言场景下的有效性，并分析增量蒸馏的增益。"
+      "summary": "研究on-policy蒸馏（OPD）及其进阶变体OPD²在多语言数学推理中的效果，探索其作为RL后训练替代方案的有效性，评估英语及多语言场景下的推理性能提升。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1218,7 +1218,7 @@
       "meta": "👍 21",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对现代希腊语缺失于 Nemotron 检索模型和主要多语言检索基准的问题，提出端到端适配方案：挖掘专业领域语料、调整检索模型、并将生成接地于检索证据，覆盖法律、能源、金融、医疗等需要 RAG 的应用场景。"
+      "summary": "现代希腊语缺乏NVIDIA Nemotron检索模型支持和基准覆盖，制约法律、能源、医疗等领域的RAG应用。通过语料挖掘、检索适配与生成接地，端到端适配Nemotron检索栈，填补该语言空白。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1229,7 +1229,7 @@
       "meta": "👍 18",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 SmartMage，用于 3D 场景理解的动态模态编排方法。视觉与几何等模态与查询的相关性因问题而异，SmartMage 根据查询动态调度并融合多模态信息，弥补现有多模态大语言模型固定融合带来的推理局限。"
+      "summary": "3D场景理解需联合推理视觉与几何等多模态信息，但不同查询下模态相关性各异。提出SmartMage动态模态编排方法，根据查询实时调配模态组合，提升3D场景理解性能与适应性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1240,7 +1240,7 @@
       "meta": "👍 17",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "K-EXAONE 2.0 是 LG AI Research 推出的开源多语言基础模型，采用上循环（upcycling）而非从零训练，扩展 K-EXAONE 架构得到 Mixture-of-Experts（MoE）模型，向全球前沿规模基础模型迈进。"
+      "summary": "LG AI Research发布开源多语基础模型K-EXAONE 2.0。不同于从零训练，通过扩展原模型并升级为MoE架构，以较低成本提升容量与多语能力，向全球前沿基础模型迈进。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1251,7 +1251,7 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 Activity Frames，用确定性零模型管线将被动捕获的屏幕活动编译为代理记忆，记录用户实际执行的操作而非口头指令，支持智能体记忆与回放，避免为重复已有操作而付出完整推理成本。"
+      "summary": "计算机使用代理的记忆只记录用户所说而非所做，导致重复执行已做过流程时仍耗费全部推理。提出Activity Frames，用确定性零模型管道将被动捕获的屏幕活动编译为代理记忆，支持高效回放。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1262,7 +1262,7 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 EffectLearner，面向真实世界视频物体移除，通过世界感知的物体-效应推理同时消除目标物体及其诱导效应，保持高保真与时空连贯。相比隐式学习预定义效应类别的方法，其泛化能力更强，适应固定数据分布之外的场景。"
+      "summary": "视频物体移除需同时消除目标及其引发效果，现有方法从预定义效果类别隐式学习对应关系。提出EffectLearner世界感知的对象效果推理，显式建模效果机制，提升真实场景移除的保真度与时空一致性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1372,7 +1372,7 @@
       "publishedAt": "2026-08-07T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "本周AI动态：GPT-5.6 Luna成为默认模型，新增Agent插件，AMD完成对Taalas的收购。"
+      "summary": "本期TLDR AI聚焦AI领域最新动态：GPT-5.6 Luna成为默认模型，引入Agent插件功能，同时AMD宣布收购Taalas，行业竞争持续加剧。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1382,7 +1382,7 @@
       "publishedAt": "2026-08-06T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "谷歌DeepMind进行管理层重组，Meta推出Muse代码功能，Anthropic组建芯片团队。"
+      "summary": "TLDR AI当日要闻包括：谷歌DeepMind高层重组，Meta发布代码模型Muse Code，以及Anthropic组建芯片团队，显示AI行业竞争进一步加剧。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1554,7 +1554,7 @@
       "publishedAt": "2026-08-07T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "OpenAI因Astra模型在智能体编程和网络安全方面取得重大进展，将其升级为关键网络状态，并暂停部分活动以强化控制；Hugging Face事件也凸显多智能体协调的持续失败。"
+      "summary": "OpenAI因其智能体编程与网络安全能力取得重大进展，将即将推出的Astra模型列为“关键”网络能力级别，并暂停部分活动以加强管控；同时，“Hugging Face事件”暴露出多智能体协调方面的持续失败。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1564,7 +1564,7 @@
       "publishedAt": "2026-08-06T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Meta的Muse Spark 1.2模型升至前沿水平，在Vals Index中排名前五，测试成本0.69美元，比Kimi便宜3倍，比Fable、Opus和5.6 Sol便宜10倍以上；并在五项STEM奥赛中达金牌水平，理论满分。"
+      "summary": "Meta的Muse Spark 1.2模型迅速跻身前沿水平，在Vals Index排名前五，每次测试成本仅0.69美元，比Kimi便宜3倍，比Fable、Opus和5.6 Sol便宜10倍以上；并在五项STEM奥赛中取得金牌级成绩。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1826,7 +1826,7 @@
       "publishedAt": "2026-08-08T01:12:07.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "本文围绕Zawinski定律探讨多智能体系统，作者从近期相对平静的动态中梳理各主题间的潜在联系。"
+      "summary": "Latent Space的AINews通讯以Zawinski定律为切入点，探讨多智能体系统话题，并指出在相对平静的一天里，从近期多个主题中可以发现相互关联。"
     },
     {
       "sourceId": "latent-space",
@@ -1836,7 +1836,7 @@
       "publishedAt": "2026-08-07T05:13:46.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AMD宣布收购AI芯片公司Taalas，推理计算领域的竞争进一步升温。"
+      "summary": "Latent Space的AI新闻通讯报道，AMD宣布收购AI公司Taalas，并评论称AI推理领域的拐点正在升温，暗示推理算力竞争加剧。"
     },
     {
       "sourceId": "latent-space",
@@ -1846,7 +1846,7 @@
       "publishedAt": "2026-08-06T04:34:11.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Jeff、Sanjay、Oriol和Quoc离开DeepMind；Demis出任主席，Koray担任高级副总裁。"
+      "summary": "Latent Space报道，Jeff、Sanjay、Oriol和Quoc离开DeepMind，Demis转任主席，Koray出任高级副总裁，文章称“一个时代结束”。"
     },
     {
       "sourceId": "latent-space",
@@ -2100,7 +2100,7 @@
       "category": "tech",
       "meta": "@XFreeze · 251.7K 粉丝 · 778.3K 阅 · 558 赞 · 80 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "探讨 Grok Build 的真实定位：大多数人把它当成 AI 编程代理，只用来构建应用，实则被低估了一个量级。作者认为它更像一个「自主员工」，能从根本上改变笔记本电脑的使用方式，并给出实用指南。"
+      "summary": "Grok Build 的实际价值被低估了一个数量级——多数人以为 AI 编程 agent 只是用来造应用，其实它能成为你的自主员工。作者结合案例给出实操指南，教你把它用于更广泛的自动化任务，而不只是写代码。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2111,7 +2111,7 @@
       "category": "tech",
       "meta": "@tetsuoai · 236.6K 粉丝 · 493.9K 阅 · 851 赞 · 138 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "手把手教如何用 Grok Imagine 从想象到成片制作短片。上个月发布的 Imagine Video 1.5 已改进运动、物理与音频，7月31日 xAI 补齐图像生成环节，使真正的电影制作流程成为可能。"
+      "summary": "Grok Imagine 本周跨过里程碑：上月发布的 Video 1.5 改善了运动、物理和音频，7月31日新增图像与视频结合能力，让真正电影制作成为可能。作者从想象到成片，完整演示了用 Grok Imagine 制作短片的流程。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2122,7 +2122,7 @@
       "category": "tech",
       "meta": "@sawyerhood · 17.1K 粉丝 · 185.1K 阅 · 519 赞 · 27 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "展示新项目 bb，一个能够自我构建的 agentic IDE。项目最初由 @_ymichael 发起，作者从早期用户逐渐深度参与。核心亮点是 IDE 具备自举能力，可自动构建自身。"
+      "summary": "作者展示新项目 bb——一个能自我构建的 agentic IDE。项目起初是 @_ymichael 的爱好之作，作者从早期用户深度参与，演示如何让 IDE 基于自身代码库自主迭代、重构和扩展功能。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2133,7 +2133,7 @@
       "category": "tech",
       "meta": "@milesdeutscher · 675.2K 粉丝 · 103.7K 阅 · 514 赞 · 29 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "作者公开完整系统，宣称已用 Claude「克隆自己」，自动化了 80% 以上的生活。强调这并非泛泛的 AI 第二大脑文章，而是精确到每一步的可复用工作流。"
+      "summary": "作者用 Claude 搭建完整自动化系统，自称「克隆了自己」，可以自动化生活中 80%+ 的任务。文章给出精确到每一步的可复制流程，而非泛泛的 AI 第二大脑内容，适合想系统性落地 AI 自动化的人。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2144,7 +2144,7 @@
       "category": "tech",
       "meta": "@vasuman · 88.5K 粉丝 · 80.7K 阅 · 569 赞 · 33 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "观点文：AI 普及是个神话。作者指出，自认普通的用户其实已处于前 1%，但与前沿玩家差距悬殊——后者同时开 20 个终端、用自我重写的知识库工作。真正的问题是中间层空白。"
+      "summary": "观点帖：AI 采用率是伪命题——你其实已属于前 1% 的 AI 用户。虽然与前沿玩家（同时开 20 个终端、知识库自更新的极客）存在差距，但多数人不需要走到极端，务实应用才是关键。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2155,7 +2155,7 @@
       "category": "tech",
       "meta": "@yisongyue · 24.2K 粉丝 · 48.3K 阅 · 503 赞 · 37 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "提出「知识飞轮」作为新的扩展维度：扩展模型靠数据、架构与算力，扩展 agent 靠工具、搜索、验证与封装框架，而下一步将依靠知识飞轮自我迭代。属于面向未来的框架性思考。"
+      "summary": "提出「知识飞轮」这一新扩展维度：今天模型靠数据、架构和算力扩展，agent 靠工具、搜索、验证扩展；明天将依靠知识自动积累与复用的飞轮效应，成为 AI 能力持续增长的新范式。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2165,7 +2165,7 @@
       "publishedAt": "2026-08-08T05:54:20.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "乌克兰无人机袭击俄南部克拉斯诺达尔地区的伊尔斯基炼油厂，碎片引发火灾导致5人受伤；俄乌双方夜间互相攻击，基辅遭遇大规模导弹袭击。"
+      "summary": "乌克兰无人机碎片击中俄罗斯南部克拉斯诺达尔地区的伊尔斯基炼油厂并引发火灾，造成5人受伤。俄乌周六再度互相发动夜间袭击，基辅遭遇大规模导弹袭击。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2175,7 +2175,7 @@
       "publishedAt": "2026-08-08T06:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "乌克兰总统泽连斯基于8月8日首次访问塞尔维亚，此行具有里程碑意义。塞尔维亚领导人近期持续疏远与俄罗斯的紧密关系，反映出俄罗斯在该地区影响力减弱。"
+      "summary": "乌克兰总统泽连斯基于周六对塞尔维亚进行历史性首次访问。塞尔维亚作为巴尔干国家，其领导人近年来不断缩减与俄罗斯曾一度密切的关系，此访正值俄罗斯影响力在该地区式微之际。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2185,7 +2185,7 @@
       "publishedAt": "2026-08-08T05:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "英国财政部官员担心，首相伯纳姆表示将利用财政规则中的“灵活性”增加投资，此举可能引发金融市场动荡，适得其反。据知情人士透露。"
+      "summary": "英国财政部官员担心，首相伯纳姆在财政规则内运用“灵活性”以加大投资力度的言论可能适得其反，导致金融市场动荡。据知情人士透露。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2195,7 +2195,7 @@
       "publishedAt": "2026-08-08T04:57:41.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美国一名法官暂时阻止国防部执行将药明康德列为中国军事公司的认定，给予这家大型医药承包商临时救济，使其获得喘息之机。"
+      "summary": "美国一名法官作出裁决，暂时阻止国防部执行将药明康德列为中国军事公司的认定，给予这家大型医药外包企业临时救济。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2529,7 +2529,7 @@
       "publishedAt": "2026-08-08T04:00:42.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "委内瑞拉连日遭遇停电，民众走上街头抗议。首都加拉加斯经历七年来首次断电，尽管政府曾承诺对电网进行投资。"
+      "summary": "委内瑞拉全国连日遭遇每日停电，民众走上街头抗议。首都加拉加斯也经历七年来首次电力中断，尽管政府此前承诺投资电网。"
     },
     {
       "sourceId": "ft-companies",
@@ -2539,7 +2539,7 @@
       "publishedAt": "2026-08-08T04:00:42.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "信用保险公司安联贸易计划减少对英国房屋建筑商Vistry供应商的承保，此举可能加剧该困境企业面临的现金流压力。"
+      "summary": "信用保险公司安联贸易计划减少对英国房屋建筑商Vistry供应商的承保，此举可能进一步加剧该公司本已紧张的现金流压力。"
     },
     {
       "sourceId": "ft-companies",
@@ -2549,7 +2549,7 @@
       "publishedAt": "2026-08-08T04:00:42.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "英国第二大超市森宝利（Sainsbury's）过去二十年为投资者带来的回报平平，有评论认为其需要借鉴大型科技公司的魄力来推动变革。"
+      "summary": "《金融时报》评论指出，英国第二大超市森宝利过去二十年交出的业绩回报平平无奇，如今需要借鉴大型科技企业的魄力与胆识，才能改变现状。"
     },
     {
       "sourceId": "ft-companies",
@@ -2559,7 +2559,7 @@
       "publishedAt": "2026-08-08T04:00:41.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "英国首次购房者年龄不断上升，如今三分之一的人在拥有自有住房前已组建家庭。分析认为，子女、公寓和学生贷款等因素推迟了购房步伐。"
+      "summary": "英国首次购房者年龄日益增长，受育儿、公寓和学生贷款等因素影响，数据显示，每三人中就有一人在拥有自有住房前已开始组建家庭。"
     },
     {
       "sourceId": "ft-companies",
@@ -2569,7 +2569,7 @@
       "publishedAt": "2026-08-08T04:00:41.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "伦敦一度失意的房屋建筑商终于迎来转机。但有评论指出，如果政府要实现雄心勃勃的建房目标，仅仅恢复常态并不足够。"
+      "summary": "伦敦低迷的房屋建筑商终于迎来喘息之机，但分析指出，如果政府想实现雄心勃勃的建房目标，仅仅回到正常水平还不够。"
     },
     {
       "sourceId": "ft-companies",
@@ -2579,7 +2579,7 @@
       "publishedAt": "2026-08-08T04:00:41.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "伦敦金融城高管敦促英国新任首相伯纳姆在下一份预算中排除养老金一次性领取规则变动，避免连续第三年引发预算前猜测。"
+      "summary": "英国金融城高管敦促首相伯纳姆在下一份预算中明确排除修改养老金一次性支取规则，避免连续第三年引发预算前市场猜测。"
     },
     {
       "sourceId": "ft-companies",
@@ -2589,7 +2589,7 @@
       "publishedAt": "2026-08-08T04:00:32.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "英国住房危机持续，有分析指出，要增加新建住房数量，必须设法解除资金和资源方面的限制，否则难以突破供应瓶颈。"
+      "summary": "《金融时报》评论文章认为，修复英国住房危机需要找到途径，解除新建住房在资金和资源方面面临的限制，以缓解供应不足。"
     },
     {
       "sourceId": "ft-companies",
@@ -2599,7 +2599,7 @@
       "publishedAt": "2026-08-08T04:00:32.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "从《模拟人生2》到《胡闹厨房》，一系列电子游戏将厨房工作转变为娱乐，并展现出制作无法食用的食物带来的满足感。"
+      "summary": "文章探讨电子游戏中烹饪虚拟食物的乐趣，从《模拟人生2》到《胡闹厨房》，游戏将厨房劳作转化为娱乐，并展现制作无法食用之物的满足感。"
     },
     {
       "sourceId": "ft-companies",
@@ -3872,6 +3872,15 @@
     },
     {
       "sourceId": "nyt-world",
+      "title": "Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse",
+      "url": "https://www.nytimes.com/2026/08/08/weather/heat-in-italy-will-spread-to-western-europe.html",
+      "excerpt": "Red high-temperature warnings remained in effect for much of southern and western Italy through Saturday.",
+      "publishedAt": "2026-08-08T09:02:19.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
       "title": "What to Know About Wildberries, the Company in Ukraine’s Cross Hairs",
       "url": "https://www.nytimes.com/2026/08/08/world/europe/wildberries-russia-ukraine.html",
       "excerpt": "Ukrainian drones have increasingly targeted warehouses belonging to Wildberries, which many Russians rely on as the country’s largest e-commerce business.",
@@ -3917,15 +3926,6 @@
     },
     {
       "sourceId": "nyt-world",
-      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
-      "excerpt": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
-      "publishedAt": "2026-08-07T16:29:25.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
       "title": "Rescuers Battled Extreme Weather Conditions During Medevac Mission in Antarctica",
       "url": "https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html",
       "excerpt": "An Australian flight crew faced subfreezing temperatures, changing weather conditions and almost constant darkness as they worked to rescue a U.S. national.",
@@ -3962,6 +3962,15 @@
     },
     {
       "sourceId": "nyt-world",
+      "title": "Signs of Economic Recovery While Greater Uncertainty Looms",
+      "url": "https://www.nytimes.com/2026/08/08/world/canada/canada-economy-tariffs-carney-trump.html",
+      "excerpt": "Jobs and trade numbers released this week show that Canada is recovering from trade turmoil, but another round of tariffs may arrive this month.",
+      "publishedAt": "2026-08-08T10:00:07.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
       "title": "Punjabi Soldiers Who Fought for Britain in World War I Are Recognized for First Time",
       "url": "https://www.nytimes.com/2026/08/08/world/europe/punjabi-soldiers-ww1-british-indian-army.html",
       "excerpt": "Nearly 10,000 Punjabi soldiers who died in World War I have been added to casualty records for the first time.",
@@ -3989,10 +3998,10 @@
     },
     {
       "sourceId": "nyt-world",
-      "title": "Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition",
+      "title": "Former Marine Is Unresponsive After Mistreatment in Russian Detention, Family Says",
       "url": "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html",
-      "excerpt": "Robert Gilman, 32, is in “dissociative stupor,” an advocacy group said, and his family members say they are afraid for his life. Mr. Gilman was arrested in Russia in 2022.",
-      "publishedAt": "2026-08-07T18:52:20.000Z",
+      "excerpt": "Robert Gilman, 32, was being fed through a tube and in a “dissociative stupor,” an advocacy group said. He was arrested in Russia in 2022.",
+      "publishedAt": "2026-08-08T09:58:51.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4029,6 +4038,15 @@
       "url": "https://www.nytimes.com/2026/08/07/world/europe/england-drought-dry-weather-photos.html",
       "excerpt": "Beset by historically dry weather, much of the nation is losing its signature hue.",
       "publishedAt": "2026-08-07T15:41:33.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
+      "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
+      "excerpt": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
+      "publishedAt": "2026-08-07T16:29:25.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4083,24 +4101,6 @@
       "url": "https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html",
       "excerpt": "The two men, users of the platform Kick, received suspended sentences and fines.",
       "publishedAt": "2026-08-07T00:17:47.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Capybaras Were the Newest Lobbyists in This Brazilian Legislature",
-      "url": "https://www.nytimes.com/2026/08/06/world/americas/capybara-brazil-legislature.html",
-      "excerpt": "In Mato Grosso, Brazil, capybaras wandered into the building, but they were polite during the incursion.",
-      "publishedAt": "2026-08-07T00:54:52.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Houthi Attacks on Yemeni Military Threaten to Reignite Civil War",
-      "url": "https://www.nytimes.com/2026/08/06/world/middleeast/houthi-yemen-strikes.html",
-      "excerpt": "The Iranian-backed militia said it had targeted the armed forces in two resource-rich provinces, as escalating violence in Yemen imperils a fragile truce.",
-      "publishedAt": "2026-08-06T23:38:15.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4466,6 +4466,15 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms",
+      "url": "https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss",
+      "excerpt": "Bruno Guimaraes looks set to move to Premier League champions Arsenal, but Newcastle say they did not want to sell.",
+      "publishedAt": "2026-08-08T09:38:58.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "US announces $400m investment in Australian rare earth mine",
       "url": "https://www.aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine?traffic_source=rss",
       "excerpt": "Deal aims to secure scandium supply as China restricts exports for defence products.",
@@ -4677,15 +4686,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/puerto-rico-rations-water-as-severe-drought-leaves-reservoirs-depleted?traffic_source=rss",
       "excerpt": "Puerto Rico is beginning 48-hour water rationing for more than 180,000 households as severe drought depletes reservoirs.",
       "publishedAt": "2026-08-08T00:13:53.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
-      "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
-      "excerpt": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
-      "publishedAt": "2026-08-08T00:06:22.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },

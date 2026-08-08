@@ -1,118 +1,149 @@
 {
-  "hero_headline": "AI安全与地缘冲突主导今日议程",
-  "daily_overview": "整体来看，今日科技赛道密集亮牌：OpenAI公布Astra网络安全评估并升级GPT-5.6，让免费用户也能用上Luna；DeepMind在气旋预报与机器人协作领域连发成果。经济层面，美国7月就业意外减少2.3万，Meta因儿童安全案累计被罚逾9亿美元，药明康德获暂时豁免。地缘方面，俄乌战事再添平民伤亡，美军导弹库存传闻引发质疑，台湾获邀出席太平洋岛国论坛，全球局势多线交织。",
+  "hero_headline": "OpenAI升级Astra网络安全等级 强化防护",
+  "daily_overview": "科技领域，OpenAI 将 Astra 列为「关键」网络能力并暂停部分活动强化安全控制，同时更新 GPT-5.6 Sol 并向免费用户开放 Luna；AMD 收购 Taalas 加剧推理芯片竞争，DeepMind 与 Meta 分别推出 WeatherNext 和 Muse Spark 1.2。财经方面，美国 7 月就业意外减少 2.3 万，Meta 因儿童安全被累计罚款近 10 亿美元，特朗普政府斥资 12 亿美元叫停德国 RWE 风电项目，柴油供应因战争承压。时政方面，俄军导弹袭击基辅周边致 3 死，美军被曝高精度导弹库存告急，太平洋岛国论坛邀请台湾出席峰会。",
   "tech_briefs": [
     {
-      "title": "OpenAI公布Astra网络安全评估",
+      "title": "OpenAI将Astra列为「关键」网络能力并加强管控",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
       "source": "OpenAI News",
-      "summary": "OpenAI公布Astra模型初步网络安全评估，因智能体编程与网络能力突出将其升至「关键」级别，并暂停部分活动以强化安全控制。（多家报道）",
-      "importance": 8
+      "summary": "OpenAI公布对Astra的初步网络安全评估，因智能体编码与安全能力显著提升，将其列为「关键」网络能力，并暂停部分活动以强化安全控制。（多家报道）",
+      "importance": 9
     },
     {
-      "title": "GPT-5.6升级 免费用户也可用Luna",
+      "title": "GPT-5.6 Sol改进上线 Luna免费开放",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
       "source": "OpenAI News",
-      "summary": "OpenAI改进ChatGPT中GPT-5.6 Sol的准确性与一致性，同时向免费用户开放GPT-5.6 Luna，并提供日常无限次对话。",
+      "summary": "ChatGPT更新GPT-5.6 Sol，提升准确性与一致性；免费用户可体验GPT-5.6 Luna，日常聊天不限量。",
       "importance": 8
     },
     {
-      "title": "DeepMind WeatherNext突破气旋预报",
+      "title": "AMD收购Taalas 推理基础设施竞争升温",
+      "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
+      "source": "Latent Space",
+      "summary": "AMD收购AI推理芯片公司Taalas，正值大模型推理成本与效率竞争白热化，业内认为「推理拐点」正在加速到来。（多家报道）",
+      "importance": 8
+    },
+    {
+      "title": "DeepMind发布WeatherNext 预测气旋能力突破",
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
       "source": "DeepMind Blog",
-      "summary": "DeepMind发布WeatherNext人工智能模型，称其在气旋预报方面取得突破，可更准确预测极端天气路径，有望提升防灾预警能力。",
+      "summary": "DeepMind推出AI天气模型WeatherNext，在气旋路径与强度预报上实现突破，有望提升极端天气预警能力。",
       "importance": 7
     },
     {
-      "title": "Gemini Robotics ER 2强化机器人协作",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "source": "DeepMind Blog",
-      "summary": "DeepMind推出Gemini Robotics ER 2，通过视频理解、任务编排与多机器人协作，帮助机器人更高效地推理、协作并解决现实任务。",
-      "importance": 7
-    },
-    {
-      "title": "Meta Muse Spark 1.2跻身前沿模型",
+      "title": "Meta Muse Spark 1.2登顶性价比榜单",
       "url": "https://news.smol.ai/issues/26-08-06-not-much/",
       "source": "Smol AI News",
-      "summary": "Meta的Muse Spark 1.2在Vals Index升至前五，每项测试成本0.69美元，比Kimi便宜约3倍，比Fable、Opus等便宜10倍以上，性价比突出。",
+      "summary": "Meta的Muse Spark 1.2以每次测试0.69美元价格升至Vals Index前五，较Kimi便宜3倍、较Fable等旗舰便宜10倍以上。",
       "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "美国7月就业意外减少2.3万",
+      "title": "美国7月就业意外减少2.3万个岗位",
       "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "美国7月非农就业岗位减少2.3万个，与分析师预期的小幅增长相反，显示夏季劳动力市场进一步走弱。",
-      "importance": 8
+      "summary": "美国7月就业岗位环比减少2.3万个，与分析师预期的增长背道而驰，显示夏季劳动力市场持续低迷。",
+      "importance": 9
     },
     {
-      "title": "Meta因儿童安全案被罚5.67亿美元",
+      "title": "Meta再被罚5.67亿美元 儿童安全案累计罚款近10亿",
       "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "Meta在最大规模儿童安全诉讼中再被罚5.67亿美元，叠加此前3.75亿美元罚款，合计约9.42亿美元，创同类案件纪录。",
+      "summary": "法院对Meta作出迄今最大儿童安全裁决，追加罚款5.67亿美元，叠加此前3.75亿美元，总额达9.42亿美元。",
+      "importance": 7
+    },
+    {
+      "title": "法官暂阻国防部认定药明康德为涉军企业",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-08/wuxi-apptec-gets-temporary-reprieve-of-chinese-military-label",
+      "source": "Bloomberg Markets",
+      "summary": "美国法官裁定暂缓国防部对药明康德「中国军事企业」的认定执行，给予这家大型制药承包商临时救济。",
+      "importance": 7
+    },
+    {
+      "title": "特朗普政府斥资12亿美元叫停RWE美国风电项目",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "美国政府向德国RWE支付12亿美元，以终止其美国风电项目，这是系列取消风电协议的最新一笔。",
+      "importance": 6
+    },
+    {
+      "title": "中东与俄乌战争挤压柴油供应 冬季恐更紧",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-08/war-brings-winter-of-discontent-for-the-world-s-workhorse-fuel",
+      "source": "Bloomberg Markets",
+      "summary": "中东与乌克兰战事削弱柴油供应，北半球冬季需求上升前，全球「工作马燃料」可能面临更严重短缺。",
+      "importance": 7
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "俄导弹袭击基辅附近致3死 含一名儿童",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "俄罗斯连夜对乌克兰发动导弹袭击，基辅附近三人在空袭中丧生，其中包括一名儿童。此前泽连斯基警告乌方拦截导弹库存不足。",
+      "importance": 9
+    },
+    {
+      "title": "路透：美军高精度远程导弹库存告急 特朗普怒斥",
+      "url": "https://www.dw.com/zh/美军就要-弹尽炮绝-？/a-78236361?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "知情人士透露，美国在近期中东冲突中消耗大部分高精度远程导弹库存，引发对美军战备状态的担忧；特朗普驳斥相关报道并威胁严惩泄密者。",
       "importance": 8
     },
     {
-      "title": "药明康德暂获豁免中国军事企业标签",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-08/wuxi-apptec-gets-temporary-reprieve-of-chinese-military-label",
-      "source": "Bloomberg Markets",
-      "summary": "美国法官暂时阻止国防部将药明康德列为中国军事企业，给予这家大型医药承包合同商临时救济。",
-      "importance": 7
-    },
-    {
-      "title": "非洲多国对美元兴趣转淡",
-      "url": "https://www.economist.com/finance-and-economics/2026/08/06/african-countries-are-souring-on-the-dollar",
-      "source": "The Economist Finance",
-      "summary": "《经济学人》指出非洲国家正减少对美元依赖，人民币与本币有望受益，反映全球货币格局出现新变化。",
-      "importance": 7
-    },
-    {
-      "title": "印度IT业在AI浪潮中立足",
-      "url": "https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence",
-      "source": "The Economist Finance",
-      "summary": "《经济学人》分析认为印度IT行业正挺过人工智能冲击，但技术变革仍让许多毕业生就业更难。",
-      "importance": 6
+      "title": "太平洋岛国论坛邀请台湾出席峰会 突破北京反对",
+      "url": "https://www.dw.com/zh/突破中国反对-台湾获邀出席太平洋岛国论坛峰会/a-78287391?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "太平洋岛国论坛宣布邀请台湾出席本月在帕劳举行的领导人会议，秘书长称台湾是「重要发展伙伴」；此举突破中国方面的反对。",
+      "importance": 8
     }
   ],
-  "politics_briefs": [],
-  "editor_note": "",
-  "keywords": [],
+  "editor_note": "AI 安全与算力竞争同步升温，就业与地缘冲突信号交织。今日简报显示，技术迭代与政策不确定性并存，市场需要更谨慎地评估风险。",
+  "keywords": [
+    "OpenAI Astra",
+    "GPT-5.6 Sol",
+    "AMD收购Taalas",
+    "WeatherNext",
+    "美国就业",
+    "Meta罚款",
+    "美军导弹库存",
+    "太平洋岛国论坛"
+  ],
   "trading": {
-    "market_overview": "整体来看，美股大盘技术面偏强：标普 500 距 52 周高点仅 -0.46%，纳斯达克 100 周涨 5.09%，但内部出现分化——微软 RSI 78.1 显著超买，特斯拉仍处空头排列。加密市场在恐慌贪婪指数 30（恐慌）的背景下出现企稳迹象，BTC、ETH 周涨 2.35%、3.21%，总市值 2.30T USD，BTC 主导率 56.7%；中概股普遍反弹，阿里巴巴、拼多多站上 20/50 日均线，京东 RSI 74.3 进入超买。商品与外汇方面，黄金期货单日大涨 3.72%、5 日涨 8.66%，但仍在 200 日均线下方；WTI 原油 5 日跌 7.67% 且 MACD 死叉；美元指数走弱至 99.6，RSI 36.2，美元兑人民币贴近 52 周低点。综合看，权益与加密出现短线企稳信号，商品与汇率则呈分化，技术面以超买、金叉和空头排列并存为特征。",
+    "market_overview": "整体来看，当前全球市场技术指标呈现多空分化格局。美股方面，指数与科技股动能偏强：SPY 站上全部主要均线，MACD 金叉，距 52 周高点仅 0.46%；NVDA 维持多头排列，近 5 日涨 11.56%；但个股分化，TSLA 空头排列、RSI 41.4，META 亦偏弱，MSFT 出现 RSI 78.1 超买信号。加密资产方面，恐慌贪婪指数为 30（恐慌），总市值 2.30T USD，24 小时变化仅 0.26%，BTC 主导率 56.7%、ETH 占比 10.1%；BTC 与 ETH 均站在 20/50 日均线上方但低于 200 日均线，MACD 动能中性，整体处于方向选择期。中概股技术面偏修复：BABA、PDD 站上 20 与 50 日均线，RSI 66-68，MACD 金叉，但均低于 200 日均线；京东 RSI 74.3 出现超买。商品与外汇方面，黄金期货近 5 日大涨 8.66%，RSI 64.9，技术面偏多；WTI 原油跌破短期均线且 MACD 死叉，偏空；美元兑人民币空头排列、RSI 32.3 接近超卖；美元指数 DXY 同样偏弱。VIX 降至 14.9 并低于各均线，显示市场恐慌情绪较低。整体技术信号显示：风险资产中科技与中概偏强，能源和美元偏弱，加密中性。",
     "watchlist": [
       {
-        "symbol": "SPY",
-        "display_name": "标普 500 ETF (SPY)",
+        "symbol": "NVDA",
+        "display_name": "英伟达 (NVDA)",
         "stance": "偏上行",
-        "rationale": "标普 500 ETF 当前价 773.26，高于 SMA20(750.17) 与 SMA50(747.19)，距 52 周高点仅 -0.46%，5 日涨幅 3.51%。RSI 66 处于偏强区间，MACD 线 6.19 位于信号线 2.85 上方，形成金叉且红柱扩张，技术面呈多头排列，偏上行。"
+        "rationale": "当前价 223.96 美元，RSI 为 64.4 处于正常偏强区间；MACD 值 3.0518 高于信号线 0.5513，保持金叉形态；价格高于 SMA20（206.82）、SMA50（206.07）与 SMA200（193.98），均线呈多头排列；近 5 日累计上涨 11.56%，近 1 日上涨 2.27%。技术面显示上行动量占优，但距 52 周高点尚有 5.32% 距离，需留意高位回调风险。"
       },
       {
-        "symbol": "MSFT",
-        "display_name": "微软 (MSFT)",
-        "stance": "中性",
-        "rationale": "微软当前价 499.99，5 日上涨 7.59%，MACD 正值 27.56 高于信号 16.26，中线动能仍强；但 RSI 78.1 已进入超买区，且 1 日涨幅仅 0.03%，短期偏离均线幅度较大，趋势字段为中性，技术状态评价为中性。"
+        "symbol": "BABA",
+        "display_name": "阿里巴巴 (BABA)",
+        "stance": "偏上行",
+        "rationale": "阿里巴巴现价 128.41 美元，RSI 为 67.9 接近超买但未突破 70；MACD 值 4.2883 高于信号线 2.8414，呈金叉状态；价格站上 SMA20（118.99）与 SMA50（113.81），但仍低于 SMA200（140.09）；近 5 日上涨 5.04%，近 1 日上涨 1.26%。短期技术结构偏强，中概股情绪修复明显，但长期趋势尚未完全转多。"
       },
       {
         "symbol": "TSLA",
         "display_name": "特斯拉 (TSLA)",
         "stance": "偏下行",
-        "rationale": "特斯拉当前价 328.58，低于 SMA20(343.33)、SMA50(380.44) 与 SMA200(408.80)，呈空头排列；距 52 周高 -34.13%，RSI 41.4 显示偏弱，MACD 在零轴下方但柱状值 -19.76 较信号 -20.78 略有收窄，整体技术面偏下行。"
+        "rationale": "特斯拉现价 328.58 美元，RSI 为 41.4 低于中性值 50；价格低于 SMA20（343.33）、SMA50（380.44）与 SMA200（408.80），均线呈空头排列；MACD 值 -19.7578 虽高于信号线 -20.7825 出现金叉，但仍在零轴下方，动能修复有限；近 5 日上涨 5.58% 属超跌反弹。整体技术面偏下行，空头结构尚未改变。"
       },
       {
-        "symbol": "PDD",
-        "display_name": "拼多多 (PDD)",
-        "stance": "偏上行",
-        "rationale": "拼多多当前价 91.76，站上 SMA20(86.75) 与 SMA50(83.76)，5 日涨幅 3.61%，RSI 66.3 动能偏强；MACD 线 1.95 高于信号线 1.27，柱状为正，技术面延续反弹格局，偏上行。"
-      },
-      {
-        "symbol": "USDCNY=X",
-        "display_name": "美元/人民币 (USDCNY)",
+        "symbol": "CL=F",
+        "display_name": "WTI 原油期货 (CL=F)",
         "stance": "偏下行",
-        "rationale": "美元兑人民币现报 6.75，逼近 52 周低点（距低点涨幅仅 0.16%），RSI 32.3 接近超卖；价格低于 SMA20(6.76)、SMA50(6.77) 与 SMA200(6.90)，呈空头排列，MACD 负值且持续走弱，技术面偏下行。"
+        "rationale": "WTI 原油期货现价 78.18 美元，RSI 为 46.7 中性偏弱；价格跌破 SMA20（81.82）与 SMA50（80.47），仅高于 SMA200（76.28）；MACD 值 -0.4533 低于信号线 0.2670，确认死叉；近 5 日大幅下跌 7.67%，近 1 日反弹 1.15%。短期动能向下，技术面偏空，但 200 日均线可能提供一定支撑。"
+      },
+      {
+        "symbol": "ETH-USD",
+        "display_name": "以太坊 (ETH-USD)",
+        "stance": "中性",
+        "rationale": "以太坊现价 1918.19 美元，RSI 为 56.9 处于中性区间；价格高于 SMA20（1895.95）与 SMA50（1798.47），但低于 SMA200（2055.42），长短趋势矛盾；MACD 值 21.3308 低于信号线 23.8367，柱状动能偏弱；近 5 日上涨 3.23%。结合加密恐慌贪婪指数 30（恐慌），市场情绪谨慎，技术面维持中性震荡格局。"
       }
     ],
-    "risk_caveat": "本报告仅基于公开价格数据计算的技术指标进行客观描述，不构成任何投资建议或预测。过去走势不代表未来表现，技术指标存在滞后性与局限性，仅供技术指标解读参考。市场有风险，决策需谨慎。",
+    "risk_caveat": "本报告仅为基于公开行情数据的技术指标解读，不构成任何投资建议。过去走势不代表未来表现，市场存在不确定性，请注意风险。仅供技术指标解读参考。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -355,18 +386,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 64949.74,
-        "pct1Day": 0.10719542011600516,
-        "pct5Day": 2.346077031932184,
-        "pct52WeekHigh": -48.53349183549321,
-        "pct52WeekLow": 12.471433094052495,
-        "sma20": 64406.328515625,
-        "sma50": 63306.2109375,
-        "sma200": 70252.8355078125,
-        "rsi14": 54.8806879717539,
-        "macd": 126.10051102641592,
-        "macdSignal": 50.60756757250802,
-        "macdHistogram": 75.4929434539079,
+        "currentPrice": 64953.01,
+        "pct1Day": 0.11223547922977817,
+        "pct5Day": 2.3512298111718675,
+        "pct52WeekHigh": -48.53090067066794,
+        "pct52WeekLow": 12.477095650765085,
+        "sma20": 64406.4921875,
+        "sma50": 63306.27640625,
+        "sma200": 70252.851875,
+        "rsi14": 54.89735851227279,
+        "macd": 126.36163994379604,
+        "macdSignal": 50.65979335598405,
+        "macdHistogram": 75.70184658781199,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": [
@@ -383,18 +414,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1917.85,
-        "pct1Day": 0.23888727435362908,
-        "pct5Day": 3.2069593860855194,
-        "pct52WeekHigh": -61.284752327184364,
-        "pct52WeekLow": 27.304529946352012,
-        "sma20": 1895.9319152832031,
-        "sma50": 1798.4617456054686,
-        "sma200": 2055.420563354492,
-        "rsi14": 56.87943996221468,
-        "macd": 21.303711974682983,
-        "macdSignal": 23.831227307523047,
-        "macdHistogram": -2.527515332840064,
+        "currentPrice": 1918.19,
+        "pct1Day": 0.2566578099394647,
+        "pct5Day": 3.225256106992412,
+        "pct52WeekHigh": -61.27788881637343,
+        "pct52WeekLow": 27.327098729198312,
+        "sma20": 1895.9489135742188,
+        "sma50": 1798.468544921875,
+        "sma200": 2055.4222631835937,
+        "rsi14": 56.91928837978752,
+        "macd": 21.33083175522097,
+        "macdSignal": 23.836651263630646,
+        "macdHistogram": -2.505819508409676,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -405,18 +436,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 74.82,
-        "pct1Day": 1.59872778940977,
-        "pct5Day": 1.8323542926032153,
-        "pct52WeekHigh": -70.45139230338151,
-        "pct52WeekLow": 23.843990338778347,
-        "sma20": 74.53901062011718,
-        "sma50": 75.22075317382813,
-        "sma200": 83.78416202545166,
-        "rsi14": 50.88140847591725,
-        "macd": -0.6137921631282381,
-        "macdSignal": -0.657035343472832,
-        "macdHistogram": 0.043243180344593846,
+        "currentPrice": 74.89,
+        "pct1Day": 1.6937813973389257,
+        "pct5Day": 1.9276264765177162,
+        "pct52WeekHigh": -70.42374725474795,
+        "pct52WeekLow": 23.959856141019934,
+        "sma20": 74.54251060485839,
+        "sma50": 75.22215316772461,
+        "sma200": 83.78451202392579,
+        "rsi14": 51.109650757161056,
+        "macd": -0.6082081418886816,
+        "macdSignal": -0.6559185392249207,
+        "macdHistogram": 0.04771039733623916,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -708,13 +739,13 @@
       "timestamp": "2026-08-08T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2297529067551.569,
-      "total24hVolumeUsd": 48075225971.12172,
-      "marketCapChangePct24h": 0.28054202060847666,
-      "btcDominance": 56.74943672444075,
-      "ethDominance": 10.077342191878573,
+      "totalMarketCapUsd": 2297047114598.4766,
+      "total24hVolumeUsd": 47845427535.82606,
+      "marketCapChangePct24h": 0.25950615906174823,
+      "btcDominance": 56.744992498389514,
+      "ethDominance": 10.07530479160633,
       "activeCryptocurrencies": 18255
     },
-    "generated_at": "2026-08-08T09:54:35.187Z"
+    "generated_at": "2026-08-08T10:09:07.951Z"
   }
 }
